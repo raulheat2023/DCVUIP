@@ -3,7 +3,7 @@
 
 <head>
   <title>Destiny Child - Viewer</title>
-
+  
   <link rel="stylesheet" href="static/viewer.css">
   <link rel="stylesheet" href="static/childbutton-images.css">
   <link rel="stylesheet" href="static/select.css">
@@ -40,8 +40,7 @@
           <span class="pname">Destiny Child Viewer UI Proyect (DCVUIP)</span>
           <br>
           <span>Destiny Child is owned by Shiftup Corp</span>
-          <span>DCVUIP is based on <a href="https://live2d-dcg.github.io/gifChild.html">Destiny Child GIF Maker</a>
-            project by <b>ace012</b></span>,
+          <span>DCVUIP is based on <a href="https://live2d-dcg.github.io/gifChild.html">Destiny Child GIF Maker</a> project by <b>ace012</b></span>,
           <span>and Live2D cubism v2 api by <a href="https://github.com/live2d-dcg">Arsylk.</a></span>
           <br>
           <span>DCVUIP Source</span>
@@ -104,7 +103,7 @@
           <button id="btnBg05" class="bg-btn">bgcolor5</button>
         </div>
       </div>
-
+      
       <div class="input" style="opacity: 0;">
         <span>Model Name</span>
         <select id="childSelector" onChange="update()" name="" value="empty">
@@ -120,8 +119,7 @@
         <input id="width" type="number" name="width">
       </div>
       <div class="input" style="opacity: 0;"><span>height</span><input id="height" type="number" name="height"></div>
-      <div class="input" style="opacity: 0;"><span>Model Size</span><input id="mS" type="number" name="mS" step="0.1">
-      </div>
+      <div class="input" style="opacity: 0;"><span>Model Size</span><input id="mS" type="number" name="mS" step="0.1"></div>
       <div class="input"><span>Model Position X</span><input id="mX" type="number" name="mX" step="0.1"></div>
       <div class="input"><span>Model Position Y</span><input id="mY" type="number" name="mY" step="0.1"></div>
       <div class="reload-button" style="opacity: 0;">
@@ -160,30 +158,6 @@
 
   <script>
     let canvas = document.getElementById("canvas");
-    var ctx = document.getElementById("canvas");
-    var loading = true;
-    var loadingText = "Loading";
-
-    var event = new Event('Loading');
-
-    canvas.addEventListener('loading', function (e) {
-      // Quick and nasty
-      setInterval(function () {
-        if (loading) {
-          console.log("update");
-          ctx.fillStyle = "#FFF";
-          ctx.fillRect(0, 0, 400, 400);
-          ctx.font = '15pt Arial ';
-          ctx.fillStyle = "#000";
-          ctx.fillText(loadingText, 200, 200);
-          if (loadingText == "Loading...") {
-            loadingText = "Loading";
-          }
-          loadingText = loadingText + "."
-        }
-      }, 1);
-    }, false);
-    canvas.dispatchEvent(event);
   </script>
   <script>
     var searchParams = (new URL(window.location.href)).searchParams;
@@ -217,10 +191,10 @@
   </script>
 
   <script>
-    var scrollposition = $("#childButtons").scroll(function () {
-      scrollPos = $("#childButtons").scrollLeft();
-      console.log("position", scrollPos);
-    });
+var scrollposition =  $("#childButtons").scroll(function () {
+  scrollPos = $("#childButtons").scrollLeft();
+  console.log("position", scrollPos);
+});
 
     function changeChild(val, nam) {
       codechild = val;
@@ -244,7 +218,7 @@
       scrollh = JSON.parse(localStorage.getItem("scroll"));
       childvalue = JSON.parse(localStorage.getItem("value"));
       console.log("positionres", scrollh);
-      setTimeout(function () {
+      setTimeout(function(){
         document.getElementById("childButtons").scrollLeft = scrollh;
         document.getElementById(childvalue).classList.add("selected");
       }, 100);
