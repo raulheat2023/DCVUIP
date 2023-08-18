@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Destiny Child - Viewer</title>
+  
+  <link rel="stylesheet" href="static/viewer.css">
+  <link rel="stylesheet" href="static/childbutton-images.css">
+  <link rel="stylesheet" href="static/select.css">
+
+  <script src="static/js/live2dsdk/live2d.min.js"></script>
+  <script src="static/js/live2dsdk/Live2DFramework.js"></script>
+  <script src="static/js/live2dsdk/PlatformManager.js"></script>
+  <script src="static/js/live2dsdk/ModelSettingJson.js"></script>
+  <script src="static/js/live2dsdk/yukimiku.2d.js"></script>
+  <script src="static/js/live2dsdk/pngScript.js"></script>
+  <script type="text/javascript" src="static/jszip/dist/jszip.js"></script>
+  <script type="text/javascript" src="static/jszip/vendor/FileSaver.js"></script>
+  <script src='https://unpkg.com/panzoom@9.4.0/dist/panzoom.min.js'></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+<body onload="initModel('kr')" style="margin: 0; padding: 0;" id="body">
+  <main class="select-slider main">
+    <div id="childButtons" class="scrollbar items"></div>
+  </main>
+  <div id="clearbtn" class="clear-screen-button">
+    <button id="clearbutton" onclick="clearScreen()">
+      <img class="clear-button" src="static/images/icn_view_mode.png" alt="clear">
+      <img class="close-button" src="static/images/btn_x.png" alt="clear">
+    </button>
+  </div>
+  <div class="resetpanzoom">
+    <button onclick="resetpanzoom()">
+      <img class="reset" src="static/images/resetzoom.png" alt="clear"></button>
+  </div>
+  <div class="options-layer">
+    <div class="left-side-bar">
+      <p id="note"></p>
+      <!--
+
+      <div>grabLimit : <input id="grabLimit" type="number" name="grabLimit" value="100"></div>
+      <div>grabRate (ms) : <input id="grabRate" type="number" name="grabRate" value="30"></div>
+
+      <div>
+        <button type="button" name="attackHQLS"
+          onclick="javascript:getPNGsHQLS(document.getElementById('grabLimit').value, document.getElementById('grabRate').value, 'attack');">get
+          attack motion PNGs HQLS</button>
+        <button type="button" name="attackHQLS"
+          onclick="javascript:getPNGsHQLS(document.getElementById('grabLimit').value, document.getElementById('grabRate').value, 'idle');">get
+          idle motion PNGs HQLS</button>
+      </div>
+      <div>
+        <button type="button" name="attackLQHS"
+          onclick="javascript:getPNGsLQHS(document.getElementById('grabLimit').value, document.getElementById('grabRate').value, 'attack');">get
+          attack motion PNGs LQHS</button>
+        <button type="button" name="attackLQHS"
+          onclick="javascript:getPNGsLQHS(document.getElementById('grabLimit').value, document.getElementById('grabRate').value, 'idle');">get
+          idle motion PNGs LQHS</button>
+      </div>-->
+      <div class="type-selector">
+        <button id="navChilds" class="type-button" onclick="navChilds()">
+          Childs (4&#11088;,5&#11088;)
+        </button>
+        <button id="navMonsters" class="type-button" onclick="navMonsters()">
+          Childs (1&#11088;, 2&#11088;, 3&#11088;)
+        </button>
+        <button id="navSoulcarta" class="type-button" onclick="navSoulcarta()">
+          Soul Carta
+        </button>
+        <button id="navPuppets" class="type-button" onclick="navPuppets()">
+          Puppets
+        </button>
+        <button id="navHotsprings" class="type-button" onclick="navHotsprings()">
+          Hot Springs
+        </button>
+        <button id="navCutscenes" class="type-button" onclick="navCutscenes()">
+          Cutscenes
+        </button>
+      </div>
+      <div class="child-name">
+        <p id="childName" onload="data()"></p>
+      </div>
+    </div>
+    <div class="action-layer" onclick="totsugeki()"></div>
+    <div class="right-side-bar">
+      <div class="input">
+        <span>Background</span>
+        <div class="background-selector">
+          <button id="btnBg01" class="bg-btn">bgcolor1</button>
+          <button id="btnBg02" class="bg-btn">bgcolor2</button>
+          <button id="btnBg03" class="bg-btn">bgcolor3</button>
+          <button id="btnBg04" class="bg-btn">bgcolor4</button>
+          <button id="btnBg05" class="bg-btn">bgcolor5</button>
+        </div>
+      </div>
+      
+      <div class="input" style="opacity: 0;">
+        <span>Model Name</span>
+        <select id="childSelector" onChange="update()" name="" value="empty">
+          <option value="">Select Child</option>
+        </select>
+      </div>
+      <div class="input" style="opacity: 0;">
+        <span>Code</span>
+        <input class="code" id="mN" type="text" name="mN" autofocus=true disabled value="c000_01">
+      </div>
+      <div class="input" style="opacity: 0;">
+        <span>width</span>
+        <input id="width" type="number" name="width">
+      </div>
+      <div class="input" style="opacity: 0;"><span>height</span><input id="height" type="number" name="height"></div>
+      <div class="input" style="opacity: 0;"><span>Model Size</span><input id="mS" type="number" name="mS" step="0.1"></div>
+      <div class="input" style="opacity: 0;"><span>Model Position X</span><input id="mX" type="number" name="mX" step="0.1"></div>
+      <div class="input" style="opacity: 0;"><span>Model Position Y</span><input id="mY" type="number" name="mY" step="0.1"></div>
+      <div class="reload-button" style="opacity: 0;">
+        <button type="button" name="reload" onclick="javascript:reload();"></button>
+      </div>
+      <div id="output"></div>
+    </div>
+  </div>
+  <div class="panzoomcontainer">
+    <div class="canvas-container" id="scene">
+      <canvas id="canvas" class="maxwidth" width="1950px" height="1950px" onclick="totsugeki()"></canvas>
+    </div>
+  </div>
+  <select id="modelMotions" class="select-motions" style="display: none;"></select>
+  <div class="background-container">
+    <div class="animated-background" id="background"></div>
+  </div>
+
+  <script type="text/javascript">
+    // url data
+    width = document.getElementById('width').value;
+    height = document.getElementById('height').value;
+    mS = document.getElementById('mS').value;
+    mX = document.getElementById('mX').value;
+    mY = document.getElementById('mY').value;
+    // load data
+    $(document).on('ready', function () {
+      $.getJSON("static/json/cutscenes.json", function (data) {
+        $.each(data, function (id, code, name) {
+          $("#childButtons").append('<button value="' + code.code + '" id="' + code.code + '" class="childbutton item ' + code.code + '" name="' + code.name + '" onClick="changeChild(this.value, this.name)"><span class="text">' + code.name + '</span><span class="background"></span></button>');
+        });
+      }); // close getJSON()
+      document.getElementById("navCutscenes").classList.toggle("navactive");
+    });
+  </script>
+
+  <script>
+    let canvas = document.getElementById("canvas");
+  </script>
+  <script>
+    var searchParams = (new URL(window.location.href)).searchParams;
+    document.getElementById('mN').value = searchParams.get('mN') || 'c000_01';
+    document.getElementById('width').value = searchParams.get('width') || 1950;
+    document.getElementById('height').value = searchParams.get('height') || 1950;
+    document.getElementById('mS').value = searchParams.get('mS') || 1;
+    document.getElementById('mX').value = searchParams.get('mX') || 0;
+    document.getElementById('mY').value = searchParams.get('mY') || 0;
+  </script>
+
+  <script>
+    function reload() {
+      select = document.getElementById('childSelector');
+      selectedChild = select.value;
+      childNamen = select.options[select.selectedIndex].text;
+      mN = document.getElementById('mN').value;
+      width = document.getElementById('width').value;
+      height = document.getElementById('height').value;
+      mS = document.getElementById('mS').value;
+      mX = document.getElementById('mX').value;
+      mY = document.getElementById('mY').value;
+      newLink = location.protocol + '//' + location.host + location.pathname;
+      newLink = newLink + '?mN=' + mN + '&width=' + width + '&height=' + height + '&mS=' + mS + '&mX=' + mX + '&mY=' + mY + '&NameID=' + selectedChild;
+      location.href = newLink;
+      childNamen = select.options[select.selectedIndex].text;
+      //localstorage
+      localStorage.setItem("name", JSON.stringify(childNamen));
+      localStorage.setItem("value", JSON.stringify(mN));
+    };
+  </script>
+
+  <script>
+var scrollposition =  $("#childButtons").scroll(function () {
+  scrollPos = $("#childButtons").scrollLeft();
+  console.log("position", scrollPos);
+});
+
+    function changeChild(val, nam) {
+      codechild = val;
+      namechild = nam;
+      console.log(codechild);
+      width = document.getElementById('width').value;
+      height = document.getElementById('height').value;
+      mS = document.getElementById('mS').value;
+      mX = document.getElementById('mX').value;
+      mY = document.getElementById('mY').value;
+      newLink = location.protocol + '//' + location.host + location.pathname;
+      newLink = newLink + '?mN=' + codechild + '&width=' + width + '&height=' + height + '&mS=' + mS + '&mX=' + mX + '&mY=' + mY;
+      location.href = newLink;
+      //localstorage
+      localStorage.setItem("name", JSON.stringify(namechild));
+      localStorage.setItem("scroll", scrollPos);
+    };
+    //scroll
+    window.addEventListener("load", function (event) {
+      scrollh = JSON.parse(localStorage.getItem("scroll"));
+      console.log("positionres", scrollh);
+      setTimeout(function(){
+        document.getElementById("childButtons").scrollLeft = scrollh;
+      }, 100);
+      getelemenbycl
+    });
+
+    //navegation
+    function navChilds() {
+      localStorage.clear("name");
+      newLink = location.protocol + '//' + location.host + "/vieWerK.html";
+      newLink = newLink + '?mN=c000_01&width=1950&height=1950&mS=1&mX=0&mY=0';
+      location.href = newLink;
+    }
+    function navMonsters() {
+      localStorage.clear("name")
+      newLink = location.protocol + '//' + location.host + "/vieWerM.html";
+      newLink = newLink + '?mN=m007_00&width=1950&height=1950&mS=1&mX=0&mY=0';
+      location.href = newLink;
+    }
+    function navSoulcarta() {
+      localStorage.clear("name")
+      newLink = location.protocol + '//' + location.host + "/vieWerSC.html";
+      newLink = newLink + '?mN=ig001_01&width=1950&height=1950&mS=1&mX=0&mY=0';
+      location.href = newLink;
+    }
+    function navPuppets() {
+      localStorage.clear("name")
+      newLink = location.protocol + '//' + location.host + "/vieWerP.html";
+      newLink = newLink + '?mN=xc044_10&width=1950&height=1950&mS=1&mX=0&mY=0';
+      location.href = newLink;
+    }
+    function navHotsprings() {
+      localStorage.clear("name")
+      newLink = location.protocol + '//' + location.host + "/vieWerHS.html";
+      newLink = newLink + '?mN=sc001_01&width=1950&height=1950&mS=1&mX=0&mY=0';
+      location.href = newLink;
+    }
+    function navCutscenes() {
+      localStorage.clear("name")
+      newLink = location.protocol + '//' + location.host + "/vieWerCS.html";
+      newLink = newLink + '?mN=v003_01&width=1950&height=1950&mS=1&mX=0&mY=0';
+      location.href = newLink;
+    }
+  </script>
+
+  <script>
+    $(document).on('ready', function () {
+      childselector = document.getElementById("childSelector");
+      childname = JSON.parse(localStorage.getItem("name"));
+      selectvalue = JSON.parse(localStorage.getItem("value"));
+      document.getElementById("childName").innerHTML = childname;
+    });
+  </script>
+
+  <script>
+    function update() {
+      var select = document.getElementById('childSelector');
+      var option = select.options[select.selectedIndex];
+      document.getElementById('mN').value = option.value;
+    }
+    update();
+  </script>
+
+  <script>
+    const btn1 = document.getElementById('btnBg01');
+    const btn2 = document.getElementById('btnBg02');
+    const btn3 = document.getElementById('btnBg03');
+    const btn4 = document.getElementById('btnBg04');
+    const btn5 = document.getElementById('btnBg05');
+
+    btn1.addEventListener('click', function onClick(event) {
+      document.getElementById("background").style.backgroundImage = "url('static/bg-images/awaken_bg.png')";
+      document.getElementById("background").className = "animated-background";
+    });
+
+    btn2.addEventListener('click', function onClick(event) {
+      document.getElementById("background").style.backgroundImage = "url('static/bg-images/bg_02.webp')";
+      document.getElementById("background").className = "static-background";
+    });
+
+    btn3.addEventListener('click', function onClick(event) {
+      document.getElementById("background").style.backgroundImage = "url('static/bg-images/bg_03.webp')";
+      document.getElementById("background").className = "static-background";
+    });
+    btn4.addEventListener('click', function onClick(event) {
+      document.getElementById("background").style.backgroundImage = "url('static/bg-images/bg_04.webp')";
+      document.getElementById("background").className = "static-background";
+    });
+    btn5.addEventListener('click', function onClick(event) {
+      document.getElementById("background").style.backgroundImage = "url('static/bg-images/bg_05.webp')";
+      document.getElementById("background").className = "static-background";
+    });
+  </script>
+
+  <script>
+    function clearScreen() {
+      var element = document.getElementById("body");
+      element.classList.toggle("clear");
+    }
+  </script>
+
+  <script>
+    // just grab a DOM element
+    var element = document.querySelector('#scene')
+    // And pass it to panzoom
+    panzoom(element, {
+      maxZoom: 4,
+      minZoom: 0.5,
+      bounds: true,
+      boundsPadding: .4
+    })
+
+    function resetpanzoom() {
+      panzoom(element, {
+        initialX: 500,
+        initialY: 500,
+        initialZoom: 1,
+      })
+    }
+  </script>
+
+  <script src="static/js/slide.js"></script>
+</body>
+
+</html>

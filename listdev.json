@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "code": "c000_01",
+      "name": "Master"
+    },
+    {
+      "id": 2,
+      "code": "c000_10",
+      "name": "Mysterious Master"
+    },
+    {
+      "id": 3,
+      "code": "c000_11",
+      "name": "Girl's School Master"
+    },
+    {
+      "id": 4,
+      "code": "c000_12",
+      "name": "Swimsuit Master"
+    },
+    {
+      "id": 5,
+      "code": "c000_13",
+      "name": "Summer Pants Master"
+    },
+    {
+      "id": 6,
+      "code": "c000_14",
+      "name": "Dress Master"
+    },
+    {
+      "id": 7,
+      "code": "c000_15",
+      "name": "Master"
+    },
+    {
+      "id": 8,
+      "code": "c000_16",
+      "name": "Master"
+    },
+    {
+      "id": 9,
+      "code": "c000_17",
+      "name": "Master"
+    },
+    {
+      "id": 10,
+      "code": "c000_18",
+      "name": "Master"
+    },
+    {
+      "id": 11,
+      "code": "c001_01",
+      "name": "Mona"
+    }
+   ]

@@ -1,0 +1,7827 @@
+[
+  {
+    "id": 1,
+    "code": "c000_01",
+    "name": "Master"
+  },
+  {
+    "id": 2,
+    "code": "c000_10",
+    "name": "Mysterious Master"
+  },
+  {
+    "id": 3,
+    "code": "c000_11",
+    "name": "Girl's School Master"
+  },
+  {
+    "id": 4,
+    "code": "c000_12",
+    "name": "Swimsuit Master"
+  },
+  {
+    "id": 5,
+    "code": "c000_13",
+    "name": "Summer Pants Master"
+  },
+  {
+    "id": 6,
+    "code": "c000_14",
+    "name": "Dress Master"
+  },
+  {
+    "id": 7,
+    "code": "c000_15",
+    "name": "Master"
+  },
+  {
+    "id": 8,
+    "code": "c000_16",
+    "name": "Master"
+  },
+  {
+    "id": 9,
+    "code": "c000_17",
+    "name": "Master"
+  },
+  {
+    "id": 10,
+    "code": "c000_18",
+    "name": "Master"
+  },
+  {
+    "id": 11,
+    "code": "c001_01",
+    "name": "Mona"
+  },
+  {
+    "id": 12,
+    "code": "c001_02",
+    "name": "Battlesuit Mona"
+  },
+  {
+    "id": 13,
+    "code": "c001_10",
+    "name": "Mona"
+  },
+  {
+    "id": 14,
+    "code": "c001_11",
+    "name": "Mona"
+  },
+  {
+    "id": 15,
+    "code": "c001_12",
+    "name": "Seaside Mona"
+  },
+  {
+    "id": 16,
+    "code": "c001_14",
+    "name": "Teacher Mona"
+  },
+  {
+    "id": 17,
+    "code": "c001_16",
+    "name": "Swimsuit Mona"
+  },
+  {
+    "id": 18,
+    "code": "c001_17",
+    "name": "Petit Mona"
+  },
+  {
+    "id": 19,
+    "code": "c002_00",
+    "name": "Lisa Lisa"
+  },
+  {
+    "id": 20,
+    "code": "c002_01",
+    "name": "Lisa"
+  },
+  {
+    "id": 21,
+    "code": "c002_02",
+    "name": "Battlesuit Lisa"
+  },
+  {
+    "id": 22,
+    "code": "c002_10",
+    "name": "Seaside Lisa"
+  },
+  {
+    "id": 23,
+    "code": "c002_11",
+    "name": "Student Lisa"
+  },
+  {
+    "id": 24,
+    "code": "c002_12",
+    "name": "Summer Camp Lisa"
+  },
+  {
+    "id": 25,
+    "code": "c003_01",
+    "name": "Davi"
+  },
+  {
+    "id": 26,
+    "code": "c003_02",
+    "name": "Battlesuit Davi"
+  },
+  {
+    "id": 27,
+    "code": "c003_10",
+    "name": "Seaside Davi"
+  },
+  {
+    "id": 28,
+    "code": "c003_11",
+    "name": "Student Davi"
+  },
+  {
+    "id": 29,
+    "code": "c003_12",
+    "name": "Davi"
+  },
+  {
+    "id": 30,
+    "code": "c003_13",
+    "name": "Summer Dream Davi"
+  },
+  {
+    "id": 31,
+    "code": "c003_14",
+    "name": "Lucifer Davi"
+  },
+  {
+    "id": 32,
+    "code": "c003_15",
+    "name": "Satan Davi"
+  },
+  {
+    "id": 33,
+    "code": "c003_16",
+    "name": "Crimson Davi"
+  },
+  {
+    "id": 34,
+    "code": "c003_17",
+    "name": "Mini Davi"
+  },
+  {
+    "id": 35,
+    "code": "c003_18",
+    "name": "Cheerleader Davi"
+  },
+  {
+    "id": 36,
+    "code": "c003_89",
+    "name": "Lucifer Davi"
+  },
+  {
+    "id": 37,
+    "code": "c004_00",
+    "name": "Human Cheoyong"
+  },
+  {
+    "id": 38,
+    "code": "c004_01",
+    "name": "Neighborly Cheoyong"
+  },
+  {
+    "id": 39,
+    "code": "c004_02",
+    "name": "Warmharted Cheoyong"
+  },
+  {
+    "id": 40,
+    "code": "c005_00",
+    "name": "Human Mars"
+  },
+  {
+    "id": 41,
+    "code": "c005_01",
+    "name": "Zooming Mars"
+  },
+  {
+    "id": 42,
+    "code": "c005_02",
+    "name": "Rampaging Mars"
+  },
+  {
+    "id": 43,
+    "code": "c007_00",
+    "name": "Human Phoenix"
+  },
+  {
+    "id": 44,
+    "code": "c007_01",
+    "name": "Hot Phoenix"
+  },
+  {
+    "id": 45,
+    "code": "c007_02",
+    "name": "Fiery Phoenix"
+  },
+  {
+    "id": 46,
+    "code": "c008_00",
+    "name": "Human Frigga"
+  },
+  {
+    "id": 47,
+    "code": "c008_01",
+    "name": "Warrior Frigga"
+  },
+  {
+    "id": 48,
+    "code": "c008_02",
+    "name": "Militant Frigga"
+  },
+  {
+    "id": 49,
+    "code": "c009_00",
+    "name": "Human Hector"
+  },
+  {
+    "id": 50,
+    "code": "c009_01",
+    "name": "Mercenary Hector"
+  },
+  {
+    "id": 51,
+    "code": "c009_02",
+    "name": "Fixer Hector"
+  },
+  {
+    "id": 52,
+    "code": "c010_00",
+    "name": "Human Demeter"
+  },
+  {
+    "id": 53,
+    "code": "c010_01",
+    "name": "Bluffing Demeter"
+  },
+  {
+    "id": 54,
+    "code": "c010_02",
+    "name": "Vain Demeter"
+  },
+  {
+    "id": 55,
+    "code": "c011_00",
+    "name": "Human Deino"
+  },
+  {
+    "id": 56,
+    "code": "c011_01",
+    "name": "Volunteer Deino"
+  },
+  {
+    "id": 57,
+    "code": "c011_02",
+    "name": "Devoted Deino"
+  },
+  {
+    "id": 58,
+    "code": "c012_00",
+    "name": "Human Agamemnon"
+  },
+  {
+    "id": 59,
+    "code": "c012_01",
+    "name": "Hotblooded Agamemnon"
+  },
+  {
+    "id": 60,
+    "code": "c012_02",
+    "name": "Final Agamemnon"
+  },
+  {
+    "id": 61,
+    "code": "c013_00",
+    "name": "Human Artemis"
+  },
+  {
+    "id": 62,
+    "code": "c013_01",
+    "name": "Moonless Artemis"
+  },
+  {
+    "id": 63,
+    "code": "c013_02",
+    "name": "Lunar Artemis"
+  },
+  {
+    "id": 64,
+    "code": "c014_00",
+    "name": "Human Astrea"
+  },
+  {
+    "id": 65,
+    "code": "c014_01",
+    "name": "Starry Astrea"
+  },
+  {
+    "id": 66,
+    "code": "c014_02",
+    "name": "Galaxy Astrea"
+  },
+  {
+    "id": 67,
+    "code": "c015_01",
+    "name": "Seasonal Helena"
+  },
+  {
+    "id": 68,
+    "code": "c017_00",
+    "name": "Puppy Cu Sith"
+  },
+  {
+    "id": 69,
+    "code": "c017_01",
+    "name": "Guard Dog Cu Sith"
+  },
+  {
+    "id": 70,
+    "code": "c017_02",
+    "name": "Defenser Cu Sith"
+  },
+  {
+    "id": 71,
+    "code": "c018_00",
+    "name": "Human Korra"
+  },
+  {
+    "id": 72,
+    "code": "c018_01",
+    "name": "Little Korra"
+  },
+  {
+    "id": 73,
+    "code": "c018_02",
+    "name": "Immature Korra"
+  },
+  {
+    "id": 74,
+    "code": "c019_00",
+    "name": "Human Eris"
+  },
+  {
+    "id": 75,
+    "code": "c019_01",
+    "name": "Frenzied Eris"
+  },
+  {
+    "id": 76,
+    "code": "c019_02",
+    "name": "Raging Eris"
+  },
+  {
+    "id": 77,
+    "code": "c020_00",
+    "name": "Human Fortuna"
+  },
+  {
+    "id": 78,
+    "code": "c020_01",
+    "name": "Dangerous Fortuna"
+  },
+  {
+    "id": 79,
+    "code": "c020_02",
+    "name": "Gambling Fortuna"
+  },
+  {
+    "id": 80,
+    "code": "c022_00",
+    "name": "Human Mayahuel"
+  },
+  {
+    "id": 81,
+    "code": "c022_01",
+    "name": "Lazy Mayahuel"
+  },
+  {
+    "id": 82,
+    "code": "c022_02",
+    "name": "Woeful Mayahuel"
+  },
+  {
+    "id": 83,
+    "code": "c022_10",
+    "name": "Maid Mood Mayahuel"
+  },
+  {
+    "id": 84,
+    "code": "c023_00",
+    "name": "Camineu"
+  },
+  {
+    "id": 85,
+    "code": "c023_01",
+    "name": "Camineu"
+  },
+  {
+    "id": 86,
+    "code": "c024_00",
+    "name": "Neighbor Rufus"
+  },
+  {
+    "id": 87,
+    "code": "c024_01",
+    "name": "Rufus"
+  },
+  {
+    "id": 88,
+    "code": "c024_02",
+    "name": "Arch Duke Rufus"
+  },
+  {
+    "id": 89,
+    "code": "c026_00",
+    "name": "Human Eos"
+  },
+  {
+    "id": 90,
+    "code": "c026_01",
+    "name": "Delightful Eos"
+  },
+  {
+    "id": 91,
+    "code": "c026_02",
+    "name": "Delirious Eos"
+  },
+  {
+    "id": 92,
+    "code": "c027_00",
+    "name": "Human Cynthia"
+  },
+  {
+    "id": 93,
+    "code": "c027_01",
+    "name": "Awakened Cynthia"
+  },
+  {
+    "id": 94,
+    "code": "c027_02",
+    "name": "Genuine Cynthia"
+  },
+  {
+    "id": 95,
+    "code": "c028_00",
+    "name": "Human Leda"
+  },
+  {
+    "id": 96,
+    "code": "c028_01",
+    "name": "Successful Leda"
+  },
+  {
+    "id": 97,
+    "code": "c028_02",
+    "name": "Shining Leda"
+  },
+  {
+    "id": 98,
+    "code": "c028_10",
+    "name": "Day Dream Leda"
+  },
+  {
+    "id": 99,
+    "code": "c029_00",
+    "name": "Human Selene"
+  },
+  {
+    "id": 100,
+    "code": "c029_01",
+    "name": "Night Selene"
+  },
+  {
+    "id": 101,
+    "code": "c029_02",
+    "name": "Lunar Selene"
+  },
+  {
+    "id": 102,
+    "code": "c030_00",
+    "name": "Human Maiden Detective"
+  },
+  {
+    "id": 103,
+    "code": "c030_01",
+    "name": "Roaming Maiden Detective"
+  },
+  {
+    "id": 104,
+    "code": "c030_02",
+    "name": "Tom-Boy Maiden Detective"
+  },
+  {
+    "id": 105,
+    "code": "c031_00",
+    "name": "Human Freyja"
+  },
+  {
+    "id": 106,
+    "code": "c031_01",
+    "name": "Innocent Freyja"
+  },
+  {
+    "id": 107,
+    "code": "c031_02",
+    "name": "Pure Freyja"
+  },
+  {
+    "id": 108,
+    "code": "c032_00",
+    "name": "Human Alecto"
+  },
+  {
+    "id": 109,
+    "code": "c032_01",
+    "name": "Lively Alecto"
+  },
+  {
+    "id": 110,
+    "code": "c032_02",
+    "name": "Non-Stop Alecto"
+  },
+  {
+    "id": 111,
+    "code": "c033_00",
+    "name": "Human Diana"
+  },
+  {
+    "id": 112,
+    "code": "c033_01",
+    "name": "Tranquil Diana"
+  },
+  {
+    "id": 113,
+    "code": "c033_02",
+    "name": "Reclusive Diana"
+  },
+  {
+    "id": 114,
+    "code": "c034_00",
+    "name": "Human Mnemosyne"
+  },
+  {
+    "id": 115,
+    "code": "c034_01",
+    "name": "Lazy Mnemosyne"
+  },
+  {
+    "id": 116,
+    "code": "c034_02",
+    "name": "Haughty Mnemosyne"
+  },
+  {
+    "id": 117,
+    "code": "c035_00",
+    "name": "Human Persephone"
+  },
+  {
+    "id": 118,
+    "code": "c035_01",
+    "name": "Dawn Persephone"
+  },
+  {
+    "id": 119,
+    "code": "c035_02",
+    "name": "Bound Persephone"
+  },
+  {
+    "id": 120,
+    "code": "c036_00",
+    "name": "Human Hermes"
+  },
+  {
+    "id": 121,
+    "code": "c036_01",
+    "name": "Squandering Hermes"
+  },
+  {
+    "id": 122,
+    "code": "c036_02",
+    "name": "Buyer Hermes"
+  },
+  {
+    "id": 123,
+    "code": "c036_10",
+    "name": "Collector Hermes"
+  },
+  {
+    "id": 124,
+    "code": "c037_00",
+    "name": "Human Judas"
+  },
+  {
+    "id": 125,
+    "code": "c037_01",
+    "name": "Judas"
+  },
+  {
+    "id": 126,
+    "code": "c037_02",
+    "name": "Dark Lord Judas"
+  },
+  {
+    "id": 127,
+    "code": "c038_00",
+    "name": "Human Calypso"
+  },
+  {
+    "id": 128,
+    "code": "c038_01",
+    "name": "Spiteful Calypso"
+  },
+  {
+    "id": 129,
+    "code": "c038_02",
+    "name": "Charming Calypso"
+  },
+  {
+    "id": 130,
+    "code": "c038_10",
+    "name": "Kr Base E Calypso"
+  },
+  {
+    "id": 131,
+    "code": "c038_11",
+    "name": "Kr Awaken S Calypso"
+  },
+  {
+    "id": 132,
+    "code": "c039_00",
+    "name": "Human Morrigan"
+  },
+  {
+    "id": 133,
+    "code": "c039_01",
+    "name": "Furious Morrigan"
+  },
+  {
+    "id": 134,
+    "code": "c039_02",
+    "name": "Devout Morrigan"
+  },
+  {
+    "id": 135,
+    "code": "c040_00",
+    "name": "Human Shamash"
+  },
+  {
+    "id": 136,
+    "code": "c040_01",
+    "name": "Lawful Shamash"
+  },
+  {
+    "id": 137,
+    "code": "c040_02",
+    "name": "Law-Abiding Shamash"
+  },
+  {
+    "id": 138,
+    "code": "c041_00",
+    "name": "Human Tiamat"
+  },
+  {
+    "id": 139,
+    "code": "c041_01",
+    "name": "Night Tiamat"
+  },
+  {
+    "id": 140,
+    "code": "c041_02",
+    "name": "Abyssal Tiamat"
+  },
+  {
+    "id": 141,
+    "code": "c043_00",
+    "name": "Human Hera"
+  },
+  {
+    "id": 142,
+    "code": "c043_01",
+    "name": "Conceited Hera"
+  },
+  {
+    "id": 143,
+    "code": "c043_02",
+    "name": "Egotistical Hera"
+  },
+  {
+    "id": 144,
+    "code": "c043_10",
+    "name": "Shooting Star Hera"
+  },
+  {
+    "id": 145,
+    "code": "c044_00",
+    "name": "Human Pantheon"
+  },
+  {
+    "id": 146,
+    "code": "c044_01",
+    "name": "Aimless Pantheon"
+  },
+  {
+    "id": 147,
+    "code": "c044_02",
+    "name": "Vagabond Pantheon"
+  },
+  {
+    "id": 148,
+    "code": "c045_00",
+    "name": "Human Aria"
+  },
+  {
+    "id": 149,
+    "code": "c045_01",
+    "name": "Singing Aria"
+  },
+  {
+    "id": 150,
+    "code": "c045_02",
+    "name": "Delightful Aria"
+  },
+  {
+    "id": 151,
+    "code": "c045_10",
+    "name": "Christmas Aria"
+  },
+  {
+    "id": 152,
+    "code": "c045_11",
+    "name": "Highlight Aria"
+  },
+  {
+    "id": 153,
+    "code": "c045_12",
+    "name": "Break Time Aria"
+  },
+  {
+    "id": 154,
+    "code": "c045_13",
+    "name": "Lovely Star Aria"
+  },
+  {
+    "id": 155,
+    "code": "c045_89",
+    "name": "Highlight Aria"
+  },
+  {
+    "id": 156,
+    "code": "c047_00",
+    "name": "Human Hestia"
+  },
+  {
+    "id": 157,
+    "code": "c047_01",
+    "name": "Smoldering Hestia"
+  },
+  {
+    "id": 158,
+    "code": "c047_02",
+    "name": "White Flame Hestia"
+  },
+  {
+    "id": 159,
+    "code": "c048_00",
+    "name": "Human Neamhain"
+  },
+  {
+    "id": 160,
+    "code": "c048_01",
+    "name": "Melancholy Neamhain"
+  },
+  {
+    "id": 161,
+    "code": "c048_02",
+    "name": "Love-Hate Neamhain"
+  },
+  {
+    "id": 162,
+    "code": "c048_10",
+    "name": "Role of the Nurse Neamhain"
+  },
+  {
+    "id": 163,
+    "code": "c049_00",
+    "name": "Human Maat"
+  },
+  {
+    "id": 164,
+    "code": "c049_01",
+    "name": "Lost Maat"
+  },
+  {
+    "id": 165,
+    "code": "c049_02",
+    "name": "Blind Faith Maat"
+  },
+  {
+    "id": 166,
+    "code": "c049_10",
+    "name": "Abyssal Maat"
+  },
+  {
+    "id": 167,
+    "code": "c050_01",
+    "name": "Od"
+  },
+  {
+    "id": 168,
+    "code": "c050_02",
+    "name": "Tyrannical Od"
+  },
+  {
+    "id": 169,
+    "code": "c051_00",
+    "name": "Human Frej"
+  },
+  {
+    "id": 170,
+    "code": "c051_01",
+    "name": "Frej"
+  },
+  {
+    "id": 171,
+    "code": "c051_02",
+    "name": "Bad Boy Frej"
+  },
+  {
+    "id": 172,
+    "code": "c051_12",
+    "name": "Role of Tybalt Frej"
+  },
+  {
+    "id": 173,
+    "code": "c051_21",
+    "name": "Cursed Doll Frej"
+  },
+  {
+    "id": 174,
+    "code": "c052_00",
+    "name": "Human Berit"
+  },
+  {
+    "id": 175,
+    "code": "c052_01",
+    "name": "Dramatic Berit"
+  },
+  {
+    "id": 176,
+    "code": "c052_02",
+    "name": "Deceptive Berit"
+  },
+  {
+    "id": 177,
+    "code": "c053_00",
+    "name": "Human Metis"
+  },
+  {
+    "id": 178,
+    "code": "c053_01",
+    "name": "Hesitant Metis"
+  },
+  {
+    "id": 179,
+    "code": "c053_02",
+    "name": "Clairvoyant Metis"
+  },
+  {
+    "id": 180,
+    "code": "c053_10",
+    "name": "Metis"
+  },
+  {
+    "id": 181,
+    "code": "c053_11",
+    "name": "Metis"
+  },
+  {
+    "id": 182,
+    "code": "c054_00",
+    "name": "Human Legend"
+  },
+  {
+    "id": 183,
+    "code": "c054_01",
+    "name": "Guardian Legend"
+  },
+  {
+    "id": 184,
+    "code": "c054_02",
+    "name": "Heroic Legend"
+  },
+  {
+    "id": 185,
+    "code": "c055_00",
+    "name": "Human Minerva"
+  },
+  {
+    "id": 186,
+    "code": "c055_01",
+    "name": "Minerva"
+  },
+  {
+    "id": 187,
+    "code": "c055_02",
+    "name": "Minerva"
+  },
+  {
+    "id": 188,
+    "code": "c056_00",
+    "name": "Human Jeanne d'Arc"
+  },
+  {
+    "id": 189,
+    "code": "c056_01",
+    "name": "Martyr Jeanne d'Arc"
+  },
+  {
+    "id": 190,
+    "code": "c056_02",
+    "name": "Sacrificial Jeanne d'Arc"
+  },
+  {
+    "id": 191,
+    "code": "c057_00",
+    "name": "Human Lan Fei"
+  },
+  {
+    "id": 192,
+    "code": "c057_01",
+    "name": "Lan Fei"
+  },
+  {
+    "id": 193,
+    "code": "c057_02",
+    "name": "Blackstar Lan Fei"
+  },
+  {
+    "id": 194,
+    "code": "c057_10",
+    "name": "Night of Drinking Lan Fei"
+  },
+  {
+    "id": 195,
+    "code": "c057_87",
+    "name": "Night of Drinking Lan Fei"
+  },
+  {
+    "id": 196,
+    "code": "c057_88",
+    "name": "Blackstar Lan Fei"
+  },
+  {
+    "id": 197,
+    "code": "c057_89",
+    "name": "Lan Fei"
+  },
+  {
+    "id": 198,
+    "code": "c058_00",
+    "name": "Human Nirrti"
+  },
+  {
+    "id": 199,
+    "code": "c058_01",
+    "name": "Exorcist Nirrti"
+  },
+  {
+    "id": 200,
+    "code": "c058_02",
+    "name": "Rakshasa Nirrti"
+  },
+  {
+    "id": 201,
+    "code": "c060_00",
+    "name": "Human Tisiphone"
+  },
+  {
+    "id": 202,
+    "code": "c060_01",
+    "name": "Counterattack Tisiphone"
+  },
+  {
+    "id": 203,
+    "code": "c060_02",
+    "name": "Avenger Tisiphone"
+  },
+  {
+    "id": 204,
+    "code": "c061_00",
+    "name": "Human Siren"
+  },
+  {
+    "id": 205,
+    "code": "c061_01",
+    "name": "Underground Siren"
+  },
+  {
+    "id": 206,
+    "code": "c061_02",
+    "name": "Midnight Siren"
+  },
+  {
+    "id": 207,
+    "code": "c061_10",
+    "name": "Siren"
+  },
+  {
+    "id": 208,
+    "code": "c061_87",
+    "name": "Siren"
+  },
+  {
+    "id": 209,
+    "code": "c062_00",
+    "name": "Human Europa"
+  },
+  {
+    "id": 210,
+    "code": "c062_01",
+    "name": "Fragrant Europa"
+  },
+  {
+    "id": 211,
+    "code": "c062_02",
+    "name": "Alluring Europa"
+  },
+  {
+    "id": 212,
+    "code": "c063_00",
+    "name": "Human Freesia"
+  },
+  {
+    "id": 213,
+    "code": "c063_01",
+    "name": "Timid Freesia"
+  },
+  {
+    "id": 214,
+    "code": "c063_02",
+    "name": "Speculative Freesia"
+  },
+  {
+    "id": 215,
+    "code": "c064_00",
+    "name": "Human Medusa"
+  },
+  {
+    "id": 216,
+    "code": "c064_01",
+    "name": "Reigning Medusa"
+  },
+  {
+    "id": 217,
+    "code": "c064_02",
+    "name": "Conquering Medusa"
+  },
+  {
+    "id": 218,
+    "code": "c064_88",
+    "name": "Conquering Medusa"
+  },
+  {
+    "id": 219,
+    "code": "c064_89",
+    "name": "Reigning Medusa"
+  },
+  {
+    "id": 220,
+    "code": "c065_00",
+    "name": "Human Erato"
+  },
+  {
+    "id": 221,
+    "code": "c065_01",
+    "name": "Blooming Erato"
+  },
+  {
+    "id": 222,
+    "code": "c065_02",
+    "name": "Profuse Erato"
+  },
+  {
+    "id": 223,
+    "code": "c066_00",
+    "name": "Human Aten"
+  },
+  {
+    "id": 224,
+    "code": "c066_01",
+    "name": "Self-Righteous Aten"
+  },
+  {
+    "id": 225,
+    "code": "c066_02",
+    "name": "Machiavellian Aten"
+  },
+  {
+    "id": 226,
+    "code": "c067_00",
+    "name": "Human Thanatos"
+  },
+  {
+    "id": 227,
+    "code": "c067_01",
+    "name": "Unknown Thanatos"
+  },
+  {
+    "id": 228,
+    "code": "c067_02",
+    "name": "Trancendent Thanatos"
+  },
+  {
+    "id": 229,
+    "code": "c068_00",
+    "name": "Human Ambrosia"
+  },
+  {
+    "id": 230,
+    "code": "c068_01",
+    "name": "Challenger Ambrosia"
+  },
+  {
+    "id": 231,
+    "code": "c068_02",
+    "name": "Gourmet Ambrosia"
+  },
+  {
+    "id": 232,
+    "code": "c069_00",
+    "name": "Human Ptah"
+  },
+  {
+    "id": 233,
+    "code": "c069_01",
+    "name": "Restorative Ptah"
+  },
+  {
+    "id": 234,
+    "code": "c069_02",
+    "name": "Tuning Ptah"
+  },
+  {
+    "id": 235,
+    "code": "c070_00",
+    "name": "Human Yui"
+  },
+  {
+    "id": 236,
+    "code": "c070_01",
+    "name": "Future Yui"
+  },
+  {
+    "id": 237,
+    "code": "c070_02",
+    "name": "Universal Yui"
+  },
+  {
+    "id": 238,
+    "code": "c072_00",
+    "name": "Human Fenrir"
+  },
+  {
+    "id": 239,
+    "code": "c072_01",
+    "name": "Explorer Fenrir"
+  },
+  {
+    "id": 240,
+    "code": "c072_02",
+    "name": "Shadow Fenrir"
+  },
+  {
+    "id": 241,
+    "code": "c073_00",
+    "name": "Human Navi"
+  },
+  {
+    "id": 242,
+    "code": "c073_01",
+    "name": "Self-Deprecating Navi"
+  },
+  {
+    "id": 243,
+    "code": "c073_02",
+    "name": "Hollow Navi"
+  },
+  {
+    "id": 244,
+    "code": "c074_00",
+    "name": "Human Quirinus"
+  },
+  {
+    "id": 245,
+    "code": "c074_01",
+    "name": "Cheerful Quirinus"
+  },
+  {
+    "id": 246,
+    "code": "c074_02",
+    "name": "Passionate Quirinus"
+  },
+  {
+    "id": 247,
+    "code": "c075_00",
+    "name": "Human Tanha"
+  },
+  {
+    "id": 248,
+    "code": "c075_01",
+    "name": "Odorous Tanha"
+  },
+  {
+    "id": 249,
+    "code": "c075_02",
+    "name": "Pleasured Tanha"
+  },
+  {
+    "id": 250,
+    "code": "c081_00",
+    "name": "Human Themis"
+  },
+  {
+    "id": 251,
+    "code": "c081_01",
+    "name": "Broken Themis"
+  },
+  {
+    "id": 252,
+    "code": "c081_02",
+    "name": "Drifting Themis"
+  },
+  {
+    "id": 253,
+    "code": "c082_00",
+    "name": "Human Calchas"
+  },
+  {
+    "id": 254,
+    "code": "c082_01",
+    "name": "Artisanal Calchas"
+  },
+  {
+    "id": 255,
+    "code": "c082_02",
+    "name": "Prophetic Calchas"
+  },
+  {
+    "id": 256,
+    "code": "c083_00",
+    "name": "Human Neith"
+  },
+  {
+    "id": 257,
+    "code": "c083_01",
+    "name": "Battlefield Neith"
+  },
+  {
+    "id": 258,
+    "code": "c083_02",
+    "name": "Tactician Neith"
+  },
+  {
+    "id": 259,
+    "code": "c085_00",
+    "name": "Human Paris"
+  },
+  {
+    "id": 260,
+    "code": "c085_01",
+    "name": "Malicious Paris"
+  },
+  {
+    "id": 261,
+    "code": "c085_02",
+    "name": "Judge Paris"
+  },
+  {
+    "id": 262,
+    "code": "c086_00",
+    "name": "Human Goga"
+  },
+  {
+    "id": 263,
+    "code": "c086_01",
+    "name": "Seasoned Goga"
+  },
+  {
+    "id": 264,
+    "code": "c086_02",
+    "name": "Flavored Goga"
+  },
+  {
+    "id": 265,
+    "code": "c087_00",
+    "name": "Human Ninurta"
+  },
+  {
+    "id": 266,
+    "code": "c087_01",
+    "name": "Pure-White Ninurta"
+  },
+  {
+    "id": 267,
+    "code": "c087_02",
+    "name": "Brilliant Ninurta"
+  },
+  {
+    "id": 268,
+    "code": "c090_00",
+    "name": "Human Vulcan"
+  },
+  {
+    "id": 269,
+    "code": "c090_01",
+    "name": "Resurgent Vulcan"
+  },
+  {
+    "id": 270,
+    "code": "c090_02",
+    "name": "Reviving Vulcan"
+  },
+  {
+    "id": 271,
+    "code": "c091_00",
+    "name": "Human Myra"
+  },
+  {
+    "id": 272,
+    "code": "c091_01",
+    "name": "Guardian Myra"
+  },
+  {
+    "id": 273,
+    "code": "c091_02",
+    "name": "Loyal Myra"
+  },
+  {
+    "id": 274,
+    "code": "c092_01",
+    "name": "Hygienic Eames"
+  },
+  {
+    "id": 275,
+    "code": "c092_02",
+    "name": "Fastidious Eames"
+  },
+  {
+    "id": 276,
+    "code": "c095_00",
+    "name": "Human Vesta"
+  },
+  {
+    "id": 277,
+    "code": "c095_01",
+    "name": "HotBlooded Vesta"
+  },
+  {
+    "id": 278,
+    "code": "c095_02",
+    "name": "Passionate Vesta"
+  },
+  {
+    "id": 279,
+    "code": "c099_00",
+    "name": "Human Melpomene"
+  },
+  {
+    "id": 280,
+    "code": "c099_01",
+    "name": "Bored Melpomene"
+  },
+  {
+    "id": 281,
+    "code": "c099_02",
+    "name": "Roaring Melpomene"
+  },
+  {
+    "id": 282,
+    "code": "c101_00",
+    "name": "Human Syrinx"
+  },
+  {
+    "id": 283,
+    "code": "c101_01",
+    "name": "Naive Syrinx"
+  },
+  {
+    "id": 284,
+    "code": "c101_02",
+    "name": "Praising Syrinx"
+  },
+  {
+    "id": 285,
+    "code": "c101_10",
+    "name": "Miracle Syrinx"
+  },
+  {
+    "id": 286,
+    "code": "c106_01",
+    "name": "Vengeful Medeia"
+  },
+  {
+    "id": 287,
+    "code": "c106_02",
+    "name": "Plotting Medeia"
+  },
+  {
+    "id": 288,
+    "code": "c107_00",
+    "name": "Human Apollo"
+  },
+  {
+    "id": 289,
+    "code": "c107_01",
+    "name": "Glittering Apollo"
+  },
+  {
+    "id": 290,
+    "code": "c107_02",
+    "name": "Admirable Apollo"
+  },
+  {
+    "id": 291,
+    "code": "c107_10",
+    "name": "Atr� Akihabara's mascot style Apollo"
+  },
+  {
+    "id": 292,
+    "code": "c109_01",
+    "name": "Acoustic Arethusa"
+  },
+  {
+    "id": 293,
+    "code": "c109_02",
+    "name": "Full Bloom Arethusa"
+  },
+  {
+    "id": 294,
+    "code": "c110_00",
+    "name": "Human Flins"
+  },
+  {
+    "id": 295,
+    "code": "c110_01",
+    "name": "Persistent Flins"
+  },
+  {
+    "id": 296,
+    "code": "c110_02",
+    "name": "Venturer Flins"
+  },
+  {
+    "id": 297,
+    "code": "c110_10",
+    "name": "Christmas Flins"
+  },
+  {
+    "id": 298,
+    "code": "c112_00",
+    "name": "Human Elias"
+  },
+  {
+    "id": 299,
+    "code": "c112_01",
+    "name": "Truth-Seeker Elias"
+  },
+  {
+    "id": 300,
+    "code": "c112_02",
+    "name": "Sage Elias"
+  },
+  {
+    "id": 301,
+    "code": "c113_00",
+    "name": "Human Kuma"
+  },
+  {
+    "id": 302,
+    "code": "c115_00",
+    "name": "Human Sonnet"
+  },
+  {
+    "id": 303,
+    "code": "c115_01",
+    "name": "Sorrowful Sonnet"
+  },
+  {
+    "id": 304,
+    "code": "c115_02",
+    "name": "Reconciliatory Sonnet"
+  },
+  {
+    "id": 305,
+    "code": "c116_00",
+    "name": "Human Pluto"
+  },
+  {
+    "id": 306,
+    "code": "c116_01",
+    "name": "Perceptive Pluto"
+  },
+  {
+    "id": 307,
+    "code": "c116_02",
+    "name": "Prima Pluto"
+  },
+  {
+    "id": 308,
+    "code": "c117_00",
+    "name": "Human Yaga"
+  },
+  {
+    "id": 309,
+    "code": "c117_01",
+    "name": "Loyal Yaga"
+  },
+  {
+    "id": 310,
+    "code": "c117_02",
+    "name": "Pious Yaga"
+  },
+  {
+    "id": 311,
+    "code": "c120_00",
+    "name": "Human Flora"
+  },
+  {
+    "id": 312,
+    "code": "c120_01",
+    "name": "Meadow Flora"
+  },
+  {
+    "id": 313,
+    "code": "c120_02",
+    "name": "Free Flora"
+  },
+  {
+    "id": 314,
+    "code": "c121_00",
+    "name": "Human Muse"
+  },
+  {
+    "id": 315,
+    "code": "c121_01",
+    "name": "Night Muse"
+  },
+  {
+    "id": 316,
+    "code": "c121_02",
+    "name": "Thundering Muse"
+  },
+  {
+    "id": 317,
+    "code": "c122_00",
+    "name": "Human Samael"
+  },
+  {
+    "id": 318,
+    "code": "c122_01",
+    "name": "Materialistic Samael"
+  },
+  {
+    "id": 319,
+    "code": "c122_02",
+    "name": "Covetous Samael"
+  },
+  {
+    "id": 320,
+    "code": "c122_10",
+    "name": "Samael"
+  },
+  {
+    "id": 321,
+    "code": "c123_00",
+    "name": "Human Baphomet"
+  },
+  {
+    "id": 322,
+    "code": "c123_01",
+    "name": "Creative Baphomet"
+  },
+  {
+    "id": 323,
+    "code": "c123_02",
+    "name": "Cheerful Baphomet"
+  },
+  {
+    "id": 324,
+    "code": "c124_00",
+    "name": "Human Eve"
+  },
+  {
+    "id": 325,
+    "code": "c124_01",
+    "name": "Forbidden Eve"
+  },
+  {
+    "id": 326,
+    "code": "c124_02",
+    "name": "Original Sin Eve"
+  },
+  {
+    "id": 327,
+    "code": "c124_10",
+    "name": "Cyan Rose Eve"
+  },
+  {
+    "id": 328,
+    "code": "c124_11",
+    "name": "Christmas Eve"
+  },
+  {
+    "id": 329,
+    "code": "c124_12",
+    "name": "Racia Suit Eve"
+  },
+  {
+    "id": 330,
+    "code": "c125_00",
+    "name": "Human Attis"
+  },
+  {
+    "id": 331,
+    "code": "c125_01",
+    "name": "Comedy Attis"
+  },
+  {
+    "id": 332,
+    "code": "c125_02",
+    "name": "Sworn Blade Hero Attis"
+  },
+  {
+    "id": 333,
+    "code": "c125_10",
+    "name": "Romantic Attis"
+  },
+  {
+    "id": 334,
+    "code": "c125_89",
+    "name": "Romantic Attis"
+  },
+  {
+    "id": 335,
+    "code": "c126_00",
+    "name": "Human Salmacis"
+  },
+  {
+    "id": 336,
+    "code": "c126_01",
+    "name": "Your Salmacis"
+  },
+  {
+    "id": 337,
+    "code": "c126_02",
+    "name": "Exclusive Salmacis"
+  },
+  {
+    "id": 338,
+    "code": "c127_00",
+    "name": "Human Bastet"
+  },
+  {
+    "id": 339,
+    "code": "c127_01",
+    "name": "Wild Bastet"
+  },
+  {
+    "id": 340,
+    "code": "c127_02",
+    "name": "Phantom Night Bastet"
+  },
+  {
+    "id": 341,
+    "code": "c127_10",
+    "name": "Second Coming Bastet"
+  },
+  {
+    "id": 342,
+    "code": "c128_00",
+    "name": "Human Galatea"
+  },
+  {
+    "id": 343,
+    "code": "c128_01",
+    "name": "Fragmented Galatea"
+  },
+  {
+    "id": 344,
+    "code": "c128_02",
+    "name": "Weird Galatea"
+  },
+  {
+    "id": 345,
+    "code": "c129_00",
+    "name": "Human Nike"
+  },
+  {
+    "id": 346,
+    "code": "c129_01",
+    "name": "Honorable Nike"
+  },
+  {
+    "id": 347,
+    "code": "c129_02",
+    "name": "Empress Nike"
+  },
+  {
+    "id": 348,
+    "code": "c130_00",
+    "name": "Human Genius"
+  },
+  {
+    "id": 349,
+    "code": "c130_01",
+    "name": "Strategic Genius"
+  },
+  {
+    "id": 350,
+    "code": "c130_02",
+    "name": "Master Genius"
+  },
+  {
+    "id": 351,
+    "code": "c131_00",
+    "name": "Human Osiris"
+  },
+  {
+    "id": 352,
+    "code": "c131_01",
+    "name": "Returned Osiris"
+  },
+  {
+    "id": 353,
+    "code": "c131_02",
+    "name": "Lion Osiris"
+  },
+  {
+    "id": 354,
+    "code": "c132_00",
+    "name": "Human Midas"
+  },
+  {
+    "id": 355,
+    "code": "c132_01",
+    "name": "Composed Midas"
+  },
+  {
+    "id": 356,
+    "code": "c132_02",
+    "name": "Aesthetic Midas"
+  },
+  {
+    "id": 357,
+    "code": "c133_00",
+    "name": "Human Titania"
+  },
+  {
+    "id": 358,
+    "code": "c133_01",
+    "name": "Armageddon Titania"
+  },
+  {
+    "id": 359,
+    "code": "c133_02",
+    "name": "Showdown Titania"
+  },
+  {
+    "id": 360,
+    "code": "c134_00",
+    "name": "Human Mentes"
+  },
+  {
+    "id": 361,
+    "code": "c134_01",
+    "name": "Mentes"
+  },
+  {
+    "id": 362,
+    "code": "c134_02",
+    "name": "Mentes"
+  },
+  {
+    "id": 363,
+    "code": "c134_88",
+    "name": "Mentes"
+  },
+  {
+    "id": 364,
+    "code": "c135_00",
+    "name": "Human Valkyrie"
+  },
+  {
+    "id": 365,
+    "code": "c135_01",
+    "name": "Warrior Valkyrie"
+  },
+  {
+    "id": 366,
+    "code": "c135_02",
+    "name": "Loner Valkyrie"
+  },
+  {
+    "id": 367,
+    "code": "c139_00",
+    "name": "Human Pomona"
+  },
+  {
+    "id": 368,
+    "code": "c139_01",
+    "name": "Floral Pomona"
+  },
+  {
+    "id": 369,
+    "code": "c139_02",
+    "name": "Hidden Pomona"
+  },
+  {
+    "id": 370,
+    "code": "c140_01",
+    "name": "Guarding Nodens"
+  },
+  {
+    "id": 371,
+    "code": "c141_00",
+    "name": "Human Amor"
+  },
+  {
+    "id": 372,
+    "code": "c141_01",
+    "name": "Monolouging Amor"
+  },
+  {
+    "id": 373,
+    "code": "c141_02",
+    "name": "One Sided Amor"
+  },
+  {
+    "id": 374,
+    "code": "c142_00",
+    "name": "Human Hypnos"
+  },
+  {
+    "id": 375,
+    "code": "c142_01",
+    "name": "Night Maiden Hypnos"
+  },
+  {
+    "id": 376,
+    "code": "c142_02",
+    "name": "Dreamer Hypnos"
+  },
+  {
+    "id": 377,
+    "code": "c144_00",
+    "name": "Human Medea"
+  },
+  {
+    "id": 378,
+    "code": "c144_01",
+    "name": "Black Night Medea"
+  },
+  {
+    "id": 379,
+    "code": "c144_02",
+    "name": "Festive Medea"
+  },
+  {
+    "id": 380,
+    "code": "c147_00",
+    "name": "Human Baal"
+  },
+  {
+    "id": 381,
+    "code": "c147_01",
+    "name": "Frenzied Baal"
+  },
+  {
+    "id": 382,
+    "code": "c147_02",
+    "name": "Bloody Baal"
+  },
+  {
+    "id": 383,
+    "code": "c148_00",
+    "name": "Human Inanna"
+  },
+  {
+    "id": 384,
+    "code": "c148_01",
+    "name": "Harlequin Inanna"
+  },
+  {
+    "id": 385,
+    "code": "c148_02",
+    "name": "Tyrannical Inanna"
+  },
+  {
+    "id": 386,
+    "code": "c148_10",
+    "name": "Purple Diamond Inanna"
+  },
+  {
+    "id": 387,
+    "code": "c148_11",
+    "name": "Red Diamond Inanna"
+  },
+  {
+    "id": 388,
+    "code": "c149_00",
+    "name": "Human Rusalka"
+  },
+  {
+    "id": 389,
+    "code": "c149_01",
+    "name": "Indecisive Rusalka"
+  },
+  {
+    "id": 390,
+    "code": "c149_02",
+    "name": "Confessing Rusalka"
+  },
+  {
+    "id": 391,
+    "code": "c152_00",
+    "name": "Human Hebe"
+  },
+  {
+    "id": 392,
+    "code": "c152_01",
+    "name": "Summer Hebe"
+  },
+  {
+    "id": 393,
+    "code": "c152_02",
+    "name": "Youthful Hebe"
+  },
+  {
+    "id": 394,
+    "code": "c153_00",
+    "name": "Human Epona"
+  },
+  {
+    "id": 395,
+    "code": "c153_01",
+    "name": "Adventurer Epona"
+  },
+  {
+    "id": 396,
+    "code": "c153_02",
+    "name": "Wandering Epona"
+  },
+  {
+    "id": 397,
+    "code": "c154_00",
+    "name": "Human Thoth"
+  },
+  {
+    "id": 398,
+    "code": "c154_01",
+    "name": "Stern Thoth"
+  },
+  {
+    "id": 399,
+    "code": "c154_02",
+    "name": "Severe Thoth"
+  },
+  {
+    "id": 400,
+    "code": "c155_00",
+    "name": "Human Echo"
+  },
+  {
+    "id": 401,
+    "code": "c155_01",
+    "name": "Singing Echo"
+  },
+  {
+    "id": 402,
+    "code": "c155_02",
+    "name": "Girl Group Echo"
+  },
+  {
+    "id": 403,
+    "code": "c156_00",
+    "name": "Human Elizabeth"
+  },
+  {
+    "id": 404,
+    "code": "c156_01",
+    "name": "Autocratic Elizabeth"
+  },
+  {
+    "id": 405,
+    "code": "c156_02",
+    "name": "Empress Elizabeth"
+  },
+  {
+    "id": 406,
+    "code": "c156_10",
+    "name": "Elizabeth"
+  },
+  {
+    "id": 407,
+    "code": "c156_87",
+    "name": "Elizabeth"
+  },
+  {
+    "id": 408,
+    "code": "c156_88",
+    "name": "Elizabeth"
+  },
+  {
+    "id": 409,
+    "code": "c156_89",
+    "name": "Elizabeth"
+  },
+  {
+    "id": 410,
+    "code": "c158_00",
+    "name": "Human Naias"
+  },
+  {
+    "id": 411,
+    "code": "c158_01",
+    "name": "Dreaming Naias"
+  },
+  {
+    "id": 412,
+    "code": "c158_02",
+    "name": "M�rchen Naias"
+  },
+  {
+    "id": 413,
+    "code": "c158_10",
+    "name": "Marine Flower Naias"
+  },
+  {
+    "id": 414,
+    "code": "c159_00",
+    "name": "Human Semele"
+  },
+  {
+    "id": 415,
+    "code": "c159_01",
+    "name": "Daybreak Semele"
+  },
+  {
+    "id": 416,
+    "code": "c159_02",
+    "name": "Little Demon Semele"
+  },
+  {
+    "id": 417,
+    "code": "c160_00",
+    "name": "Human Sara"
+  },
+  {
+    "id": 418,
+    "code": "c160_01",
+    "name": "Gentle Sara"
+  },
+  {
+    "id": 419,
+    "code": "c160_02",
+    "name": "Smiling Sara"
+  },
+  {
+    "id": 420,
+    "code": "c161_00",
+    "name": "Human Youth"
+  },
+  {
+    "id": 421,
+    "code": "c161_01",
+    "name": "Referee Youth"
+  },
+  {
+    "id": 422,
+    "code": "c161_02",
+    "name": "Punishable Youth"
+  },
+  {
+    "id": 423,
+    "code": "c164_00",
+    "name": "Human Ishtar"
+  },
+  {
+    "id": 424,
+    "code": "c164_01",
+    "name": "Bound Ishtar"
+  },
+  {
+    "id": 425,
+    "code": "c164_02",
+    "name": "Liberated Ishtar"
+  },
+  {
+    "id": 426,
+    "code": "c167_00",
+    "name": "Human Chang'e"
+  },
+  {
+    "id": 427,
+    "code": "c167_01",
+    "name": "Sunny Chang'e"
+  },
+  {
+    "id": 428,
+    "code": "c167_02",
+    "name": "Incarnated Chang'e"
+  },
+  {
+    "id": 429,
+    "code": "c167_10",
+    "name": "Midnight Chang'e"
+  },
+  {
+    "id": 430,
+    "code": "c167_11",
+    "name": "Beautiful Chang'e"
+  },
+  {
+    "id": 431,
+    "code": "c167_12",
+    "name": "Ravishing Chang'e"
+  },
+  {
+    "id": 432,
+    "code": "c167_87",
+    "name": "Ravishing Chang'e"
+  },
+  {
+    "id": 433,
+    "code": "c167_88",
+    "name": "Incarnated Chang'e"
+  },
+  {
+    "id": 434,
+    "code": "c168_00",
+    "name": "Human Thalia"
+  },
+  {
+    "id": 435,
+    "code": "c168_01",
+    "name": "Cheering Thalia"
+  },
+  {
+    "id": 436,
+    "code": "c168_02",
+    "name": "Joyous Thalia"
+  },
+  {
+    "id": 437,
+    "code": "c169_00",
+    "name": "Human Euros"
+  },
+  {
+    "id": 438,
+    "code": "c169_01",
+    "name": "Happy Euros"
+  },
+  {
+    "id": 439,
+    "code": "c169_02",
+    "name": "Glorious Euros"
+  },
+  {
+    "id": 440,
+    "code": "c172_00",
+    "name": "Human Yuna"
+  },
+  {
+    "id": 441,
+    "code": "c172_01",
+    "name": "Shining Yuna"
+  },
+  {
+    "id": 442,
+    "code": "c172_02",
+    "name": "Glittering Yuna"
+  },
+  {
+    "id": 443,
+    "code": "c173_00",
+    "name": "Human Daoine Sidhe"
+  },
+  {
+    "id": 444,
+    "code": "c173_01",
+    "name": "Small Daoine Sidhe"
+  },
+  {
+    "id": 445,
+    "code": "c173_02",
+    "name": "Kid Sister Daoine Sidhe"
+  },
+  {
+    "id": 446,
+    "code": "c173_10",
+    "name": "Dangerous Daoine Sidhe"
+  },
+  {
+    "id": 447,
+    "code": "c174_00",
+    "name": "Human A.I"
+  },
+  {
+    "id": 448,
+    "code": "c174_01",
+    "name": "A.I"
+  },
+  {
+    "id": 449,
+    "code": "c174_02",
+    "name": "Limited A.I"
+  },
+  {
+    "id": 450,
+    "code": "c174_10",
+    "name": "Little Star A.I"
+  },
+  {
+    "id": 451,
+    "code": "c174_11",
+    "name": "Summer Vacation A.I"
+  },
+  {
+    "id": 452,
+    "code": "c174_12",
+    "name": "Electro-Pop A.I"
+  },
+  {
+    "id": 453,
+    "code": "c175_00",
+    "name": "Human Red Cross"
+  },
+  {
+    "id": 454,
+    "code": "c175_01",
+    "name": "Guardian Red Cross"
+  },
+  {
+    "id": 455,
+    "code": "c175_02",
+    "name": "Sentinel Red Cross"
+  },
+  {
+    "id": 456,
+    "code": "c176_01",
+    "name": "Eye Catching Eshu"
+  },
+  {
+    "id": 457,
+    "code": "c176_02",
+    "name": "Dealer Eshu"
+  },
+  {
+    "id": 458,
+    "code": "c178_00",
+    "name": "Human Morgana"
+  },
+  {
+    "id": 459,
+    "code": "c178_01",
+    "name": "Mirage Morgana"
+  },
+  {
+    "id": 460,
+    "code": "c178_02",
+    "name": "Fantasy Morgana"
+  },
+  {
+    "id": 461,
+    "code": "c180_00",
+    "name": "Human Mammon"
+  },
+  {
+    "id": 462,
+    "code": "c180_01",
+    "name": "Ambitious Mammon"
+  },
+  {
+    "id": 463,
+    "code": "c180_02",
+    "name": "Greedy Mammon"
+  },
+  {
+    "id": 464,
+    "code": "c180_10",
+    "name": "Mammon"
+  },
+  {
+    "id": 465,
+    "code": "c180_87",
+    "name": "Mammon"
+  },
+  {
+    "id": 466,
+    "code": "c180_88",
+    "name": "Mammon"
+  },
+  {
+    "id": 467,
+    "code": "c183_00",
+    "name": "Human Dana"
+  },
+  {
+    "id": 468,
+    "code": "c183_01",
+    "name": "Preacher Dana"
+  },
+  {
+    "id": 469,
+    "code": "c183_02",
+    "name": "Declarative Dana"
+  },
+  {
+    "id": 470,
+    "code": "c184_00",
+    "name": "Human Elysion"
+  },
+  {
+    "id": 471,
+    "code": "c184_01",
+    "name": "Wandering Elysion"
+  },
+  {
+    "id": 472,
+    "code": "c184_02",
+    "name": "Paradise Elysion"
+  },
+  {
+    "id": 473,
+    "code": "c185_00",
+    "name": "Human Hermod"
+  },
+  {
+    "id": 474,
+    "code": "c185_01",
+    "name": "Foolhardy Hermod"
+  },
+  {
+    "id": 475,
+    "code": "c185_02",
+    "name": "Dictator Hermod"
+  },
+  {
+    "id": 476,
+    "code": "c186_00",
+    "name": "Human Erebus"
+  },
+  {
+    "id": 477,
+    "code": "c186_01",
+    "name": "Controller Erebus"
+  },
+  {
+    "id": 478,
+    "code": "c186_02",
+    "name": "Ruler Erebus"
+  },
+  {
+    "id": 479,
+    "code": "c187_00",
+    "name": "Human Thetis"
+  },
+  {
+    "id": 480,
+    "code": "c187_01",
+    "name": "Greiving Thetis"
+  },
+  {
+    "id": 481,
+    "code": "c187_02",
+    "name": "Sorrowful Thetis"
+  },
+  {
+    "id": 482,
+    "code": "c187_10",
+    "name": "Thetis"
+  },
+  {
+    "id": 483,
+    "code": "c187_87",
+    "name": "Thetis"
+  },
+  {
+    "id": 484,
+    "code": "c187_88",
+    "name": "Thetis"
+  },
+  {
+    "id": 485,
+    "code": "c187_89",
+    "name": "Sorrowful Thetis"
+  },
+  {
+    "id": 486,
+    "code": "c188_00",
+    "name": "Human Atalanta"
+  },
+  {
+    "id": 487,
+    "code": "c188_01",
+    "name": "Charging Atalanta"
+  },
+  {
+    "id": 488,
+    "code": "c188_02",
+    "name": "Renowned Assistant Atalanta"
+  },
+  {
+    "id": 489,
+    "code": "c189_00",
+    "name": "Human Kratos"
+  },
+  {
+    "id": 490,
+    "code": "c189_01",
+    "name": "Bound Kratos"
+  },
+  {
+    "id": 491,
+    "code": "c189_02",
+    "name": "Liberated Kratos"
+  },
+  {
+    "id": 492,
+    "code": "c190_00",
+    "name": "Human Isis"
+  },
+  {
+    "id": 493,
+    "code": "c190_01",
+    "name": "Mimic Isis"
+  },
+  {
+    "id": 494,
+    "code": "c190_02",
+    "name": "Actress Isis"
+  },
+  {
+    "id": 495,
+    "code": "c191_00",
+    "name": "Human Sekhmet"
+  },
+  {
+    "id": 496,
+    "code": "c191_01",
+    "name": "Destructive Sekhmet"
+  },
+  {
+    "id": 497,
+    "code": "c191_02",
+    "name": "Furious Sekhmet"
+  },
+  {
+    "id": 498,
+    "code": "c193_00",
+    "name": "Human Virupa"
+  },
+  {
+    "id": 499,
+    "code": "c193_01",
+    "name": "Exorcist Virupa"
+  },
+  {
+    "id": 500,
+    "code": "c193_02",
+    "name": "Virupaksa Virupa"
+  },
+  {
+    "id": 501,
+    "code": "c193_10",
+    "name": "Tathagatagarbha Virupa"
+  },
+  {
+    "id": 502,
+    "code": "c194_00",
+    "name": "Human Ashtoreth"
+  },
+  {
+    "id": 503,
+    "code": "c194_01",
+    "name": "White Ashtoreth"
+  },
+  {
+    "id": 504,
+    "code": "c194_02",
+    "name": "Pure White Ashtoreth"
+  },
+  {
+    "id": 505,
+    "code": "c194_10",
+    "name": "Ashtoreth"
+  },
+  {
+    "id": 506,
+    "code": "c194_87",
+    "name": "Ashtoreth"
+  },
+  {
+    "id": 507,
+    "code": "c194_88",
+    "name": "Ashtoreth"
+  },
+  {
+    "id": 508,
+    "code": "c195_00",
+    "name": "Human Cybele"
+  },
+  {
+    "id": 509,
+    "code": "c195_01",
+    "name": "Little Princess Cybele"
+  },
+  {
+    "id": 510,
+    "code": "c195_02",
+    "name": "Dark Princess Cybele"
+  },
+  {
+    "id": 511,
+    "code": "c195_20",
+    "name": "Human Cybele"
+  },
+  {
+    "id": 512,
+    "code": "c196_00",
+    "name": "Human Idun"
+  },
+  {
+    "id": 513,
+    "code": "c196_01",
+    "name": "Floral Idun"
+  },
+  {
+    "id": 514,
+    "code": "c196_02",
+    "name": "Alluring Idun"
+  },
+  {
+    "id": 515,
+    "code": "c198_00",
+    "name": "Human Zelos"
+  },
+  {
+    "id": 516,
+    "code": "c198_01",
+    "name": "Silent Zelos"
+  },
+  {
+    "id": 517,
+    "code": "c198_02",
+    "name": "Turncoat Zelos"
+  },
+  {
+    "id": 518,
+    "code": "c198_10",
+    "name": "Mirage Zelos"
+  },
+  {
+    "id": 519,
+    "code": "c199_00",
+    "name": "Human Aurora"
+  },
+  {
+    "id": 520,
+    "code": "c199_01",
+    "name": "Western Aurora"
+  },
+  {
+    "id": 521,
+    "code": "c199_02",
+    "name": "Benevolent Aurora"
+  },
+  {
+    "id": 522,
+    "code": "c199_10",
+    "name": "Nightmare Aurora"
+  },
+  {
+    "id": 523,
+    "code": "c200_00",
+    "name": "Human Seshat"
+  },
+  {
+    "id": 524,
+    "code": "c200_01",
+    "name": "Running Seshat"
+  },
+  {
+    "id": 525,
+    "code": "c200_02",
+    "name": "Fixer Seshat"
+  },
+  {
+    "id": 526,
+    "code": "c202_00",
+    "name": "Human Victorix"
+  },
+  {
+    "id": 527,
+    "code": "c202_01",
+    "name": "Mirror Victorix"
+  },
+  {
+    "id": 528,
+    "code": "c202_02",
+    "name": "Green Victorix"
+  },
+  {
+    "id": 529,
+    "code": "c203_01",
+    "name": "Human Harmonia"
+  },
+  {
+    "id": 530,
+    "code": "c203_02",
+    "name": "Guardian Harmonia"
+  },
+  {
+    "id": 531,
+    "code": "c203_88",
+    "name": "Peaceful Harmonia"
+  },
+  {
+    "id": 532,
+    "code": "c205_00",
+    "name": "Human Merlin"
+  },
+  {
+    "id": 533,
+    "code": "c205_01",
+    "name": "Otherworldly Merlin"
+  },
+  {
+    "id": 534,
+    "code": "c205_02",
+    "name": "Visitor Merlin"
+  },
+  {
+    "id": 535,
+    "code": "c206_00",
+    "name": "Human Jonah"
+  },
+  {
+    "id": 536,
+    "code": "c206_01",
+    "name": "Otherworldly Jonah"
+  },
+  {
+    "id": 537,
+    "code": "c206_02",
+    "name": "Talking Jonah"
+  },
+  {
+    "id": 538,
+    "code": "c206_10",
+    "name": "Jonah"
+  },
+  {
+    "id": 539,
+    "code": "c208_00",
+    "name": "Human Firo"
+  },
+  {
+    "id": 540,
+    "code": "c208_01",
+    "name": "Hot Firo"
+  },
+  {
+    "id": 541,
+    "code": "c208_02",
+    "name": "Fiery Firo"
+  },
+  {
+    "id": 542,
+    "code": "c209_00",
+    "name": "Human Hecate"
+  },
+  {
+    "id": 543,
+    "code": "c209_01",
+    "name": "Dreaming Hecate"
+  },
+  {
+    "id": 544,
+    "code": "c209_02",
+    "name": "Delusional Hecate"
+  },
+  {
+    "id": 545,
+    "code": "c209_10",
+    "name": "Hecate"
+  },
+  {
+    "id": 546,
+    "code": "c210_00",
+    "name": "Human Tartarus"
+  },
+  {
+    "id": 547,
+    "code": "c210_01",
+    "name": "Abyssal Tartarus"
+  },
+  {
+    "id": 548,
+    "code": "c210_02",
+    "name": "Emperor Tartarus"
+  },
+  {
+    "id": 549,
+    "code": "c213_01",
+    "name": "Naga"
+  },
+  {
+    "id": 550,
+    "code": "c213_02",
+    "name": "Naga"
+  },
+  {
+    "id": 551,
+    "code": "c213_10",
+    "name": "Naga"
+  },
+  {
+    "id": 552,
+    "code": "c213_87",
+    "name": "Naga"
+  },
+  {
+    "id": 553,
+    "code": "c213_88",
+    "name": "Naga"
+  },
+  {
+    "id": 554,
+    "code": "c213_89",
+    "name": "Naga"
+  },
+  {
+    "id": 555,
+    "code": "c214_00",
+    "name": "Human Jupiter"
+  },
+  {
+    "id": 556,
+    "code": "c214_01",
+    "name": "Experimental Jupiter"
+  },
+  {
+    "id": 557,
+    "code": "c214_02",
+    "name": "Dominating Jupiter"
+  },
+  {
+    "id": 558,
+    "code": "c214_10",
+    "name": "Gambler Jupiter"
+  },
+  {
+    "id": 559,
+    "code": "c215_00",
+    "name": "Human Surtr"
+  },
+  {
+    "id": 560,
+    "code": "c216_00",
+    "name": "Human Werewolf"
+  },
+  {
+    "id": 561,
+    "code": "c216_01",
+    "name": "Moonlight Werewolf"
+  },
+  {
+    "id": 562,
+    "code": "c216_02",
+    "name": "Samhain Werewolf"
+  },
+  {
+    "id": 563,
+    "code": "c216_10",
+    "name": "Werewolf"
+  },
+  {
+    "id": 564,
+    "code": "c216_87",
+    "name": "Werewolf"
+  },
+  {
+    "id": 565,
+    "code": "c216_88",
+    "name": "Moonlight Werewolf"
+  },
+  {
+    "id": 566,
+    "code": "c218_00",
+    "name": "Human Alf"
+  },
+  {
+    "id": 567,
+    "code": "c218_01",
+    "name": "Full Alf"
+  },
+  {
+    "id": 568,
+    "code": "c218_02",
+    "name": "Happy Alf"
+  },
+  {
+    "id": 569,
+    "code": "c219_00",
+    "name": "Human Ymir"
+  },
+  {
+    "id": 570,
+    "code": "c219_01",
+    "name": "Ice Blade Ymir"
+  },
+  {
+    "id": 571,
+    "code": "c219_02",
+    "name": "Psychopath Ymir"
+  },
+  {
+    "id": 572,
+    "code": "c220_00",
+    "name": "Human Atropos"
+  },
+  {
+    "id": 573,
+    "code": "c220_01",
+    "name": "Zooming Atropos"
+  },
+  {
+    "id": 574,
+    "code": "c220_02",
+    "name": "Charging Atropos"
+  },
+  {
+    "id": 575,
+    "code": "c221_00",
+    "name": "Human Jana"
+  },
+  {
+    "id": 576,
+    "code": "c221_01",
+    "name": "Full Moon Jana"
+  },
+  {
+    "id": 577,
+    "code": "c221_02",
+    "name": "Full Bloom Jana"
+  },
+  {
+    "id": 578,
+    "code": "c222_00",
+    "name": "Human El Dorado"
+  },
+  {
+    "id": 579,
+    "code": "c222_01",
+    "name": "Hypnotic El Dorado"
+  },
+  {
+    "id": 580,
+    "code": "c222_02",
+    "name": "Golden El Dorado"
+  },
+  {
+    "id": 581,
+    "code": "c223_00",
+    "name": "Human Air"
+  },
+  {
+    "id": 582,
+    "code": "c223_01",
+    "name": "River's Flow Air"
+  },
+  {
+    "id": 583,
+    "code": "c223_02",
+    "name": "Roaming Waters Air"
+  },
+  {
+    "id": 584,
+    "code": "c224_00",
+    "name": "Human Loki"
+  },
+  {
+    "id": 585,
+    "code": "c224_01",
+    "name": "Dark Prince Loki"
+  },
+  {
+    "id": 586,
+    "code": "c224_02",
+    "name": "Dark Conspiracy Loki"
+  },
+  {
+    "id": 587,
+    "code": "c225_00",
+    "name": "Human Rudolph"
+  },
+  {
+    "id": 588,
+    "code": "c225_01",
+    "name": "Uninvited Rudolph"
+  },
+  {
+    "id": 589,
+    "code": "c225_02",
+    "name": "Night Theif Rudolph"
+  },
+  {
+    "id": 590,
+    "code": "c226_01",
+    "name": "Plundering Ragnar"
+  },
+  {
+    "id": 591,
+    "code": "c227_00",
+    "name": "Human Mafdet"
+  },
+  {
+    "id": 592,
+    "code": "c227_01",
+    "name": "Righteous Mafdet"
+  },
+  {
+    "id": 593,
+    "code": "c227_02",
+    "name": "Dogmatic Mafdet"
+  },
+  {
+    "id": 594,
+    "code": "c228_00",
+    "name": "Human Vivian"
+  },
+  {
+    "id": 595,
+    "code": "c228_01",
+    "name": "Involved Vivian"
+  },
+  {
+    "id": 596,
+    "code": "c228_02",
+    "name": "Concealing Vivian"
+  },
+  {
+    "id": 597,
+    "code": "c228_10",
+    "name": "Mommy Vivian"
+  },
+  {
+    "id": 598,
+    "code": "c228_87",
+    "name": "Vivian"
+  },
+  {
+    "id": 599,
+    "code": "c228_88",
+    "name": "Vivian"
+  },
+  {
+    "id": 600,
+    "code": "c229_00",
+    "name": "Human Brownie"
+  },
+  {
+    "id": 601,
+    "code": "c229_01",
+    "name": "Info Broker Brownie"
+  },
+  {
+    "id": 602,
+    "code": "c229_02",
+    "name": "Delivery Girl Brownie"
+  },
+  {
+    "id": 603,
+    "code": "c229_10",
+    "name": "Postie Brownie"
+  },
+  {
+    "id": 604,
+    "code": "c230_00",
+    "name": "Human Skuld"
+  },
+  {
+    "id": 605,
+    "code": "c230_01",
+    "name": "Cursed Skuld"
+  },
+  {
+    "id": 606,
+    "code": "c230_02",
+    "name": "Extinct Skuld"
+  },
+  {
+    "id": 607,
+    "code": "c231_00",
+    "name": "Human Rhea Silvia"
+  },
+  {
+    "id": 608,
+    "code": "c231_01",
+    "name": "Tempting Rhea Silvia"
+  },
+  {
+    "id": 609,
+    "code": "c231_02",
+    "name": "Temptress Rhea Silvia"
+  },
+  {
+    "id": 610,
+    "code": "c231_10",
+    "name": "The Great Rhea Silvia"
+  },
+  {
+    "id": 611,
+    "code": "c232_00",
+    "name": "Human Daphne"
+  },
+  {
+    "id": 612,
+    "code": "c232_01",
+    "name": "Fantasy Daphne"
+  },
+  {
+    "id": 613,
+    "code": "c232_02",
+    "name": "Utopian Daphne"
+  },
+  {
+    "id": 614,
+    "code": "c233_00",
+    "name": "Human Arges"
+  },
+  {
+    "id": 615,
+    "code": "c233_01",
+    "name": "Lightning Arges"
+  },
+  {
+    "id": 616,
+    "code": "c233_02",
+    "name": "Corona Arges"
+  },
+  {
+    "id": 617,
+    "code": "c234_00",
+    "name": "Human Hercules"
+  },
+  {
+    "id": 618,
+    "code": "c234_01",
+    "name": "Militant Hercules"
+  },
+  {
+    "id": 619,
+    "code": "c234_02",
+    "name": "Triumphant Hercules"
+  },
+  {
+    "id": 620,
+    "code": "c234_10",
+    "name": "Young Lion Hercules"
+  },
+  {
+    "id": 621,
+    "code": "c235_00",
+    "name": "Human Danu"
+  },
+  {
+    "id": 622,
+    "code": "c235_01",
+    "name": "Explosive Danu"
+  },
+  {
+    "id": 623,
+    "code": "c235_02",
+    "name": "Antihero Danu"
+  },
+  {
+    "id": 624,
+    "code": "c236_00",
+    "name": "Human Djinnia"
+  },
+  {
+    "id": 625,
+    "code": "c236_01",
+    "name": "Djinnia"
+  },
+  {
+    "id": 626,
+    "code": "c236_02",
+    "name": "Djinnia"
+  },
+  {
+    "id": 627,
+    "code": "c237_00",
+    "name": "Human Typhon"
+  },
+  {
+    "id": 628,
+    "code": "c237_01",
+    "name": "Night Festival Typhon"
+  },
+  {
+    "id": 629,
+    "code": "c237_02",
+    "name": "Samhain Typhon"
+  },
+  {
+    "id": 630,
+    "code": "c238_00",
+    "name": "Human Medb"
+  },
+  {
+    "id": 631,
+    "code": "c238_01",
+    "name": "Harmony Medb"
+  },
+  {
+    "id": 632,
+    "code": "c238_02",
+    "name": "Prima Medb"
+  },
+  {
+    "id": 633,
+    "code": "c238_10",
+    "name": "Samhain Medb"
+  },
+  {
+    "id": 634,
+    "code": "c239_01",
+    "name": "Nocturnal Dianus"
+  },
+  {
+    "id": 635,
+    "code": "c239_02",
+    "name": "Midnight Sun Dianus"
+  },
+  {
+    "id": 636,
+    "code": "c239_10",
+    "name": "Sugar Dianus"
+  },
+  {
+    "id": 637,
+    "code": "c241_01",
+    "name": "Underworld Orcus"
+  },
+  {
+    "id": 638,
+    "code": "c242_00",
+    "name": "Human Ailill"
+  },
+  {
+    "id": 639,
+    "code": "c242_01",
+    "name": "Magician Ailill"
+  },
+  {
+    "id": 640,
+    "code": "c242_02",
+    "name": "Parade Ailill"
+  },
+  {
+    "id": 641,
+    "code": "c244_01",
+    "name": "Tai-Chi Chun Li"
+  },
+  {
+    "id": 642,
+    "code": "c244_02",
+    "name": "Dress Chun Li"
+  },
+  {
+    "id": 643,
+    "code": "c245_01",
+    "name": "Delta Red Cammy"
+  },
+  {
+    "id": 644,
+    "code": "c245_02",
+    "name": "Dolls Cammy"
+  },
+  {
+    "id": 645,
+    "code": "c246_00",
+    "name": "Human Krampus"
+  },
+  {
+    "id": 646,
+    "code": "c246_01",
+    "name": "Deceptive Krampus"
+  },
+  {
+    "id": 647,
+    "code": "c246_02",
+    "name": "False Krampus"
+  },
+  {
+    "id": 648,
+    "code": "c246_10",
+    "name": "Nightmare Krampus"
+  },
+  {
+    "id": 649,
+    "code": "c246_11",
+    "name": "Naughty Krampus"
+  },
+  {
+    "id": 650,
+    "code": "c246_88",
+    "name": "Nightmare Krampus"
+  },
+  {
+    "id": 651,
+    "code": "c246_89",
+    "name": "Naughty Krampus"
+  },
+  {
+    "id": 652,
+    "code": "c247_00",
+    "name": "Human Myrina"
+  },
+  {
+    "id": 653,
+    "code": "c247_01",
+    "name": "Glorious Myrina"
+  },
+  {
+    "id": 654,
+    "code": "c247_02",
+    "name": "Autocratic Myrina"
+  },
+  {
+    "id": 655,
+    "code": "c250_01",
+    "name": "Underwater Xenie"
+  },
+  {
+    "id": 656,
+    "code": "c250_02",
+    "name": "Water Sprite Xenie"
+  },
+  {
+    "id": 657,
+    "code": "c250_88",
+    "name": "Water Sprite Xenie"
+  },
+  {
+    "id": 658,
+    "code": "c251_00",
+    "name": "Human Ganymede"
+  },
+  {
+    "id": 659,
+    "code": "c251_01",
+    "name": "Hermit Ganymede"
+  },
+  {
+    "id": 660,
+    "code": "c251_02",
+    "name": "Tactician Ganymede"
+  },
+  {
+    "id": 661,
+    "code": "c252_00",
+    "name": "Human Arhat"
+  },
+  {
+    "id": 662,
+    "code": "c252_01",
+    "name": "Exorcist Arhat"
+  },
+  {
+    "id": 663,
+    "code": "c252_02",
+    "name": "Altruism Arhat"
+  },
+  {
+    "id": 664,
+    "code": "c252_10",
+    "name": "(Suhana) Arhat"
+  },
+  {
+    "id": 665,
+    "code": "c252_11",
+    "name": "(Kumari Suhana) Arhat"
+  },
+  {
+    "id": 666,
+    "code": "c252_12",
+    "name": "Innocent Arhat"
+  },
+  {
+    "id": 667,
+    "code": "c252_13",
+    "name": "Innocent Arhat"
+  },
+  {
+    "id": 668,
+    "code": "c252_88",
+    "name": "Altruism Arhat"
+  },
+  {
+    "id": 669,
+    "code": "c252_89",
+    "name": "Exorcist Arhat"
+  },
+  {
+    "id": 670,
+    "code": "c253_00",
+    "name": "Human Nicole"
+  },
+  {
+    "id": 671,
+    "code": "c253_01",
+    "name": "Holy Nicole"
+  },
+  {
+    "id": 672,
+    "code": "c253_02",
+    "name": "Saint Nicole"
+  },
+  {
+    "id": 673,
+    "code": "c253_10",
+    "name": "Christmas Eve Nicole"
+  },
+  {
+    "id": 674,
+    "code": "c253_88",
+    "name": "Nicole"
+  },
+  {
+    "id": 675,
+    "code": "c253_89",
+    "name": "Christmas Eve Nicole"
+  },
+  {
+    "id": 676,
+    "code": "c254_01",
+    "name": "Child? Animation Davi"
+  },
+  {
+    "id": 677,
+    "code": "c254_02",
+    "name": "Summoning Animation Davi"
+  },
+  {
+    "id": 678,
+    "code": "c255_01",
+    "name": "Soul Carta? Animation Mona"
+  },
+  {
+    "id": 679,
+    "code": "c256_01",
+    "name": "? Animation Lisa"
+  },
+  {
+    "id": 680,
+    "code": "c257_01",
+    "name": "Colony Leader Carlos"
+  },
+  {
+    "id": 681,
+    "code": "c257_02",
+    "name": "Colony Leader Carlos"
+  },
+  {
+    "id": 682,
+    "code": "c258_01",
+    "name": "Imaginative Pixie"
+  },
+  {
+    "id": 683,
+    "code": "c258_02",
+    "name": "Ideal Pixie"
+  },
+  {
+    "id": 684,
+    "code": "c261_01",
+    "name": "Heaven Sarasu"
+  },
+  {
+    "id": 685,
+    "code": "c261_02",
+    "name": "Reality Sarasu"
+  },
+  {
+    "id": 686,
+    "code": "c262_00",
+    "name": "Human Daphnis"
+  },
+  {
+    "id": 687,
+    "code": "c262_01",
+    "name": "Knight Daphnis"
+  },
+  {
+    "id": 688,
+    "code": "c262_02",
+    "name": "Brave Daphnis"
+  },
+  {
+    "id": 689,
+    "code": "c262_89",
+    "name": "Brave Daphnis"
+  },
+  {
+    "id": 690,
+    "code": "c265_01",
+    "name": "SD Mona ?"
+  },
+  {
+    "id": 691,
+    "code": "c266_00",
+    "name": "Human Horus"
+  },
+  {
+    "id": 692,
+    "code": "c266_01",
+    "name": "Desert Horus"
+  },
+  {
+    "id": 693,
+    "code": "c266_02",
+    "name": "Ra Horus"
+  },
+  {
+    "id": 694,
+    "code": "c267_00",
+    "name": "Human Cleopatra"
+  },
+  {
+    "id": 695,
+    "code": "c267_01",
+    "name": "Transmigration Cleopatra"
+  },
+  {
+    "id": 696,
+    "code": "c267_02",
+    "name": "Pharoah Cleopatra"
+  },
+  {
+    "id": 697,
+    "code": "c267_10",
+    "name": "Sun Cleopatra"
+  },
+  {
+    "id": 698,
+    "code": "c267_11",
+    "name": "Immortal Cleopatra"
+  },
+  {
+    "id": 699,
+    "code": "c267_88",
+    "name": "Immortal Cleopatra"
+  },
+  {
+    "id": 700,
+    "code": "c267_89",
+    "name": "Sun Cleopatra"
+  },
+  {
+    "id": 701,
+    "code": "c269_01",
+    "name": "Chaotic Pixie"
+  },
+  {
+    "id": 702,
+    "code": "c269_02",
+    "name": "Cosmos Pixie"
+  },
+  {
+    "id": 703,
+    "code": "c270_01",
+    "name": "Light Pixie"
+  },
+  {
+    "id": 704,
+    "code": "c270_02",
+    "name": "Platinum Pixie"
+  },
+  {
+    "id": 705,
+    "code": "c271_01",
+    "name": "Silent Pixie"
+  },
+  {
+    "id": 706,
+    "code": "c271_02",
+    "name": "Sapphire Pixie"
+  },
+  {
+    "id": 707,
+    "code": "c272_01",
+    "name": "Sprout Pixie"
+  },
+  {
+    "id": 708,
+    "code": "c272_02",
+    "name": "Verdure Pixie"
+  },
+  {
+    "id": 709,
+    "code": "c274_00",
+    "name": "Human Bast"
+  },
+  {
+    "id": 710,
+    "code": "c274_01",
+    "name": "Singing Bast"
+  },
+  {
+    "id": 711,
+    "code": "c274_02",
+    "name": "Howling Bast"
+  },
+  {
+    "id": 712,
+    "code": "c275_00",
+    "name": "Human Harpy"
+  },
+  {
+    "id": 713,
+    "code": "c275_01",
+    "name": "Fugitive Harpy"
+  },
+  {
+    "id": 714,
+    "code": "c275_02",
+    "name": "Escape Harpy"
+  },
+  {
+    "id": 715,
+    "code": "c277_00",
+    "name": "Human Leuce"
+  },
+  {
+    "id": 716,
+    "code": "c277_01",
+    "name": "Lowly Nymph Leuce"
+  },
+  {
+    "id": 717,
+    "code": "c277_02",
+    "name": "Partner Leuce"
+  },
+  {
+    "id": 718,
+    "code": "c278_00",
+    "name": "Human Hel"
+  },
+  {
+    "id": 719,
+    "code": "c278_01",
+    "name": "Bespoke Hel"
+  },
+  {
+    "id": 720,
+    "code": "c278_02",
+    "name": "Prototype Hel"
+  },
+  {
+    "id": 721,
+    "code": "c279_00",
+    "name": "Human Laufey"
+  },
+  {
+    "id": 722,
+    "code": "c279_01",
+    "name": "Bespoke Laufey"
+  },
+  {
+    "id": 723,
+    "code": "c279_02",
+    "name": "Customized Laufey"
+  },
+  {
+    "id": 724,
+    "code": "c279_88",
+    "name": "Customized Laufey"
+  },
+  {
+    "id": 725,
+    "code": "c279_89",
+    "name": "Bespoke Laufey"
+  },
+  {
+    "id": 726,
+    "code": "c280_01",
+    "name": "Innocent Tyche"
+  },
+  {
+    "id": 727,
+    "code": "c280_02",
+    "name": "Dreaming Tyche"
+  },
+  {
+    "id": 728,
+    "code": "c281_00",
+    "name": "Human Thisbe"
+  },
+  {
+    "id": 729,
+    "code": "c281_01",
+    "name": "Runaway Thisbe"
+  },
+  {
+    "id": 730,
+    "code": "c281_02",
+    "name": "Labyrinth Thisbe"
+  },
+  {
+    "id": 731,
+    "code": "c281_10",
+    "name": "Thisbe"
+  },
+  {
+    "id": 732,
+    "code": "c281_87",
+    "name": "Thisbe"
+  },
+  {
+    "id": 733,
+    "code": "c283_00",
+    "name": "Human Morgan"
+  },
+  {
+    "id": 734,
+    "code": "c283_01",
+    "name": "Maid Morgan"
+  },
+  {
+    "id": 735,
+    "code": "c283_02",
+    "name": "Servant Morgan"
+  },
+  {
+    "id": 736,
+    "code": "c283_10",
+    "name": "Loyal Keeper Morgan"
+  },
+  {
+    "id": 737,
+    "code": "c283_11",
+    "name": "Anti-Rust Morgan"
+  },
+  {
+    "id": 738,
+    "code": "c283_12",
+    "name": "Classic Servant Morgan"
+  },
+  {
+    "id": 739,
+    "code": "c283_89",
+    "name": "Loyal Keeper Morgan"
+  },
+  {
+    "id": 740,
+    "code": "c285_01",
+    "name": "Initiator Natalis"
+  },
+  {
+    "id": 741,
+    "code": "c285_02",
+    "name": "Revelator Natalis"
+  },
+  {
+    "id": 742,
+    "code": "c285_10",
+    "name": "En Garde Natalis"
+  },
+  {
+    "id": 743,
+    "code": "c285_11",
+    "name": "En Garde Natalis"
+  },
+  {
+    "id": 744,
+    "code": "c285_87",
+    "name": "Revelator Natalis"
+  },
+  {
+    "id": 745,
+    "code": "c285_88",
+    "name": "Initiator Natalis"
+  },
+  {
+    "id": 746,
+    "code": "c285_89",
+    "name": "Fortune of War Natalis"
+  },
+  {
+    "id": 747,
+    "code": "c286_00",
+    "name": "Human Verdelet"
+  },
+  {
+    "id": 748,
+    "code": "c286_01",
+    "name": "Waiting Verdelet"
+  },
+  {
+    "id": 749,
+    "code": "c286_02",
+    "name": "Butler Verdelet"
+  },
+  {
+    "id": 750,
+    "code": "c286_10",
+    "name": "Verdelet"
+  },
+  {
+    "id": 751,
+    "code": "c286_87",
+    "name": "Verdelet"
+  },
+  {
+    "id": 752,
+    "code": "c286_88",
+    "name": "Verdelet"
+  },
+  {
+    "id": 753,
+    "code": "c287_00",
+    "name": "Human Salome"
+  },
+  {
+    "id": 754,
+    "code": "c287_01",
+    "name": "Dancer Salome"
+  },
+  {
+    "id": 755,
+    "code": "c287_02",
+    "name": "Leaping Salome"
+  },
+  {
+    "id": 756,
+    "code": "c287_88",
+    "name": "Leaping Salome"
+  },
+  {
+    "id": 757,
+    "code": "c287_89",
+    "name": "Dancer Salome"
+  },
+  {
+    "id": 758,
+    "code": "c289_00",
+    "name": "Human Durandal"
+  },
+  {
+    "id": 759,
+    "code": "c289_01",
+    "name": "Illusory Durandal"
+  },
+  {
+    "id": 760,
+    "code": "c289_02",
+    "name": "Nightmare Durandal"
+  },
+  {
+    "id": 761,
+    "code": "c289_10",
+    "name": "Mighty Blade Durandal"
+  },
+  {
+    "id": 762,
+    "code": "c290_00",
+    "name": "Human Brigid"
+  },
+  {
+    "id": 763,
+    "code": "c290_01",
+    "name": "Glamorous Brigid"
+  },
+  {
+    "id": 764,
+    "code": "c290_02",
+    "name": "Scarlet Brigid"
+  },
+  {
+    "id": 765,
+    "code": "c292_00",
+    "name": "Human Luin"
+  },
+  {
+    "id": 766,
+    "code": "c292_01",
+    "name": "Blind Luin"
+  },
+  {
+    "id": 767,
+    "code": "c292_02",
+    "name": "Spear of Vengeance Luin"
+  },
+  {
+    "id": 768,
+    "code": "c294_00",
+    "name": "Human Bathory"
+  },
+  {
+    "id": 769,
+    "code": "c294_01",
+    "name": "Lady Bathory"
+  },
+  {
+    "id": 770,
+    "code": "c294_02",
+    "name": "Bloody Bathory"
+  },
+  {
+    "id": 771,
+    "code": "c294_10",
+    "name": "Snake Pit Bathory"
+  },
+  {
+    "id": 772,
+    "code": "c295_00",
+    "name": "Human Unknown"
+  },
+  {
+    "id": 773,
+    "code": "c295_01",
+    "name": "Dreaming Unknown"
+  },
+  {
+    "id": 774,
+    "code": "c295_02",
+    "name": "Silence Unknown"
+  },
+  {
+    "id": 775,
+    "code": "c295_10",
+    "name": "Unknown"
+  },
+  {
+    "id": 776,
+    "code": "c296_00",
+    "name": "Human Hildr"
+  },
+  {
+    "id": 777,
+    "code": "c296_01",
+    "name": "Gunslinger Hildr"
+  },
+  {
+    "id": 778,
+    "code": "c296_02",
+    "name": "Sniper Hildr"
+  },
+  {
+    "id": 779,
+    "code": "c297_00",
+    "name": "Human Red Queen"
+  },
+  {
+    "id": 780,
+    "code": "c297_01",
+    "name": "Affectionate Red Queen"
+  },
+  {
+    "id": 781,
+    "code": "c297_02",
+    "name": "Flawless Red Queen"
+  },
+  {
+    "id": 782,
+    "code": "c299_00",
+    "name": "Human Santa Claus"
+  },
+  {
+    "id": 783,
+    "code": "c299_01",
+    "name": "Memorable Santa Claus"
+  },
+  {
+    "id": 784,
+    "code": "c299_02",
+    "name": "Satan Santa Claus"
+  },
+  {
+    "id": 785,
+    "code": "c300_00",
+    "name": "Human Pietas"
+  },
+  {
+    "id": 786,
+    "code": "c300_01",
+    "name": "Beloved Pietas"
+  },
+  {
+    "id": 787,
+    "code": "c300_02",
+    "name": "Devoted Pietas"
+  },
+  {
+    "id": 788,
+    "code": "c301_01",
+    "name": "Indomitable Jacheongbi"
+  },
+  {
+    "id": 789,
+    "code": "c301_02",
+    "name": "Revolutionary Jacheongbi"
+  },
+  {
+    "id": 790,
+    "code": "c302_00",
+    "name": "Human Atum"
+  },
+  {
+    "id": 791,
+    "code": "c302_01",
+    "name": "Dark Night Atum"
+  },
+  {
+    "id": 792,
+    "code": "c304_01",
+    "name": "Drifting Nebula"
+  },
+  {
+    "id": 793,
+    "code": "c304_02",
+    "name": "Cosmic Nebula"
+  },
+  {
+    "id": 794,
+    "code": "c305_01",
+    "name": "Guiding Rita"
+  },
+  {
+    "id": 795,
+    "code": "c305_02",
+    "name": "Dark Saint Rita"
+  },
+  {
+    "id": 796,
+    "code": "c305_10",
+    "name": "Paradise Exiled Rita"
+  },
+  {
+    "id": 797,
+    "code": "c305_89",
+    "name": "Paradise Exiled Rita"
+  },
+  {
+    "id": 798,
+    "code": "c308_00",
+    "name": "Human Kubaba"
+  },
+  {
+    "id": 799,
+    "code": "c308_01",
+    "name": "Rider Kubaba"
+  },
+  {
+    "id": 800,
+    "code": "c308_02",
+    "name": "Revenge Kubaba"
+  },
+  {
+    "id": 801,
+    "code": "c308_10",
+    "name": "High Speed Kubaba"
+  },
+  {
+    "id": 802,
+    "code": "c310_00",
+    "name": "Human Bes"
+  },
+  {
+    "id": 803,
+    "code": "c310_01",
+    "name": "Spring Bes"
+  },
+  {
+    "id": 804,
+    "code": "c310_02",
+    "name": "Blossom Bes"
+  },
+  {
+    "id": 805,
+    "code": "c311_00",
+    "name": "Human Khepri"
+  },
+  {
+    "id": 806,
+    "code": "c311_01",
+    "name": "Dark Luster Khepri"
+  },
+  {
+    "id": 807,
+    "code": "c311_02",
+    "name": "Vicious Khepri"
+  },
+  {
+    "id": 808,
+    "code": "c311_10",
+    "name": "Khepri"
+  },
+  {
+    "id": 809,
+    "code": "c311_89",
+    "name": "Vicious Khepri"
+  },
+  {
+    "id": 810,
+    "code": "c312_00",
+    "name": "Human Tyrving"
+  },
+  {
+    "id": 811,
+    "code": "c312_01",
+    "name": "Cynical Tyrving"
+  },
+  {
+    "id": 812,
+    "code": "c312_02",
+    "name": "Cursed Sword Tyrving"
+  },
+  {
+    "id": 813,
+    "code": "c314_01",
+    "name": "Debut Mona"
+  },
+  {
+    "id": 814,
+    "code": "c315_01",
+    "name": "Alchemist Methuselah"
+  },
+  {
+    "id": 815,
+    "code": "c315_02",
+    "name": "Seeker Methuselah"
+  },
+  {
+    "id": 816,
+    "code": "c315_10",
+    "name": "Formal Methuselah"
+  },
+  {
+    "id": 817,
+    "code": "c315_89",
+    "name": "Formal Methuselah"
+  },
+  {
+    "id": 818,
+    "code": "c316_00",
+    "name": "Human Wodan"
+  },
+  {
+    "id": 819,
+    "code": "c316_01",
+    "name": "Alchemist Wodan"
+  },
+  {
+    "id": 820,
+    "code": "c316_02",
+    "name": "Seeker Wodan"
+  },
+  {
+    "id": 821,
+    "code": "c317_00",
+    "name": "Human Babel"
+  },
+  {
+    "id": 822,
+    "code": "c317_01",
+    "name": "Hypocrite Babel"
+  },
+  {
+    "id": 823,
+    "code": "c317_02",
+    "name": "False Prophet Babel"
+  },
+  {
+    "id": 824,
+    "code": "c318_00",
+    "name": "Human Bari"
+  },
+  {
+    "id": 825,
+    "code": "c318_01",
+    "name": "Praying Bari"
+  },
+  {
+    "id": 826,
+    "code": "c318_02",
+    "name": "Prayer Bari"
+  },
+  {
+    "id": 827,
+    "code": "c318_10",
+    "name": "Equinoctial Bari"
+  },
+  {
+    "id": 828,
+    "code": "c318_11",
+    "name": "Banshee Bari"
+  },
+  {
+    "id": 829,
+    "code": "c318_12",
+    "name": "Spirit Guide Bari"
+  },
+  {
+    "id": 830,
+    "code": "c318_87",
+    "name": "Spirit Guide Bari"
+  },
+  {
+    "id": 831,
+    "code": "c318_88",
+    "name": "Banshee Bari"
+  },
+  {
+    "id": 832,
+    "code": "c318_89",
+    "name": "Equinoctial Bari"
+  },
+  {
+    "id": 833,
+    "code": "c319_00",
+    "name": "Human Willow Doryeong"
+  },
+  {
+    "id": 834,
+    "code": "c319_01",
+    "name": "Reincarnated Willow Doryeong"
+  },
+  {
+    "id": 835,
+    "code": "c319_02",
+    "name": "Guardian Willow Doryeong"
+  },
+  {
+    "id": 836,
+    "code": "c320_00",
+    "name": "Young Yan Zisuka"
+  },
+  {
+    "id": 837,
+    "code": "c320_01",
+    "name": "Yan Zisuka"
+  },
+  {
+    "id": 838,
+    "code": "c320_02",
+    "name": "Awakened Yan Zisuka"
+  },
+  {
+    "id": 839,
+    "code": "c321_01",
+    "name": "Crescent Luna"
+  },
+  {
+    "id": 840,
+    "code": "c321_02",
+    "name": "Full Moon Luna"
+  },
+  {
+    "id": 841,
+    "code": "c322_00",
+    "name": "Human Saladin"
+  },
+  {
+    "id": 842,
+    "code": "c322_01",
+    "name": "Saladin"
+  },
+  {
+    "id": 843,
+    "code": "c322_02",
+    "name": "Awakened Saladin"
+  },
+  {
+    "id": 844,
+    "code": "c322_10",
+    "name": "Past Saladin"
+  },
+  {
+    "id": 845,
+    "code": "c324_01",
+    "name": "Newbie Mona"
+  },
+  {
+    "id": 846,
+    "code": "c324_02",
+    "name": "Rookie Mona"
+  },
+  {
+    "id": 847,
+    "code": "c324_21",
+    "name": "Hurt Mona"
+  },
+  {
+    "id": 848,
+    "code": "c325_00",
+    "name": "Human John"
+  },
+  {
+    "id": 849,
+    "code": "c325_01",
+    "name": "John"
+  },
+  {
+    "id": 850,
+    "code": "c326_01",
+    "name": "Valla"
+  },
+  {
+    "id": 851,
+    "code": "c327_01",
+    "name": "Guard"
+  },
+  {
+    "id": 852,
+    "code": "c328_01",
+    "name": "Guard"
+  },
+  {
+    "id": 853,
+    "code": "c329_01",
+    "name": "Racer Davi"
+  },
+  {
+    "id": 854,
+    "code": "c329_02",
+    "name": "Dark Horse Davi"
+  },
+  {
+    "id": 855,
+    "code": "c330_01",
+    "name": "Ottoman"
+  },
+  {
+    "id": 856,
+    "code": "c331_01",
+    "name": "Altruistic Saladin"
+  },
+  {
+    "id": 857,
+    "code": "c332_01",
+    "name": "Maverick Ganesha"
+  },
+  {
+    "id": 858,
+    "code": "c332_02",
+    "name": "Nandikesvara Ganesha"
+  },
+  {
+    "id": 859,
+    "code": "c333_00",
+    "name": "Human Deborah"
+  },
+  {
+    "id": 860,
+    "code": "c333_01",
+    "name": "Exorcist Deborah"
+  },
+  {
+    "id": 861,
+    "code": "c333_02",
+    "name": "Capturing Deborah"
+  },
+  {
+    "id": 862,
+    "code": "c333_88",
+    "name": "Capturing Deborah"
+  },
+  {
+    "id": 863,
+    "code": "c334_01",
+    "name": "Fantasy Dream Lisa"
+  },
+  {
+    "id": 864,
+    "code": "c334_02",
+    "name": "Disillusioned Lisa"
+  },
+  {
+    "id": 865,
+    "code": "c335_01",
+    "name": "Peerless Power Hathor"
+  },
+  {
+    "id": 866,
+    "code": "c335_02",
+    "name": "Extinction Hathor"
+  },
+  {
+    "id": 867,
+    "code": "c335_10",
+    "name": "Assured Victory Hathor"
+  },
+  {
+    "id": 868,
+    "code": "c336_01",
+    "name": "Field Pan"
+  },
+  {
+    "id": 869,
+    "code": "c336_02",
+    "name": "Farm Sheep Pan"
+  },
+  {
+    "id": 870,
+    "code": "c336_10",
+    "name": "Pan"
+  },
+  {
+    "id": 871,
+    "code": "c336_89",
+    "name": "Farm Sheep Pan"
+  },
+  {
+    "id": 872,
+    "code": "c337_01",
+    "name": "Mascot Freyja"
+  },
+  {
+    "id": 873,
+    "code": "c337_02",
+    "name": "Sprinter Freyja"
+  },
+  {
+    "id": 874,
+    "code": "c338_01",
+    "name": "Pure White Pomona"
+  },
+  {
+    "id": 875,
+    "code": "c338_02",
+    "name": "Pure Bride Pomona"
+  },
+  {
+    "id": 876,
+    "code": "c339_01",
+    "name": "Love & Hate Davi"
+  },
+  {
+    "id": 877,
+    "code": "c339_02",
+    "name": "Ambivalence Davi"
+  },
+  {
+    "id": 878,
+    "code": "c342_01",
+    "name": "Full Bloom Yami"
+  },
+  {
+    "id": 879,
+    "code": "c342_02",
+    "name": "Phantosmia Yami"
+  },
+  {
+    "id": 880,
+    "code": "c342_10",
+    "name": "Yami"
+  },
+  {
+    "id": 881,
+    "code": "c342_11",
+    "name": "Dark Scent Yami"
+  },
+  {
+    "id": 882,
+    "code": "c343_01",
+    "name": "One Sword Tiamat"
+  },
+  {
+    "id": 883,
+    "code": "c343_02",
+    "name": "Slashing Tiamat"
+  },
+  {
+    "id": 884,
+    "code": "c344_01",
+    "name": "White Handed Isolde"
+  },
+  {
+    "id": 885,
+    "code": "c344_02",
+    "name": "Nova Isolde"
+  },
+  {
+    "id": 886,
+    "code": "c344_10",
+    "name": "Summer Spike Isolde"
+  },
+  {
+    "id": 887,
+    "code": "c344_11",
+    "name": "Enchanting Isolde"
+  },
+  {
+    "id": 888,
+    "code": "c344_87",
+    "name": "Enchanting Isolde"
+  },
+  {
+    "id": 889,
+    "code": "c344_88",
+    "name": "Nova Isolde"
+  },
+  {
+    "id": 890,
+    "code": "c344_89",
+    "name": "Summer Spike Isolde"
+  },
+  {
+    "id": 891,
+    "code": "c345_01",
+    "name": "Midsummer Anemone"
+  },
+  {
+    "id": 892,
+    "code": "c345_02",
+    "name": "Gambler Anemone"
+  },
+  {
+    "id": 893,
+    "code": "c345_10",
+    "name": "Sunrise Anemone"
+  },
+  {
+    "id": 894,
+    "code": "c345_11",
+    "name": "Burning Passion Anemone"
+  },
+  {
+    "id": 895,
+    "code": "c345_87",
+    "name": "Burning Passion Anemone"
+  },
+  {
+    "id": 896,
+    "code": "c345_88",
+    "name": "Gambler Anemone"
+  },
+  {
+    "id": 897,
+    "code": "c345_89",
+    "name": "Sunrise Anemone"
+  },
+  {
+    "id": 898,
+    "code": "c346_01",
+    "name": "Blocking Tristan"
+  },
+  {
+    "id": 899,
+    "code": "c346_02",
+    "name": "Solitary Tristan"
+  },
+  {
+    "id": 900,
+    "code": "c347_01",
+    "name": "Prophet Dana"
+  },
+  {
+    "id": 901,
+    "code": "c347_02",
+    "name": "Second Advent Dana"
+  },
+  {
+    "id": 902,
+    "code": "c348_00",
+    "name": "Human Mars?"
+  },
+  {
+    "id": 903,
+    "code": "c348_01",
+    "name": "Pretty Mars?"
+  },
+  {
+    "id": 904,
+    "code": "c348_02",
+    "name": "Sweet Devi Mars?"
+  },
+  {
+    "id": 905,
+    "code": "c348_10",
+    "name": "Sweet Love Mars?"
+  },
+  {
+    "id": 906,
+    "code": "c349_00",
+    "name": "Human Saturn?"
+  },
+  {
+    "id": 907,
+    "code": "c349_01",
+    "name": "Mysterious Saturn?"
+  },
+  {
+    "id": 908,
+    "code": "c349_02",
+    "name": "Starlight Saturn?"
+  },
+  {
+    "id": 909,
+    "code": "c350_00",
+    "name": "Human Neptune?"
+  },
+  {
+    "id": 910,
+    "code": "c350_01",
+    "name": "Hard Worker Neptune?"
+  },
+  {
+    "id": 911,
+    "code": "c350_02",
+    "name": "Pure Smile Neptune?"
+  },
+  {
+    "id": 912,
+    "code": "c351_00",
+    "name": "Human Venus?"
+  },
+  {
+    "id": 913,
+    "code": "c351_01",
+    "name": "Naive Venus?"
+  },
+  {
+    "id": 914,
+    "code": "c351_02",
+    "name": "Heavenly Flower Venus?"
+  },
+  {
+    "id": 915,
+    "code": "c352_00",
+    "name": "Producer Maestro"
+  },
+  {
+    "id": 916,
+    "code": "c353_00",
+    "name": "Human Charlotte"
+  },
+  {
+    "id": 917,
+    "code": "c353_01",
+    "name": "Charlotte"
+  },
+  {
+    "id": 918,
+    "code": "c353_02",
+    "name": "Glorious Charlotte"
+  },
+  {
+    "id": 919,
+    "code": "c354_01",
+    "name": "Needfire Demeter"
+  },
+  {
+    "id": 920,
+    "code": "c354_02",
+    "name": "Crimson Demeter"
+  },
+  {
+    "id": 921,
+    "code": "c354_10",
+    "name": "Mad Nurse Demeter"
+  },
+  {
+    "id": 922,
+    "code": "c354_89",
+    "name": "Crimson Demeter"
+  },
+  {
+    "id": 923,
+    "code": "c355_01",
+    "name": "Guardian Chang'e"
+  },
+  {
+    "id": 924,
+    "code": "c355_02",
+    "name": "Inugami Chang'e"
+  },
+  {
+    "id": 925,
+    "code": "c357_01",
+    "name": "Unjust Occasio"
+  },
+  {
+    "id": 926,
+    "code": "c357_02",
+    "name": "Opportune Occasio"
+  },
+  {
+    "id": 927,
+    "code": "c358_01",
+    "name": "Hatsune Miku"
+  },
+  {
+    "id": 928,
+    "code": "c358_02",
+    "name": "Diva Hatsune Miku"
+  },
+  {
+    "id": 929,
+    "code": "c359_01",
+    "name": "Snow Miku"
+  },
+  {
+    "id": 930,
+    "code": "c359_02",
+    "name": "Snow Priestess Snow Miku"
+  },
+  {
+    "id": 931,
+    "code": "c360_01",
+    "name": "Liberated Maat"
+  },
+  {
+    "id": 932,
+    "code": "c360_02",
+    "name": "Descended Maat"
+  },
+  {
+    "id": 933,
+    "code": "c360_10",
+    "name": "Chasm Maat"
+  },
+  {
+    "id": 934,
+    "code": "c361_01",
+    "name": "Devouring Caduceus"
+  },
+  {
+    "id": 935,
+    "code": "c361_02",
+    "name": "Black Snake Caduceus"
+  },
+  {
+    "id": 936,
+    "code": "c361_10",
+    "name": "Weaponized Caduceus"
+  },
+  {
+    "id": 937,
+    "code": "c361_87",
+    "name": "Weaponized Caduceus"
+  },
+  {
+    "id": 938,
+    "code": "c361_88",
+    "name": "Black Snake Caduceus"
+  },
+  {
+    "id": 939,
+    "code": "c361_89",
+    "name": "Devouring Caduceus"
+  },
+  {
+    "id": 940,
+    "code": "c362_01",
+    "name": "Kind Leo"
+  },
+  {
+    "id": 941,
+    "code": "c362_02",
+    "name": "Incubus Leo"
+  },
+  {
+    "id": 942,
+    "code": "c362_10",
+    "name": "Maid Leo"
+  },
+  {
+    "id": 943,
+    "code": "c362_11",
+    "name": "Butler Leo"
+  },
+  {
+    "id": 944,
+    "code": "c363_01",
+    "name": "Phantom Thief Lupin"
+  },
+  {
+    "id": 945,
+    "code": "c363_02",
+    "name": "Vanguard Lupin"
+  },
+  {
+    "id": 946,
+    "code": "c364_01",
+    "name": "Sweet Sytry"
+  },
+  {
+    "id": 947,
+    "code": "c364_02",
+    "name": "Lovey-Dovey Sytry"
+  },
+  {
+    "id": 948,
+    "code": "c364_10",
+    "name": "So Sicktry Sytry"
+  },
+  {
+    "id": 949,
+    "code": "c365_01",
+    "name": "Dark Buster Lisa"
+  },
+  {
+    "id": 950,
+    "code": "c365_02",
+    "name": "Devil Buster Lisa"
+  },
+  {
+    "id": 951,
+    "code": "c366_01",
+    "name": "Hard Worker Deino"
+  },
+  {
+    "id": 952,
+    "code": "c366_02",
+    "name": "Hopeful Deino"
+  },
+  {
+    "id": 953,
+    "code": "c367_01",
+    "name": "Archfiend Davi"
+  },
+  {
+    "id": 954,
+    "code": "c367_02",
+    "name": "True Archfiend Davi"
+  },
+  {
+    "id": 955,
+    "code": "c367_88",
+    "name": "True Archfiend Davi"
+  },
+  {
+    "id": 956,
+    "code": "c367_89",
+    "name": "Archfiend Davi"
+  },
+  {
+    "id": 957,
+    "code": "c369_00",
+    "name": "Old Lady"
+  },
+  {
+    "id": 958,
+    "code": "c370_01",
+    "name": "Sunbeach Mona"
+  },
+  {
+    "id": 959,
+    "code": "c370_02",
+    "name": "Diver Mona"
+  },
+  {
+    "id": 960,
+    "code": "c370_10",
+    "name": "Hot Pink Mona"
+  },
+  {
+    "id": 961,
+    "code": "c370_89",
+    "name": "Sunbeach Mona"
+  },
+  {
+    "id": 962,
+    "code": "c371_01",
+    "name": "Marine Suit Lisa"
+  },
+  {
+    "id": 963,
+    "code": "c371_02",
+    "name": "Summer Blue Lisa"
+  },
+  {
+    "id": 964,
+    "code": "c371_10",
+    "name": "Rashguard Lisa"
+  },
+  {
+    "id": 965,
+    "code": "c372_01",
+    "name": "School Swimsuit Davi"
+  },
+  {
+    "id": 966,
+    "code": "c372_02",
+    "name": "Summer Davi"
+  },
+  {
+    "id": 967,
+    "code": "c372_10",
+    "name": "Sports Bikini Davi"
+  },
+  {
+    "id": 968,
+    "code": "c373_01",
+    "name": "Ruffian Midas"
+  },
+  {
+    "id": 969,
+    "code": "c373_02",
+    "name": "Black-Winged Messenger Midas"
+  },
+  {
+    "id": 970,
+    "code": "c374_01",
+    "name": "White Wedding Hildr"
+  },
+  {
+    "id": 971,
+    "code": "c374_02",
+    "name": "Wedding Gown Hildr"
+  },
+  {
+    "id": 972,
+    "code": "c375_01",
+    "name": "Rebirth Synthesis Animation Wodan"
+  },
+  {
+    "id": 973,
+    "code": "c376_01",
+    "name": "Ganesha"
+  },
+  {
+    "id": 974,
+    "code": "c377_00",
+    "name": "Human Iphis"
+  },
+  {
+    "id": 975,
+    "code": "c377_01",
+    "name": "Romantic Iphis"
+  },
+  {
+    "id": 976,
+    "code": "c377_02",
+    "name": "Scarlet Iphis"
+  },
+  {
+    "id": 977,
+    "code": "c377_10",
+    "name": "Bridal Iphis"
+  },
+  {
+    "id": 978,
+    "code": "c377_11",
+    "name": "Shadow Iphis"
+  },
+  {
+    "id": 979,
+    "code": "c377_89",
+    "name": "Bridal Iphis"
+  },
+  {
+    "id": 980,
+    "code": "c378_00",
+    "name": "Human Pallas"
+  },
+  {
+    "id": 981,
+    "code": "c378_01",
+    "name": "Pallas"
+  },
+  {
+    "id": 982,
+    "code": "c378_02",
+    "name": "Darkness Clad Pallas"
+  },
+  {
+    "id": 983,
+    "code": "c379_01",
+    "name": "Athena"
+  },
+  {
+    "id": 984,
+    "code": "c379_02",
+    "name": "Benign Devotion Athena"
+  },
+  {
+    "id": 985,
+    "code": "c381_01",
+    "name": "Fluttering Sytry"
+  },
+  {
+    "id": 986,
+    "code": "c381_02",
+    "name": "Summer Love Sytry"
+  },
+  {
+    "id": 987,
+    "code": "c381_10",
+    "name": "Enchanting Sytry"
+  },
+  {
+    "id": 988,
+    "code": "c381_87",
+    "name": "Sytry"
+  },
+  {
+    "id": 989,
+    "code": "c381_88",
+    "name": "Sytry"
+  },
+  {
+    "id": 990,
+    "code": "c381_89",
+    "name": "Sytry"
+  },
+  {
+    "id": 991,
+    "code": "c382_01",
+    "name": "Catgirl Neamhain"
+  },
+  {
+    "id": 992,
+    "code": "c382_02",
+    "name": "Battle Kitty Neamhain"
+  },
+  {
+    "id": 993,
+    "code": "c382_10",
+    "name": "Inca Rose Neamhain"
+  },
+  {
+    "id": 994,
+    "code": "c383_01",
+    "name": "Resurrected Frej"
+  },
+  {
+    "id": 995,
+    "code": "c383_02",
+    "name": "Unleashed Frej"
+  },
+  {
+    "id": 996,
+    "code": "c383_10",
+    "name": "Toxic Frej"
+  },
+  {
+    "id": 997,
+    "code": "c383_11",
+    "name": "Cursed Doll Frej"
+  },
+  {
+    "id": 998,
+    "code": "c384_01",
+    "name": "Prototype Narvi"
+  },
+  {
+    "id": 999,
+    "code": "c384_02",
+    "name": "Devilized Narvi"
+  },
+  {
+    "id": 1000,
+    "code": "c385_01",
+    "name": "Marie Rose"
+  },
+  {
+    "id": 1001,
+    "code": "c385_02",
+    "name": "Battlesuit Marie Rose"
+  },
+  {
+    "id": 1002,
+    "code": "c385_10",
+    "name": "Swimsuit Marie Rose"
+  },
+  {
+    "id": 1003,
+    "code": "c385_11",
+    "name": "Russian Blue Marie Rose"
+  },
+  {
+    "id": 1004,
+    "code": "c385_12",
+    "name": "Minuet Marie Rose"
+  },
+  {
+    "id": 1005,
+    "code": "c386_01",
+    "name": "Kasumi"
+  },
+  {
+    "id": 1006,
+    "code": "c386_02",
+    "name": "Immaculate Kasumi"
+  },
+  {
+    "id": 1007,
+    "code": "c386_10",
+    "name": "Geranium Kasumi"
+  },
+  {
+    "id": 1008,
+    "code": "c386_11",
+    "name": "Nemophila Kasumi"
+  },
+  {
+    "id": 1009,
+    "code": "c386_12",
+    "name": "Margarita Kasumi"
+  },
+  {
+    "id": 1010,
+    "code": "c386_13",
+    "name": "Geranium Kasumi"
+  },
+  {
+    "id": 1011,
+    "code": "c386_88",
+    "name": "World Boss Kasumi"
+  },
+  {
+    "id": 1012,
+    "code": "c387_01",
+    "name": "Honoka"
+  },
+  {
+    "id": 1013,
+    "code": "c387_02",
+    "name": "Casual Honoka"
+  },
+  {
+    "id": 1014,
+    "code": "c387_10",
+    "name": "Moo-Moo Denim Honoka"
+  },
+  {
+    "id": 1015,
+    "code": "c387_11",
+    "name": "Delphinium Honoka"
+  },
+  {
+    "id": 1016,
+    "code": "c388_01",
+    "name": "Kouka"
+  },
+  {
+    "id": 1017,
+    "code": "c388_02",
+    "name": "Mass Produced Kouka"
+  },
+  {
+    "id": 1018,
+    "code": "c389_01",
+    "name": "Black Widow Iphis"
+  },
+  {
+    "id": 1019,
+    "code": "c389_02",
+    "name": "Iphis"
+  },
+  {
+    "id": 1020,
+    "code": "c389_89",
+    "name": "Black Widow Iphis"
+  },
+  {
+    "id": 1021,
+    "code": "c390_01",
+    "name": "Witch Eochaid"
+  },
+  {
+    "id": 1022,
+    "code": "c390_02",
+    "name": "Death March Eochaid"
+  },
+  {
+    "id": 1023,
+    "code": "c390_88",
+    "name": "Death March Eochaid"
+  },
+  {
+    "id": 1024,
+    "code": "c390_89",
+    "name": "Witch Eochaid"
+  },
+  {
+    "id": 1025,
+    "code": "c391_01",
+    "name": "Party Star Medb"
+  },
+  {
+    "id": 1026,
+    "code": "c391_02",
+    "name": "Party Night Medb"
+  },
+  {
+    "id": 1027,
+    "code": "c392_01",
+    "name": "Altered Davi"
+  },
+  {
+    "id": 1028,
+    "code": "c392_02",
+    "name": "Neo Davi"
+  },
+  {
+    "id": 1029,
+    "code": "c392_10",
+    "name": "Dark Tears Davi"
+  },
+  {
+    "id": 1030,
+    "code": "c392_89",
+    "name": "Altered Davi"
+  },
+  {
+    "id": 1031,
+    "code": "c393_01",
+    "name": "Lightbeam Mona"
+  },
+  {
+    "id": 1032,
+    "code": "c393_02",
+    "name": "Heavenly Ray Mona"
+  },
+  {
+    "id": 1033,
+    "code": "c393_10",
+    "name": "Radiant Mona"
+  },
+  {
+    "id": 1034,
+    "code": "c394_01",
+    "name": "Courtesan Bathory"
+  },
+  {
+    "id": 1035,
+    "code": "c394_02",
+    "name": "Supreme Courtesan Bathory"
+  },
+  {
+    "id": 1036,
+    "code": "c395_01",
+    "name": "Mysterious Student Eve"
+  },
+  {
+    "id": 1037,
+    "code": "c395_02",
+    "name": "Pink Blazer Eve"
+  },
+  {
+    "id": 1038,
+    "code": "c396_01",
+    "name": "Dancing Maiden Werewolf"
+  },
+  {
+    "id": 1039,
+    "code": "c396_02",
+    "name": "Oracle Werewolf"
+  },
+  {
+    "id": 1040,
+    "code": "c397_01",
+    "name": "Christmas Leda"
+  },
+  {
+    "id": 1041,
+    "code": "c397_02",
+    "name": "Sexy Santa Leda"
+  },
+  {
+    "id": 1042,
+    "code": "c398_01",
+    "name": "String Jacheongbi"
+  },
+  {
+    "id": 1043,
+    "code": "c398_02",
+    "name": "Gayageum Jacheongbi"
+  },
+  {
+    "id": 1044,
+    "code": "c398_89",
+    "name": "Jacheongbi"
+  },
+  {
+    "id": 1045,
+    "code": "c399_01",
+    "name": "Heartbeat Mona"
+  },
+  {
+    "id": 1046,
+    "code": "c400_01",
+    "name": "Grieving Banshee"
+  },
+  {
+    "id": 1047,
+    "code": "c400_02",
+    "name": "Scattering Banshee"
+  },
+  {
+    "id": 1048,
+    "code": "c401_01",
+    "name": "SNOW MIKU"
+  },
+  {
+    "id": 1049,
+    "code": "c401_02",
+    "name": "PRINCESS SNOW MIKU"
+  },
+  {
+    "id": 1050,
+    "code": "c402_01",
+    "name": "Noel"
+  },
+  {
+    "id": 1051,
+    "code": "c402_02",
+    "name": "Fourth Squadron Noel"
+  },
+  {
+    "id": 1052,
+    "code": "c402_10",
+    "name": "?-Noel"
+  },
+  {
+    "id": 1053,
+    "code": "c403_01",
+    "name": "Makoto"
+  },
+  {
+    "id": 1054,
+    "code": "c403_02",
+    "name": "NOL Intel Dept Makoto"
+  },
+  {
+    "id": 1055,
+    "code": "c404_01",
+    "name": "Nine"
+  },
+  {
+    "id": 1056,
+    "code": "c404_02",
+    "name": "Six Heroes Nine"
+  },
+  {
+    "id": 1057,
+    "code": "c405_01",
+    "name": "Piercing Luin"
+  },
+  {
+    "id": 1058,
+    "code": "c405_02",
+    "name": "King's Lancer Luin"
+  },
+  {
+    "id": 1059,
+    "code": "c405_88",
+    "name": "King's Lancer Luin"
+  },
+  {
+    "id": 1060,
+    "code": "c405_89",
+    "name": "Piercing Luin"
+  },
+  {
+    "id": 1061,
+    "code": "c406_01",
+    "name": "Serval"
+  },
+  {
+    "id": 1062,
+    "code": "c406_02",
+    "name": "Savanna Serval"
+  },
+  {
+    "id": 1063,
+    "code": "c407_01",
+    "name": "Raccoon"
+  },
+  {
+    "id": 1064,
+    "code": "c407_02",
+    "name": "Arboreal Raccoon"
+  },
+  {
+    "id": 1065,
+    "code": "c408_01",
+    "name": "Fennec"
+  },
+  {
+    "id": 1066,
+    "code": "c408_02",
+    "name": "Desert Fennec"
+  },
+  {
+    "id": 1067,
+    "code": "c409_01",
+    "name": "Hungry Limos"
+  },
+  {
+    "id": 1068,
+    "code": "c409_02",
+    "name": "Full Limos"
+  },
+  {
+    "id": 1069,
+    "code": "c409_10",
+    "name": "Satisfied Limos"
+  },
+  {
+    "id": 1070,
+    "code": "c410_00",
+    "name": "Human Failnaught"
+  },
+  {
+    "id": 1071,
+    "code": "c410_01",
+    "name": "Proud Failnaught"
+  },
+  {
+    "id": 1072,
+    "code": "c410_02",
+    "name": "Demonic Deadeye Failnaught"
+  },
+  {
+    "id": 1073,
+    "code": "c411_01",
+    "name": "Spa? Animation Mei"
+  },
+  {
+    "id": 1074,
+    "code": "c412_00",
+    "name": "Cain"
+  },
+  {
+    "id": 1075,
+    "code": "c412_01",
+    "name": "Exorcist Cain"
+  },
+  {
+    "id": 1076,
+    "code": "c412_02",
+    "name": "Heretic Cain"
+  },
+  {
+    "id": 1077,
+    "code": "c412_88",
+    "name": "Heretic Cain"
+  },
+  {
+    "id": 1078,
+    "code": "c412_89",
+    "name": "Exorcist Cain"
+  },
+  {
+    "id": 1079,
+    "code": "c413_00",
+    "name": "Human Abel"
+  },
+  {
+    "id": 1080,
+    "code": "c413_21",
+    "name": "Impassioned Abel"
+  },
+  {
+    "id": 1081,
+    "code": "c414_00",
+    "name": "Human Billy"
+  },
+  {
+    "id": 1082,
+    "code": "c414_01",
+    "name": "Gunner Billy"
+  },
+  {
+    "id": 1083,
+    "code": "c414_02",
+    "name": "Deadshot Billy"
+  },
+  {
+    "id": 1084,
+    "code": "c414_10",
+    "name": "Splash Billy"
+  },
+  {
+    "id": 1085,
+    "code": "c414_89",
+    "name": "Billy"
+  },
+  {
+    "id": 1086,
+    "code": "c415_00",
+    "name": "Human Annie"
+  },
+  {
+    "id": 1087,
+    "code": "c415_01",
+    "name": "Risk Taker Annie"
+  },
+  {
+    "id": 1088,
+    "code": "c415_02",
+    "name": "Wild Hunt Annie"
+  },
+  {
+    "id": 1089,
+    "code": "c416_00",
+    "name": "Human Keino"
+  },
+  {
+    "id": 1090,
+    "code": "c416_01",
+    "name": "Demon Princess Keino"
+  },
+  {
+    "id": 1091,
+    "code": "c416_02",
+    "name": "Phantom Keino"
+  },
+  {
+    "id": 1092,
+    "code": "c416_10",
+    "name": "Chancing Keino"
+  },
+  {
+    "id": 1093,
+    "code": "c416_87",
+    "name": "Chancing Keino"
+  },
+  {
+    "id": 1094,
+    "code": "c417_00",
+    "name": "Human Tamamo"
+  },
+  {
+    "id": 1095,
+    "code": "c417_01",
+    "name": "Nine-Tailed Fox Tamamo"
+  },
+  {
+    "id": 1096,
+    "code": "c417_02",
+    "name": "Bewitching Tamamo"
+  },
+  {
+    "id": 1097,
+    "code": "c417_10",
+    "name": "Summer Tamamo"
+  },
+  {
+    "id": 1098,
+    "code": "c417_87",
+    "name": "Summer Tamamo"
+  },
+  {
+    "id": 1099,
+    "code": "c417_89",
+    "name": "Nine-Tailed Fox Tamamo"
+  },
+  {
+    "id": 1100,
+    "code": "c418_01",
+    "name": "Flower of Justice Mafdet"
+  },
+  {
+    "id": 1101,
+    "code": "c418_02",
+    "name": "Justice Incarnate Mafdet"
+  },
+  {
+    "id": 1102,
+    "code": "c419_01",
+    "name": "Cheating Catherine"
+  },
+  {
+    "id": 1103,
+    "code": "c419_02",
+    "name": "Inverted & Devilish Catherine"
+  },
+  {
+    "id": 1104,
+    "code": "c420_01",
+    "name": "Girlfriend Katherine"
+  },
+  {
+    "id": 1105,
+    "code": "c420_02",
+    "name": "Pure Bride Katherine"
+  },
+  {
+    "id": 1106,
+    "code": "c420_10",
+    "name": "Wild Crimson Katherine"
+  },
+  {
+    "id": 1107,
+    "code": "c420_89",
+    "name": "Wild Crimson Katherine"
+  },
+  {
+    "id": 1108,
+    "code": "c421_01",
+    "name": "Rin"
+  },
+  {
+    "id": 1109,
+    "code": "c421_02",
+    "name": "Pure Rin"
+  },
+  {
+    "id": 1110,
+    "code": "c422_01",
+    "name": "Temptress Heket"
+  },
+  {
+    "id": 1111,
+    "code": "c422_02",
+    "name": "Mother Heket"
+  },
+  {
+    "id": 1112,
+    "code": "c422_10",
+    "name": "Heket"
+  },
+  {
+    "id": 1113,
+    "code": "c422_88",
+    "name": "Mother Heket"
+  },
+  {
+    "id": 1114,
+    "code": "c423_01",
+    "name": "Swift Laima"
+  },
+  {
+    "id": 1115,
+    "code": "c423_02",
+    "name": "Persistent Laima"
+  },
+  {
+    "id": 1116,
+    "code": "c423_10",
+    "name": "Pure Love Laima"
+  },
+  {
+    "id": 1117,
+    "code": "c423_87",
+    "name": "Pure Love Laima"
+  },
+  {
+    "id": 1118,
+    "code": "c423_88",
+    "name": "Biased Laima"
+  },
+  {
+    "id": 1119,
+    "code": "c423_89",
+    "name": "Swift Laima"
+  },
+  {
+    "id": 1120,
+    "code": "c424_01",
+    "name": "Blacksmith Hephaestus"
+  },
+  {
+    "id": 1121,
+    "code": "c425_01",
+    "name": "Punishing Seth"
+  },
+  {
+    "id": 1122,
+    "code": "c425_02",
+    "name": "Sacrificing Seth"
+  },
+  {
+    "id": 1123,
+    "code": "c425_10",
+    "name": "Legion Seth"
+  },
+  {
+    "id": 1124,
+    "code": "c425_87",
+    "name": "Legion Seth"
+  },
+  {
+    "id": 1125,
+    "code": "c425_88",
+    "name": "Sacrificing Seth"
+  },
+  {
+    "id": 1126,
+    "code": "c425_89",
+    "name": "Punishing Seth"
+  },
+  {
+    "id": 1127,
+    "code": "c426_00",
+    "name": "Human Ophois"
+  },
+  {
+    "id": 1128,
+    "code": "c426_01",
+    "name": "Hasty Ophois"
+  },
+  {
+    "id": 1129,
+    "code": "c426_02",
+    "name": "Pioneer Ophois"
+  },
+  {
+    "id": 1130,
+    "code": "c428_01",
+    "name": "Substitute Seth"
+  },
+  {
+    "id": 1131,
+    "code": "c428_02",
+    "name": "Avatar Seth"
+  },
+  {
+    "id": 1132,
+    "code": "c428_88",
+    "name": "Avatar Seth"
+  },
+  {
+    "id": 1133,
+    "code": "c428_89",
+    "name": "Substitute Seth"
+  },
+  {
+    "id": 1134,
+    "code": "c429_00",
+    "name": "Human Ziva"
+  },
+  {
+    "id": 1135,
+    "code": "c429_01",
+    "name": "Peaceful Ziva"
+  },
+  {
+    "id": 1136,
+    "code": "c429_02",
+    "name": "Frozen Wasteland Ziva"
+  },
+  {
+    "id": 1137,
+    "code": "c429_10",
+    "name": "Christmas Ziva"
+  },
+  {
+    "id": 1138,
+    "code": "c429_88",
+    "name": "Frozen Wasteland Ziva"
+  },
+  {
+    "id": 1139,
+    "code": "c430_00",
+    "name": "Human Giltine"
+  },
+  {
+    "id": 1140,
+    "code": "c430_01",
+    "name": "Tundra Giltine"
+  },
+  {
+    "id": 1141,
+    "code": "c430_02",
+    "name": "Ice Field Hunter Giltine"
+  },
+  {
+    "id": 1142,
+    "code": "c430_10",
+    "name": "Christmas Giltine"
+  },
+  {
+    "id": 1143,
+    "code": "c431_01",
+    "name": "Skiing Eshu"
+  },
+  {
+    "id": 1144,
+    "code": "c431_02",
+    "name": "Snow Eshu"
+  },
+  {
+    "id": 1145,
+    "code": "c431_10",
+    "name": "Christmas Eshu"
+  },
+  {
+    "id": 1146,
+    "code": "c432_01",
+    "name": "Moonlight Artemis"
+  },
+  {
+    "id": 1147,
+    "code": "c432_02",
+    "name": "Berserk Artemis"
+  },
+  {
+    "id": 1148,
+    "code": "c432_10",
+    "name": "Lunar Eclipse Artemis"
+  },
+  {
+    "id": 1149,
+    "code": "c433_01",
+    "name": "Peppy Pakhet"
+  },
+  {
+    "id": 1150,
+    "code": "c433_02",
+    "name": "Cutesy Pakhet"
+  },
+  {
+    "id": 1151,
+    "code": "c433_10",
+    "name": "Lovely Summer Pakhet"
+  },
+  {
+    "id": 1152,
+    "code": "c434_01",
+    "name": "Sweet Leda"
+  },
+  {
+    "id": 1153,
+    "code": "c434_02",
+    "name": "Lovely Leda"
+  },
+  {
+    "id": 1154,
+    "code": "c434_10",
+    "name": "Leda"
+  },
+  {
+    "id": 1155,
+    "code": "c435_01",
+    "name": "Fancy Sytry"
+  },
+  {
+    "id": 1156,
+    "code": "c435_02",
+    "name": "Maid Sytry"
+  },
+  {
+    "id": 1157,
+    "code": "c435_10",
+    "name": "Heartfelt Sytry"
+  },
+  {
+    "id": 1158,
+    "code": "c436_01",
+    "name": "Anxious Serket"
+  },
+  {
+    "id": 1159,
+    "code": "c436_02",
+    "name": "Maid Serket"
+  },
+  {
+    "id": 1160,
+    "code": "c436_10",
+    "name": "Agape Serket"
+  },
+  {
+    "id": 1161,
+    "code": "c436_89",
+    "name": "Agape Serket"
+  },
+  {
+    "id": 1162,
+    "code": "c437_01",
+    "name": "Cute Euros"
+  },
+  {
+    "id": 1163,
+    "code": "c437_02",
+    "name": "Joyful Euros"
+  },
+  {
+    "id": 1164,
+    "code": "c438_01",
+    "name": "Mate Semele"
+  },
+  {
+    "id": 1165,
+    "code": "c438_02",
+    "name": "Enchant Semele"
+  },
+  {
+    "id": 1166,
+    "code": "c438_10",
+    "name": "Dress-up Semele"
+  },
+  {
+    "id": 1167,
+    "code": "c438_11",
+    "name": "Degenerated Semele"
+  },
+  {
+    "id": 1168,
+    "code": "c438_12",
+    "name": "Young Semele"
+  },
+  {
+    "id": 1169,
+    "code": "c439_01",
+    "name": "Dreamer Saturn?"
+  },
+  {
+    "id": 1170,
+    "code": "c439_02",
+    "name": "Actress Saturn?"
+  },
+  {
+    "id": 1171,
+    "code": "c440_01",
+    "name": "Perfect Mona"
+  },
+  {
+    "id": 1172,
+    "code": "c440_02",
+    "name": "Lovely Mona"
+  },
+  {
+    "id": 1173,
+    "code": "c440_10",
+    "name": "Exquisite Mona"
+  },
+  {
+    "id": 1174,
+    "code": "c441_01",
+    "name": "Ritual Sword Robin"
+  },
+  {
+    "id": 1175,
+    "code": "c441_02",
+    "name": "Hero Robin"
+  },
+  {
+    "id": 1176,
+    "code": "c442_00",
+    "name": "Human Nirrti"
+  },
+  {
+    "id": 1177,
+    "code": "c442_01",
+    "name": "Nirodhasatya Nirrti"
+  },
+  {
+    "id": 1178,
+    "code": "c442_02",
+    "name": "Tathata Nirrti"
+  },
+  {
+    "id": 1179,
+    "code": "c442_10",
+    "name": "Neighbor Nirrti"
+  },
+  {
+    "id": 1180,
+    "code": "c442_11",
+    "name": "Zen Master Nirrti"
+  },
+  {
+    "id": 1181,
+    "code": "c442_12",
+    "name": "Nirrti"
+  },
+  {
+    "id": 1182,
+    "code": "c443_01",
+    "name": "Phantom Thief Raffles"
+  },
+  {
+    "id": 1183,
+    "code": "c443_02",
+    "name": "Phantom Raffles"
+  },
+  {
+    "id": 1184,
+    "code": "c444_01",
+    "name": "Mitra"
+  },
+  {
+    "id": 1185,
+    "code": "c444_10",
+    "name": "Uniform Mitra"
+  },
+  {
+    "id": 1186,
+    "code": "c444_11",
+    "name": "Mitra"
+  },
+  {
+    "id": 1187,
+    "code": "c445_01",
+    "name": "Pitch-dark Kalaratri"
+  },
+  {
+    "id": 1188,
+    "code": "c445_02",
+    "name": "First Dawn Kalaratri"
+  },
+  {
+    "id": 1189,
+    "code": "c445_10",
+    "name": "Office Worker Kalaratri"
+  },
+  {
+    "id": 1190,
+    "code": "c445_11",
+    "name": "Casual Kalaratri"
+  },
+  {
+    "id": 1191,
+    "code": "c445_12",
+    "name": "Aurora Kalaratri"
+  },
+  {
+    "id": 1192,
+    "code": "c445_87",
+    "name": "Aurora Kalaratri"
+  },
+  {
+    "id": 1193,
+    "code": "c445_88",
+    "name": "Luminous Kalaratri"
+  },
+  {
+    "id": 1194,
+    "code": "c445_89",
+    "name": "Pitch-dark Kalaratri"
+  },
+  {
+    "id": 1195,
+    "code": "c446_01",
+    "name": "Fierce Argos"
+  },
+  {
+    "id": 1196,
+    "code": "c446_02",
+    "name": "Bodyguard Argos"
+  },
+  {
+    "id": 1197,
+    "code": "c446_88",
+    "name": "Bodyguard Argos"
+  },
+  {
+    "id": 1198,
+    "code": "c447_01",
+    "name": "Exorcist Miriam"
+  },
+  {
+    "id": 1199,
+    "code": "c447_02",
+    "name": "Slanderous Miriam"
+  },
+  {
+    "id": 1200,
+    "code": "c447_10",
+    "name": "Punishing Miriam"
+  },
+  {
+    "id": 1201,
+    "code": "c447_11",
+    "name": "Miriam"
+  },
+  {
+    "id": 1202,
+    "code": "c447_87",
+    "name": "Punishing Miriam"
+  },
+  {
+    "id": 1203,
+    "code": "c447_89",
+    "name": "Punishing Miriam"
+  },
+  {
+    "id": 1204,
+    "code": "c448_00",
+    "name": "Human Mircalla"
+  },
+  {
+    "id": 1205,
+    "code": "c448_01",
+    "name": "Cunning Mircalla"
+  },
+  {
+    "id": 1206,
+    "code": "c448_02",
+    "name": "Seductive Mircalla"
+  },
+  {
+    "id": 1207,
+    "code": "c448_10",
+    "name": "Mircalla"
+  },
+  {
+    "id": 1208,
+    "code": "c448_88",
+    "name": "Seductive Mircalla"
+  },
+  {
+    "id": 1209,
+    "code": "c449_01",
+    "name": "Determined Laura"
+  },
+  {
+    "id": 1210,
+    "code": "c449_02",
+    "name": "Chaser Laura"
+  },
+  {
+    "id": 1211,
+    "code": "c450_01",
+    "name": "Tragedy Rusalka"
+  },
+  {
+    "id": 1212,
+    "code": "c450_02",
+    "name": "Heroine Rusalka"
+  },
+  {
+    "id": 1213,
+    "code": "c451_01",
+    "name": "Ayane"
+  },
+  {
+    "id": 1214,
+    "code": "c451_02",
+    "name": "Peach Blossom Ayane"
+  },
+  {
+    "id": 1215,
+    "code": "c451_10",
+    "name": "Fylgja Ayane"
+  },
+  {
+    "id": 1216,
+    "code": "c452_01",
+    "name": "Leifang"
+  },
+  {
+    "id": 1217,
+    "code": "c452_02",
+    "name": "Vermilion Bird Leifang"
+  },
+  {
+    "id": 1218,
+    "code": "c452_10",
+    "name": "Five-Colored Mirage Leifang"
+  },
+  {
+    "id": 1219,
+    "code": "c453_01",
+    "name": "Warmhearted Mercury"
+  },
+  {
+    "id": 1220,
+    "code": "c453_02",
+    "name": "Embracing Mercury"
+  },
+  {
+    "id": 1221,
+    "code": "c454_01",
+    "name": "Lord Juno"
+  },
+  {
+    "id": 1222,
+    "code": "c454_02",
+    "name": "Pleading Juno"
+  },
+  {
+    "id": 1223,
+    "code": "c454_88",
+    "name": "Pleading Juno"
+  },
+  {
+    "id": 1224,
+    "code": "c454_89",
+    "name": "Lord Juno"
+  },
+  {
+    "id": 1225,
+    "code": "c455_01",
+    "name": "Lady Tiwaz"
+  },
+  {
+    "id": 1226,
+    "code": "c455_02",
+    "name": "Passionate Tiwaz"
+  },
+  {
+    "id": 1227,
+    "code": "c455_10",
+    "name": "Fancy Tiwaz"
+  },
+  {
+    "id": 1228,
+    "code": "c455_11",
+    "name": "Queen Tiwaz"
+  },
+  {
+    "id": 1229,
+    "code": "c455_12",
+    "name": "Bridal Tiwaz"
+  },
+  {
+    "id": 1230,
+    "code": "c455_86",
+    "name": "Bridal Tiwaz"
+  },
+  {
+    "id": 1231,
+    "code": "c455_87",
+    "name": "Fancy Tiwaz"
+  },
+  {
+    "id": 1232,
+    "code": "c456_01",
+    "name": "Mascot Clotho"
+  },
+  {
+    "id": 1233,
+    "code": "c456_02",
+    "name": "Destiny Clotho"
+  },
+  {
+    "id": 1234,
+    "code": "c457_01",
+    "name": "Onlooker Odysseus"
+  },
+  {
+    "id": 1235,
+    "code": "c457_02",
+    "name": "Neutral Odysseus"
+  },
+  {
+    "id": 1236,
+    "code": "c458_01",
+    "name": "Racing Zephyros"
+  },
+  {
+    "id": 1237,
+    "code": "c458_02",
+    "name": "Gale Zephyros"
+  },
+  {
+    "id": 1238,
+    "code": "c458_10",
+    "name": "Fastest Zephyros"
+  },
+  {
+    "id": 1239,
+    "code": "c459_01",
+    "name": "Chaser Caca"
+  },
+  {
+    "id": 1240,
+    "code": "c459_02",
+    "name": "Shadow Caca"
+  },
+  {
+    "id": 1241,
+    "code": "c460_01",
+    "name": "Marauder Cacus"
+  },
+  {
+    "id": 1242,
+    "code": "c460_02",
+    "name": "Freedom Cacus"
+  },
+  {
+    "id": 1243,
+    "code": "c460_10",
+    "name": "Boss Cow Cacus"
+  },
+  {
+    "id": 1244,
+    "code": "c460_88",
+    "name": "Freedom Cacus"
+  },
+  {
+    "id": 1245,
+    "code": "c461_01",
+    "name": "Remembering Aurora"
+  },
+  {
+    "id": 1246,
+    "code": "c461_02",
+    "name": "Confessing Aurora"
+  },
+  {
+    "id": 1247,
+    "code": "c461_10",
+    "name": "Mate Aurora"
+  },
+  {
+    "id": 1248,
+    "code": "c462_01",
+    "name": "Sworn Theresa"
+  },
+  {
+    "id": 1249,
+    "code": "c462_02",
+    "name": "Rosary Theresa"
+  },
+  {
+    "id": 1250,
+    "code": "c463_01",
+    "name": "Paradise Lost Eve"
+  },
+  {
+    "id": 1251,
+    "code": "c463_02",
+    "name": "Dejected Eve"
+  },
+  {
+    "id": 1252,
+    "code": "c463_10",
+    "name": "Autumn Eve"
+  },
+  {
+    "id": 1253,
+    "code": "c464_01",
+    "name": "Magnificent Arhat"
+  },
+  {
+    "id": 1254,
+    "code": "c464_02",
+    "name": "Immortal Arhat"
+  },
+  {
+    "id": 1255,
+    "code": "c464_10",
+    "name": "Bodhisattva Arhat"
+  },
+  {
+    "id": 1256,
+    "code": "c464_11",
+    "name": "Naive Arhat"
+  },
+  {
+    "id": 1257,
+    "code": "c465_01",
+    "name": "Loyal Sunah"
+  },
+  {
+    "id": 1258,
+    "code": "c465_02",
+    "name": "Upright Sunah"
+  },
+  {
+    "id": 1259,
+    "code": "c465_88",
+    "name": "Upright Sunah"
+  },
+  {
+    "id": 1260,
+    "code": "c466_01",
+    "name": "Carefree Nezha"
+  },
+  {
+    "id": 1261,
+    "code": "c466_02",
+    "name": "Yearning Nezha"
+  },
+  {
+    "id": 1262,
+    "code": "c467_01",
+    "name": "Severe Ziva"
+  },
+  {
+    "id": 1263,
+    "code": "c467_02",
+    "name": "Burning Ziva"
+  },
+  {
+    "id": 1264,
+    "code": "c468_00",
+    "name": "Human Metis"
+  },
+  {
+    "id": 1265,
+    "code": "c468_01",
+    "name": "Whispering Metis"
+  },
+  {
+    "id": 1266,
+    "code": "c468_02",
+    "name": "Truth Metis"
+  },
+  {
+    "id": 1267,
+    "code": "c468_10",
+    "name": "Metis"
+  },
+  {
+    "id": 1268,
+    "code": "c469_01",
+    "name": "Brilliant Aria"
+  },
+  {
+    "id": 1269,
+    "code": "c469_02",
+    "name": "Frozen Gale Aria"
+  },
+  {
+    "id": 1270,
+    "code": "c469_10",
+    "name": "Tip Top Aria"
+  },
+  {
+    "id": 1271,
+    "code": "c469_11",
+    "name": "School Uniform Aria"
+  },
+  {
+    "id": 1272,
+    "code": "c469_87",
+    "name": "Aria"
+  },
+  {
+    "id": 1273,
+    "code": "c470_01",
+    "name": "Sparkling Neptune?"
+  },
+  {
+    "id": 1274,
+    "code": "c470_02",
+    "name": "Snowy Neptune?"
+  },
+  {
+    "id": 1275,
+    "code": "c471_01",
+    "name": "Shining Mars?"
+  },
+  {
+    "id": 1276,
+    "code": "c471_02",
+    "name": "Snowfall Mars?"
+  },
+  {
+    "id": 1277,
+    "code": "c471_88",
+    "name": "Snowfall Mars?"
+  },
+  {
+    "id": 1278,
+    "code": "c472_01",
+    "name": "Dazzling Venus?"
+  },
+  {
+    "id": 1279,
+    "code": "c472_02",
+    "name": "Winter Venus?"
+  },
+  {
+    "id": 1280,
+    "code": "c473_01",
+    "name": "Overtaker Titania"
+  },
+  {
+    "id": 1281,
+    "code": "c473_02",
+    "name": "High Spirit Titania"
+  },
+  {
+    "id": 1282,
+    "code": "c474_01",
+    "name": "Blacksmith Hephaestus"
+  },
+  {
+    "id": 1283,
+    "code": "c474_02",
+    "name": "Blazing Hephaestus"
+  },
+  {
+    "id": 1284,
+    "code": "c474_10",
+    "name": "Teacher Hephaestus"
+  },
+  {
+    "id": 1285,
+    "code": "c474_88",
+    "name": "Blazing Hephaestus"
+  },
+  {
+    "id": 1286,
+    "code": "c474_89",
+    "name": "Blacksmith Hephaestus"
+  },
+  {
+    "id": 1287,
+    "code": "c475_01",
+    "name": "Dawn Saturn?"
+  },
+  {
+    "id": 1288,
+    "code": "c475_02",
+    "name": "Frosty Saturn?"
+  },
+  {
+    "id": 1289,
+    "code": "c476_00",
+    "name": "Human Nephthys"
+  },
+  {
+    "id": 1290,
+    "code": "c476_01",
+    "name": "Cheerful Nephthys"
+  },
+  {
+    "id": 1291,
+    "code": "c476_02",
+    "name": "Peaceful Nephthys"
+  },
+  {
+    "id": 1292,
+    "code": "c476_88",
+    "name": "Peaceful Nephthys"
+  },
+  {
+    "id": 1293,
+    "code": "c479_00",
+    "name": "Human Maupin"
+  },
+  {
+    "id": 1294,
+    "code": "c479_01",
+    "name": "Tenacious Maupin"
+  },
+  {
+    "id": 1295,
+    "code": "c479_02",
+    "name": "Legendary Maupin"
+  },
+  {
+    "id": 1296,
+    "code": "c479_20",
+    "name": "Undergraduate Maupin"
+  },
+  {
+    "id": 1297,
+    "code": "c480_00",
+    "name": "Human Bradamante"
+  },
+  {
+    "id": 1298,
+    "code": "c480_01",
+    "name": "Lovely Bradamante"
+  },
+  {
+    "id": 1299,
+    "code": "c480_02",
+    "name": "Carefree Bradamante"
+  },
+  {
+    "id": 1300,
+    "code": "c480_20",
+    "name": "Undergraduatet Bradamante"
+  },
+  {
+    "id": 1301,
+    "code": "c481_00",
+    "name": "Human Wyatt"
+  },
+  {
+    "id": 1302,
+    "code": "c481_01",
+    "name": "Grenade Wyatt"
+  },
+  {
+    "id": 1303,
+    "code": "c481_02",
+    "name": "Gunslinger Wyatt"
+  },
+  {
+    "id": 1304,
+    "code": "c481_88",
+    "name": "Gunslinger Wyatt"
+  },
+  {
+    "id": 1305,
+    "code": "c482_00",
+    "name": "Human Theophano"
+  },
+  {
+    "id": 1306,
+    "code": "c482_01",
+    "name": "Innocent Theophano"
+  },
+  {
+    "id": 1307,
+    "code": "c482_02",
+    "name": "Quirky Theophano"
+  },
+  {
+    "id": 1308,
+    "code": "c482_10",
+    "name": "Rabbit Theophano"
+  },
+  {
+    "id": 1309,
+    "code": "c483_00",
+    "name": "Human Artemisia"
+  },
+  {
+    "id": 1310,
+    "code": "c483_01",
+    "name": "Commander Artemisia"
+  },
+  {
+    "id": 1311,
+    "code": "c483_02",
+    "name": "Claw Commander Artemisia"
+  },
+  {
+    "id": 1312,
+    "code": "c484_01",
+    "name": "Judas"
+  },
+  {
+    "id": 1313,
+    "code": "c485_01",
+    "name": "Dark Shadow Yuna"
+  },
+  {
+    "id": 1314,
+    "code": "c485_02",
+    "name": "Apathetic Shade Yuna"
+  },
+  {
+    "id": 1315,
+    "code": "c485_10",
+    "name": "Light of Hope Yuna"
+  },
+  {
+    "id": 1316,
+    "code": "c486_01",
+    "name": "Chaser Kubaba"
+  },
+  {
+    "id": 1317,
+    "code": "c486_02",
+    "name": "Top Speed Kubaba"
+  },
+  {
+    "id": 1318,
+    "code": "c486_10",
+    "name": "Shotgun Kubaba"
+  },
+  {
+    "id": 1319,
+    "code": "c486_87",
+    "name": "Shotgun Kubaba"
+  },
+  {
+    "id": 1320,
+    "code": "c486_88",
+    "name": "Top Speed Kubaba"
+  },
+  {
+    "id": 1321,
+    "code": "c486_89",
+    "name": "Chaser Kubaba"
+  },
+  {
+    "id": 1322,
+    "code": "c488_00",
+    "name": "Human Driades"
+  },
+  {
+    "id": 1323,
+    "code": "c488_01",
+    "name": "Carefree Fairy Driades"
+  },
+  {
+    "id": 1324,
+    "code": "c488_02",
+    "name": "Tomboy Fairy Driades"
+  },
+  {
+    "id": 1325,
+    "code": "c488_20",
+    "name": "Cosplaying Driades"
+  },
+  {
+    "id": 1326,
+    "code": "c489_01",
+    "name": "Loki"
+  },
+  {
+    "id": 1327,
+    "code": "c489_02",
+    "name": "Dark Conspiracy Loki"
+  },
+  {
+    "id": 1328,
+    "code": "c489_10",
+    "name": "Abyssal Loki"
+  },
+  {
+    "id": 1329,
+    "code": "c489_11",
+    "name": "Hermit Loki"
+  },
+  {
+    "id": 1330,
+    "code": "c489_87",
+    "name": "Abyssal Loki"
+  },
+  {
+    "id": 1331,
+    "code": "c489_88",
+    "name": "Dark Conspiracy Loki"
+  },
+  {
+    "id": 1332,
+    "code": "c489_89",
+    "name": "Loki"
+  },
+  {
+    "id": 1333,
+    "code": "c490_00",
+    "name": "Human Guren"
+  },
+  {
+    "id": 1334,
+    "code": "c490_01",
+    "name": "Assistant Guren"
+  },
+  {
+    "id": 1335,
+    "code": "c490_02",
+    "name": "Aspiring Guren"
+  },
+  {
+    "id": 1336,
+    "code": "c490_10",
+    "name": "Determined Guren"
+  },
+  {
+    "id": 1337,
+    "code": "c490_88",
+    "name": "Aspiring Guren"
+  },
+  {
+    "id": 1338,
+    "code": "c491_00",
+    "name": "Human Souka"
+  },
+  {
+    "id": 1339,
+    "code": "c491_01",
+    "name": "Mourning Souka"
+  },
+  {
+    "id": 1340,
+    "code": "c491_02",
+    "name": "Nihilistic Souka"
+  },
+  {
+    "id": 1341,
+    "code": "c491_10",
+    "name": "Resigned Souka"
+  },
+  {
+    "id": 1342,
+    "code": "c492_00",
+    "name": "Human He Xiangu"
+  },
+  {
+    "id": 1343,
+    "code": "c492_01",
+    "name": "He Xiangu"
+  },
+  {
+    "id": 1344,
+    "code": "c492_02",
+    "name": "He Xiangu"
+  },
+  {
+    "id": 1345,
+    "code": "c493_00",
+    "name": "Human Messier"
+  },
+  {
+    "id": 1346,
+    "code": "c493_01",
+    "name": "Glorious Messier"
+  },
+  {
+    "id": 1347,
+    "code": "c493_02",
+    "name": "Empress Messier"
+  },
+  {
+    "id": 1348,
+    "code": "c493_10",
+    "name": "Messier"
+  },
+  {
+    "id": 1349,
+    "code": "c493_87",
+    "name": "Messier"
+  },
+  {
+    "id": 1350,
+    "code": "c493_88",
+    "name": "Empress Messier"
+  },
+  {
+    "id": 1351,
+    "code": "c494_00",
+    "name": "Human Rosanna"
+  },
+  {
+    "id": 1352,
+    "code": "c494_01",
+    "name": "Merciful Rosanna"
+  },
+  {
+    "id": 1353,
+    "code": "c494_02",
+    "name": "Embracing Rosanna"
+  },
+  {
+    "id": 1354,
+    "code": "c495_00",
+    "name": "Pactmaker Catsi"
+  },
+  {
+    "id": 1355,
+    "code": "c495_01",
+    "name": "Problem Kitty Catsi"
+  },
+  {
+    "id": 1356,
+    "code": "c495_02",
+    "name": "Freed Kitty Catsi"
+  },
+  {
+    "id": 1357,
+    "code": "c496_00",
+    "name": "Pactmaker Lassi"
+  },
+  {
+    "id": 1358,
+    "code": "c496_01",
+    "name": "Dreaming Poppy Lassi"
+  },
+  {
+    "id": 1359,
+    "code": "c496_02",
+    "name": "Happy Poppy Lassi"
+  },
+  {
+    "id": 1360,
+    "code": "c497_01",
+    "name": "Returning Wodan"
+  },
+  {
+    "id": 1361,
+    "code": "c497_02",
+    "name": "Perfect Wodan"
+  },
+  {
+    "id": 1362,
+    "code": "c497_10",
+    "name": "Dreamer Wodan"
+  },
+  {
+    "id": 1363,
+    "code": "c498_01",
+    "name": "Sol"
+  },
+  {
+    "id": 1364,
+    "code": "c498_02",
+    "name": "Bounty Hunter Sol"
+  },
+  {
+    "id": 1365,
+    "code": "c498_10",
+    "name": "Hellfire God Sol"
+  },
+  {
+    "id": 1366,
+    "code": "c498_87",
+    "name": "Hellfire God Sol"
+  },
+  {
+    "id": 1367,
+    "code": "c499_01",
+    "name": "Ramlethal"
+  },
+  {
+    "id": 1368,
+    "code": "c499_02",
+    "name": "Brigadier Ramlethal"
+  },
+  {
+    "id": 1369,
+    "code": "c500_01",
+    "name": "Millia"
+  },
+  {
+    "id": 1370,
+    "code": "c500_02",
+    "name": "Iron Maiden Millia"
+  },
+  {
+    "id": 1371,
+    "code": "c501_01",
+    "name": "Passionate Ragaraja"
+  },
+  {
+    "id": 1372,
+    "code": "c501_02",
+    "name": "Detached Ragaraja"
+  },
+  {
+    "id": 1373,
+    "code": "c501_10",
+    "name": "The Wisdom Ragaraja"
+  },
+  {
+    "id": 1374,
+    "code": "c501_11",
+    "name": "Frustrated Ragaraja"
+  },
+  {
+    "id": 1375,
+    "code": "c501_86",
+    "name": "Frustrated Ragaraja"
+  },
+  {
+    "id": 1376,
+    "code": "c501_87",
+    "name": "The Wisdom Ragaraja"
+  },
+  {
+    "id": 1377,
+    "code": "c501_88",
+    "name": "Detached Ragaraja"
+  },
+  {
+    "id": 1378,
+    "code": "c501_89",
+    "name": "Passionate Ragaraja"
+  },
+  {
+    "id": 1379,
+    "code": "c502_01",
+    "name": "Psychic To Keika"
+  },
+  {
+    "id": 1380,
+    "code": "c502_02",
+    "name": "Ghost-Calling To Keika"
+  },
+  {
+    "id": 1381,
+    "code": "c502_10",
+    "name": "Ghost To Keika"
+  },
+  {
+    "id": 1382,
+    "code": "c502_11",
+    "name": "School Uniform To Keika"
+  },
+  {
+    "id": 1383,
+    "code": "c503_01",
+    "name": "Obedient Bari"
+  },
+  {
+    "id": 1384,
+    "code": "c503_02",
+    "name": "Haughty Bari"
+  },
+  {
+    "id": 1385,
+    "code": "c503_10",
+    "name": "Summer Solstice Bari"
+  },
+  {
+    "id": 1386,
+    "code": "c503_88",
+    "name": "Haughty Bari"
+  },
+  {
+    "id": 1387,
+    "code": "c504_00",
+    "name": "Human Marduk"
+  },
+  {
+    "id": 1388,
+    "code": "c504_01",
+    "name": "Aspiring Goddess Marduk"
+  },
+  {
+    "id": 1389,
+    "code": "c504_02",
+    "name": "Governing Goddess Marduk"
+  },
+  {
+    "id": 1390,
+    "code": "c505_00",
+    "name": "Human Boreas"
+  },
+  {
+    "id": 1391,
+    "code": "c505_01",
+    "name": "Sprinting Boreas"
+  },
+  {
+    "id": 1392,
+    "code": "c505_02",
+    "name": "Sweeping Boreas"
+  },
+  {
+    "id": 1393,
+    "code": "c505_10",
+    "name": "Resting Boreas"
+  },
+  {
+    "id": 1394,
+    "code": "c506_00",
+    "name": "Human Notus"
+  },
+  {
+    "id": 1395,
+    "code": "c506_01",
+    "name": "Leading Notus"
+  },
+  {
+    "id": 1396,
+    "code": "c506_02",
+    "name": "Stormy Notus"
+  },
+  {
+    "id": 1397,
+    "code": "c507_00",
+    "name": "Human Phorcus"
+  },
+  {
+    "id": 1398,
+    "code": "c507_01",
+    "name": "Stand-In Shrine Maiden Phorcus"
+  },
+  {
+    "id": 1399,
+    "code": "c507_02",
+    "name": "Imbiber Phorcus"
+  },
+  {
+    "id": 1400,
+    "code": "c507_10",
+    "name": "Boozer Phorcus"
+  },
+  {
+    "id": 1401,
+    "code": "c507_88",
+    "name": "Imbiber Phorcus"
+  },
+  {
+    "id": 1402,
+    "code": "c508_01",
+    "name": "Shaman Chandra"
+  },
+  {
+    "id": 1403,
+    "code": "c508_02",
+    "name": "Blade of Vengeance Chandra"
+  },
+  {
+    "id": 1404,
+    "code": "c509_01",
+    "name": "Scarlet Blood Strigoy"
+  },
+  {
+    "id": 1405,
+    "code": "c509_02",
+    "name": "Immortal Strigoy"
+  },
+  {
+    "id": 1406,
+    "code": "c509_10",
+    "name": "Bloody Strigoy"
+  },
+  {
+    "id": 1407,
+    "code": "c509_87",
+    "name": "Bloody Strigoy"
+  },
+  {
+    "id": 1408,
+    "code": "c509_88",
+    "name": "Immortal Strigoy"
+  },
+  {
+    "id": 1409,
+    "code": "c509_89",
+    "name": "Scarlet Blood Strigoy"
+  },
+  {
+    "id": 1410,
+    "code": "c510_01",
+    "name": "Adversary Krsnik"
+  },
+  {
+    "id": 1411,
+    "code": "c510_02",
+    "name": "Martyr Krsnik"
+  },
+  {
+    "id": 1412,
+    "code": "c510_10",
+    "name": "Smoker Krsnik"
+  },
+  {
+    "id": 1413,
+    "code": "c511_01",
+    "name": "Indecisive Philotes"
+  },
+  {
+    "id": 1414,
+    "code": "c511_02",
+    "name": "Befriending Philotes"
+  },
+  {
+    "id": 1415,
+    "code": "c512_01",
+    "name": "Confident Turan"
+  },
+  {
+    "id": 1416,
+    "code": "c512_02",
+    "name": "Liberated Turan"
+  },
+  {
+    "id": 1417,
+    "code": "c513_01",
+    "name": "Worshipped Akrasia"
+  },
+  {
+    "id": 1418,
+    "code": "c513_02",
+    "name": "Almighty Akrasia"
+  },
+  {
+    "id": 1419,
+    "code": "c513_10",
+    "name": "War Goddess Akrasia"
+  },
+  {
+    "id": 1420,
+    "code": "c513_87",
+    "name": "War Goddess Akrasia"
+  },
+  {
+    "id": 1421,
+    "code": "c513_88",
+    "name": "Almighty Akrasia"
+  },
+  {
+    "id": 1422,
+    "code": "c513_89",
+    "name": "Worshipped Akrasia"
+  },
+  {
+    "id": 1423,
+    "code": "c514_01",
+    "name": "Con Artist Duetsha"
+  },
+  {
+    "id": 1424,
+    "code": "c514_02",
+    "name": "Deceiver Duetsha"
+  },
+  {
+    "id": 1425,
+    "code": "c515_00",
+    "name": "Human Archimago"
+  },
+  {
+    "id": 1426,
+    "code": "c516_01",
+    "name": "Erysichthon"
+  },
+  {
+    "id": 1427,
+    "code": "c516_02",
+    "name": "Luscious Erysichthon"
+  },
+  {
+    "id": 1428,
+    "code": "c517_01",
+    "name": "Retaliator Grendel"
+  },
+  {
+    "id": 1429,
+    "code": "c517_02",
+    "name": "Aggressor Grendel"
+  },
+  {
+    "id": 1430,
+    "code": "c518_01",
+    "name": "Unlucky Sunny"
+  },
+  {
+    "id": 1431,
+    "code": "c518_02",
+    "name": "Sunny"
+  },
+  {
+    "id": 1432,
+    "code": "c518_88",
+    "name": "Sunny"
+  },
+  {
+    "id": 1433,
+    "code": "c519_01",
+    "name": "Orion"
+  },
+  {
+    "id": 1434,
+    "code": "c519_02",
+    "name": "Orion"
+  },
+  {
+    "id": 1435,
+    "code": "c520_01",
+    "name": "Draconic Ishimi"
+  },
+  {
+    "id": 1436,
+    "code": "c520_02",
+    "name": "False Ishimi"
+  },
+  {
+    "id": 1437,
+    "code": "c520_10",
+    "name": "Transforming Ishimi"
+  },
+  {
+    "id": 1438,
+    "code": "c520_87",
+    "name": "Transforming Ishimi"
+  },
+  {
+    "id": 1439,
+    "code": "c520_88",
+    "name": "False Ishimi"
+  },
+  {
+    "id": 1440,
+    "code": "c520_89",
+    "name": "Draconic Ishimi"
+  },
+  {
+    "id": 1441,
+    "code": "c521_01",
+    "name": "Resisting Zegati"
+  },
+  {
+    "id": 1442,
+    "code": "c521_02",
+    "name": "Free Zegati"
+  },
+  {
+    "id": 1443,
+    "code": "c521_10",
+    "name": "Torrent Zegati"
+  },
+  {
+    "id": 1444,
+    "code": "c521_87",
+    "name": "Torrent Zegati"
+  },
+  {
+    "id": 1445,
+    "code": "c521_88",
+    "name": "Free Zegati"
+  },
+  {
+    "id": 1446,
+    "code": "c521_89",
+    "name": "Resisting Zegati"
+  },
+  {
+    "id": 1447,
+    "code": "c522_01",
+    "name": "Dashing Dalia"
+  },
+  {
+    "id": 1448,
+    "code": "c522_02",
+    "name": "Charging Dalia"
+  },
+  {
+    "id": 1449,
+    "code": "c523_01",
+    "name": "Epiphany Nicole"
+  },
+  {
+    "id": 1450,
+    "code": "c523_02",
+    "name": "Reincarnation Nicole"
+  },
+  {
+    "id": 1451,
+    "code": "c523_88",
+    "name": "Reincarnation Nicole"
+  },
+  {
+    "id": 1452,
+    "code": "c524_01",
+    "name": "Polar Pepita"
+  },
+  {
+    "id": 1453,
+    "code": "c524_02",
+    "name": "White Rain Pepita"
+  },
+  {
+    "id": 1454,
+    "code": "c525_01",
+    "name": "Predator Grilla"
+  },
+  {
+    "id": 1455,
+    "code": "c525_02",
+    "name": "Snowfall Grilla"
+  },
+  {
+    "id": 1456,
+    "code": "c525_10",
+    "name": "Summer Night Mistake Grilla"
+  },
+  {
+    "id": 1457,
+    "code": "c526_01",
+    "name": "Stern Rani"
+  },
+  {
+    "id": 1458,
+    "code": "c526_02",
+    "name": "Black Tiger Rani"
+  },
+  {
+    "id": 1459,
+    "code": "c526_10",
+    "name": "Beloved Daughter Rani"
+  },
+  {
+    "id": 1460,
+    "code": "c526_87",
+    "name": "Beloved Daughter Rani"
+  },
+  {
+    "id": 1461,
+    "code": "c526_88",
+    "name": "Black Tiger Rani"
+  },
+  {
+    "id": 1462,
+    "code": "c526_89",
+    "name": "Stern Rani"
+  },
+  {
+    "id": 1463,
+    "code": "c527_01",
+    "name": "Crafty Reynard"
+  },
+  {
+    "id": 1464,
+    "code": "c527_02",
+    "name": "Selfish Reynard"
+  },
+  {
+    "id": 1465,
+    "code": "c527_10",
+    "name": "Sea Lord Reynard"
+  },
+  {
+    "id": 1466,
+    "code": "c527_87",
+    "name": "Sea Lord Reynard"
+  },
+  {
+    "id": 1467,
+    "code": "c527_88",
+    "name": "Selfish Reynard"
+  },
+  {
+    "id": 1468,
+    "code": "c528_01",
+    "name": "Zemyna"
+  },
+  {
+    "id": 1469,
+    "code": "c528_02",
+    "name": "Zemyna"
+  },
+  {
+    "id": 1470,
+    "code": "c528_10",
+    "name": "Zemyna"
+  },
+  {
+    "id": 1471,
+    "code": "c528_87",
+    "name": "Zemyna"
+  },
+  {
+    "id": 1472,
+    "code": "c528_88",
+    "name": "Zemyna"
+  },
+  {
+    "id": 1473,
+    "code": "c529_01",
+    "name": "Northern Kubera"
+  },
+  {
+    "id": 1474,
+    "code": "c529_02",
+    "name": "Wise Kubera"
+  },
+  {
+    "id": 1475,
+    "code": "c530_01",
+    "name": "Lord Kanaloa"
+  },
+  {
+    "id": 1476,
+    "code": "c530_02",
+    "name": "Wild Kanaloa"
+  },
+  {
+    "id": 1477,
+    "code": "c530_10",
+    "name": "Bikini Kanaloa"
+  },
+  {
+    "id": 1478,
+    "code": "c530_87",
+    "name": "Bikini Kanaloa"
+  },
+  {
+    "id": 1479,
+    "code": "c530_88",
+    "name": "Wild Kanaloa"
+  },
+  {
+    "id": 1480,
+    "code": "c530_89",
+    "name": "Lord Kanaloa"
+  },
+  {
+    "id": 1481,
+    "code": "c532_01",
+    "name": "Anubis"
+  },
+  {
+    "id": 1482,
+    "code": "c532_02",
+    "name": "Anubis"
+  },
+  {
+    "id": 1483,
+    "code": "c532_10",
+    "name": "Anubis"
+  },
+  {
+    "id": 1484,
+    "code": "c533_01",
+    "name": "Well-rounded Oneiroi"
+  },
+  {
+    "id": 1485,
+    "code": "c533_02",
+    "name": "Dreamy Oneiroi"
+  },
+  {
+    "id": 1486,
+    "code": "c534_01",
+    "name": "Legend"
+  },
+  {
+    "id": 1487,
+    "code": "c534_02",
+    "name": "Legend"
+  },
+  {
+    "id": 1488,
+    "code": "c534_10",
+    "name": "Legend"
+  },
+  {
+    "id": 1489,
+    "code": "c537_01",
+    "name": "Captain Elysion"
+  },
+  {
+    "id": 1490,
+    "code": "c537_02",
+    "name": "Freed Elysion"
+  },
+  {
+    "id": 1491,
+    "code": "c537_10",
+    "name": "Sorrowful Elysion"
+  },
+  {
+    "id": 1492,
+    "code": "c538_01",
+    "name": "Sagacious Sallos"
+  },
+  {
+    "id": 1493,
+    "code": "c538_02",
+    "name": "Salacious Sallos"
+  },
+  {
+    "id": 1494,
+    "code": "c539_01",
+    "name": "Chaotic Belial"
+  },
+  {
+    "id": 1495,
+    "code": "c539_02",
+    "name": "Destructive Belial"
+  },
+  {
+    "id": 1496,
+    "code": "c539_10",
+    "name": "Executioner Belial"
+  },
+  {
+    "id": 1497,
+    "code": "c539_87",
+    "name": "Executioner Belial"
+  },
+  {
+    "id": 1498,
+    "code": "c539_88",
+    "name": "Destructive Belial"
+  },
+  {
+    "id": 1499,
+    "code": "c539_89",
+    "name": "Chaotic Belial"
+  },
+  {
+    "id": 1500,
+    "code": "c540_01",
+    "name": "Verita"
+  },
+  {
+    "id": 1501,
+    "code": "c540_02",
+    "name": "Verita"
+  },
+  {
+    "id": 1502,
+    "code": "c541_00",
+    "name": "Human Arhat"
+  },
+  {
+    "id": 1503,
+    "code": "c541_01",
+    "name": "Arhat"
+  },
+  {
+    "id": 1504,
+    "code": "c541_02",
+    "name": "Arhat"
+  },
+  {
+    "id": 1505,
+    "code": "c543_01",
+    "name": "Megaera"
+  },
+  {
+    "id": 1506,
+    "code": "c543_02",
+    "name": "Megaera"
+  },
+  {
+    "id": 1507,
+    "code": "c544_01",
+    "name": "Virupa"
+  },
+  {
+    "id": 1508,
+    "code": "c544_02",
+    "name": "Virupa"
+  },
+  {
+    "id": 1509,
+    "code": "c545_01",
+    "name": "Watcher Ariel"
+  },
+  {
+    "id": 1510,
+    "code": "c545_02",
+    "name": "Messenger Ariel"
+  },
+  {
+    "id": 1511,
+    "code": "c547_01",
+    "name": "Demeter"
+  },
+  {
+    "id": 1512,
+    "code": "c547_02",
+    "name": "Demeter"
+  },
+  {
+    "id": 1513,
+    "code": "c548_01",
+    "name": "Judas"
+  },
+  {
+    "id": 1514,
+    "code": "c548_02",
+    "name": "Judas"
+  },
+  {
+    "id": 1515,
+    "code": "c549_01",
+    "name": "Danu"
+  },
+  {
+    "id": 1516,
+    "code": "c549_02",
+    "name": "Danu"
+  },
+  {
+    "id": 1517,
+    "code": "c550_00",
+    "name": "Human Scrouge"
+  },
+  {
+    "id": 1518,
+    "code": "c550_01",
+    "name": "Blessed Scrouge"
+  },
+  {
+    "id": 1519,
+    "code": "c550_02",
+    "name": "Fiesta Scrouge"
+  },
+  {
+    "id": 1520,
+    "code": "c552_01",
+    "name": "Black Bunny Ophois"
+  },
+  {
+    "id": 1521,
+    "code": "c552_02",
+    "name": "White Bunny Ophois"
+  },
+  {
+    "id": 1522,
+    "code": "c557_01",
+    "name": "Rufus"
+  },
+  {
+    "id": 1523,
+    "code": "c557_02",
+    "name": "Rufus"
+  },
+  {
+    "id": 1524,
+    "code": "c557_10",
+    "name": "Rufus"
+  },
+  {
+    "id": 1525,
+    "code": "c557_87",
+    "name": "Rufus"
+  },
+  {
+    "id": 1526,
+    "code": "c557_88",
+    "name": "Rufus"
+  },
+  {
+    "id": 1527,
+    "code": "c557_89",
+    "name": "Rufus"
+  },
+  {
+    "id": 1528,
+    "code": "c558_01",
+    "name": "Glinda"
+  },
+  {
+    "id": 1529,
+    "code": "c558_02",
+    "name": "Glinda"
+  },
+  {
+    "id": 1530,
+    "code": "c558_10",
+    "name": "Glinda"
+  },
+  {
+    "id": 1531,
+    "code": "c560_01",
+    "name": "Neith"
+  },
+  {
+    "id": 1532,
+    "code": "c560_02",
+    "name": "Neith"
+  },
+  {
+    "id": 1533,
+    "code": "c561_01",
+    "name": "Morgan"
+  },
+  {
+    "id": 1534,
+    "code": "c561_02",
+    "name": "Morgan"
+  },
+  {
+    "id": 1535,
+    "code": "c562_01",
+    "name": "Salmacis"
+  },
+  {
+    "id": 1536,
+    "code": "c562_02",
+    "name": "Salmacis"
+  },
+  {
+    "id": 1537,
+    "code": "c562_88",
+    "name": "Salmacis"
+  },
+  {
+    "id": 1538,
+    "code": "c563_01",
+    "name": "Mint"
+  },
+  {
+    "id": 1539,
+    "code": "c563_02",
+    "name": "Mint"
+  },
+  {
+    "id": 1540,
+    "code": "c564_00",
+    "name": "Human Dike"
+  },
+  {
+    "id": 1541,
+    "code": "c564_01",
+    "name": "Dike"
+  },
+  {
+    "id": 1542,
+    "code": "c564_02",
+    "name": "Dike"
+  },
+  {
+    "id": 1543,
+    "code": "c565_00",
+    "name": "Freyja"
+  },
+  {
+    "id": 1544,
+    "code": "c565_01",
+    "name": "Freyja"
+  },
+  {
+    "id": 1545,
+    "code": "c565_02",
+    "name": "Freyja"
+  },
+  {
+    "id": 1546,
+    "code": "c566_01",
+    "name": "Europa"
+  },
+  {
+    "id": 1547,
+    "code": "c566_02",
+    "name": "Europa"
+  },
+  {
+    "id": 1548,
+    "code": "c567_01",
+    "name": "Io"
+  },
+  {
+    "id": 1549,
+    "code": "c567_02",
+    "name": "Io"
+  },
+  {
+    "id": 1550,
+    "code": "c568_01",
+    "name": "Glinda"
+  },
+  {
+    "id": 1551,
+    "code": "c568_02",
+    "name": "Glinda"
+  },
+  {
+    "id": 1552,
+    "code": "c569_01",
+    "name": "Hecate"
+  },
+  {
+    "id": 1553,
+    "code": "c569_02",
+    "name": "Hecate"
+  },
+  {
+    "id": 1554,
+    "code": "c569_10",
+    "name": "Hecate"
+  },
+  {
+    "id": 1555,
+    "code": "c570_00",
+    "name": "Jana human?"
+  },
+  {
+    "id": 1556,
+    "code": "c573_01",
+    "name": "Jana"
+  },
+  {
+    "id": 1557,
+    "code": "c573_02",
+    "name": "Jana"
+  },
+  {
+    "id": 1558,
+    "code": "c574_02",
+    "name": "Circe"
+  },
+  {
+    "id": 1559,
+    "code": "c575_01",
+    "name": "Sonnet"
+  },
+  {
+    "id": 1560,
+    "code": "c575_02",
+    "name": "Sonnet"
+  },
+  {
+    "id": 1561,
+    "code": "c576_01",
+    "name": "Ninja Kelone"
+  },
+  {
+    "id": 1562,
+    "code": "c576_02",
+    "name": "Great Leader Kelone"
+  },
+  {
+    "id": 1563,
+    "code": "c577_01",
+    "name": "Darkness Selene"
+  },
+  {
+    "id": 1564,
+    "code": "c577_02",
+    "name": "Ghostly Selene"
+  },
+  {
+    "id": 1565,
+    "code": "c564_02_n",
+    "name": "Uncensored Dike"
+  }
+]

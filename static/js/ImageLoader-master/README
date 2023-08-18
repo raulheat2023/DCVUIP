@@ -1,0 +1,53 @@
+ImageLoader
+===========
+
+Keep track of images you need loading in your JavaScript files.
+
+Creation
+--------
+
+This shows the basic use:
+var imageLoader = new ImageLoader( {
+	"images": [
+		{ "name":"image-name", file: "path/to/image.png" },
+	],
+	"onAllLoaded": function() {},
+	"onImageLoaded": function() {}
+} );
+
+images (required): pass in a list of filenames. Optionally, add a string (name:) or a number (id:) to each image item to reference them, alternatively just use the position in the list.
+onAllLoaded(): this function will be called once all the images have loaded.
+onImageLoaded(name,image): this function will be called each time an image has finished loading.
+
+
+Methods
+-------
+
+Once created there are several functions you can call:
+
+getImageByPosition(p) : return the image at position p, null returned if not finishing loading, undefined if position not available.
+getImageByName(n) : return the image with name n, null returned if not finishing loading, undefined if position not available.
+getImageById(i) : return the image with id i, null returned if not finishing loading, undefined if position not available.
+
+loadedIds(a) : return whether the array of id's have been loaded.
+loadedNames(a) : return whether the array of names's have been loaded.
+loadedAll() : return whether all the images have loaded.
+
+Examples
+--------
+
+var imageLoader1 = new ImageLoader( {
+	"images": [
+			{ "id":101, file: "path/image1.png" },
+			{ "id":102, file: "path/image2.png" }
+		],
+		"onAllLoaded":function() { alert( "Images loaded" ); }
+	} );
+
+var imageLoader2 = new ImageLoader( {
+	"images": [
+			{ "name":"image1", file: "path/image1.png" },
+			{ "name":"image2", file: "path/image2.png" }
+		],
+		"onImageLoaded":function(name,image) { alert( "Image " + name + " loaded" ); }
+	} );
