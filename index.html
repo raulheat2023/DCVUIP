@@ -71,7 +71,7 @@
         <button id="navChilds" class="type-button" onclick="navChilds()">
           Childs (4&#11088;,5&#11088;)
         </button>
-        <button id="navMonsters" class="type-button" onclick="navMonsters()">
+        <!--<button id="navMonsters" class="type-button" onclick="navMonsters()">
           Childs (1&#11088;, 2&#11088;, 3&#11088;)
         </button>
         <button id="navSoulcarta" class="type-button" onclick="navSoulcarta()">
@@ -85,10 +85,10 @@
         </button>
         <button id="navCutscenes" class="type-button" onclick="navCutscenes()">
           Cutscenes
-        </button>
+        </button>-->
       </div>
       <div class="child-name">
-        <p id="childName" onload="data()"></p>
+        <p id="childName" onload="data()">1</p>
       </div>
     </div>
     <div class="action-layer" onclick="totsugeki()"></div>
@@ -268,7 +268,11 @@ var scrollposition =  $("#childButtons").scroll(function () {
       childselector = document.getElementById("childSelector");
       childname = JSON.parse(localStorage.getItem("name"));
       selectvalue = JSON.parse(localStorage.getItem("value"));
-      document.getElementById("childName").innerHTML = childname;
+      if (childname === null) {
+        document.getElementById("childName").innerHTML = "Master";
+      } else {
+        document.getElementById("childName").innerHTML = childname;
+      };
     });
   </script>
 
