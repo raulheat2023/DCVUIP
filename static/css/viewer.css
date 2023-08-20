@@ -1,0 +1,624 @@
+@font-face {
+  font-family: 'Daum__Regular';
+  src: url('../font/Daum__Regular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Daum_SemiBold';
+  src: url('../font/Daum_SemiBold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+:root {
+  --select-border: #777;
+  --select-focus: blue;
+  --select-arrow: var(--select-border);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+body,
+html {
+  max-width: 100%;
+  max-height: 100%;
+  font-family: 'Daum__Regular', sans-serif;
+}
+
+.options-layer {
+  display: flex;
+  position: absolute;
+  z-index: 2;
+  width: 100%;
+  height: 100%;
+}
+
+.action-layer {
+  flex: 1;
+}
+
+#backgroundSelector .bg-btn {
+  width: 40px;
+  height: 40px;
+  border: 1px solid white;
+  border-radius: 5px;
+  text-indent: -100px;
+  overflow: hidden;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);
+  background: transparent;
+  cursor: pointer;
+  transition: all ease 0.2s;
+  margin-bottom: 10px;
+}
+
+
+.clear-screen-button{
+  position: absolute;
+  right:10px;
+  top: 10px;
+  transition: all ease .3s;
+}
+
+.clear-screen-button button{
+  width: 50px;
+  height: 50px;
+  border: none;
+  background:transparent;
+  cursor: pointer;
+  position: relative;
+}
+
+.clear-screen-button button img{
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.right-side-bar{
+  right: 0;
+  background: linear-gradient(270deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.5) 45%, rgba(0,0,0,0.25) 71%, rgba(0,0,0,0) 94%, rgba(0,0,0,0) 100%);
+}
+
+
+
+.left-side-bar{
+  left: 0;
+  background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.5) 45%, rgba(0,0,0,0.25) 71%, rgba(0,0,0,0) 94%, rgba(0,0,0,0) 100%);
+}
+
+#backgroundSelector{
+  display: flex;
+  flex-wrap: wrap;
+  width: calc(100% - 40px);
+  padding-right: 40px;
+  margin-bottom: 20px;
+  justify-content: space-between;
+}
+
+#backgroundSelector .bg-btn:hover {
+  box-shadow: 0 0px 20px rgba(255, 255, 255, 0.8);
+}
+
+#backgroundSelector .bg-btn:nth-child(1) {
+  background: url('../images/bg-btns.webp') scroll 0 0 transparent;
+}
+
+#backgroundSelector .bg-btn:nth-child(2) {
+  background: url('../images/bg-btns.webp') scroll -40px 0 transparent;
+}
+
+#backgroundSelector .bg-btn:nth-child(3) {
+  background: url('../images/bg-btns.webp') scroll -80px 0 transparent;
+}
+
+#backgroundSelector .bg-btn:nth-child(4) {
+  background: url('../images/bg-btns.webp') scroll -120px 0 transparent;
+}
+
+#backgroundSelector .bg-btn:nth-child(5) {
+  background: url('../images/bg-btns.webp') scroll -160px 0 transparent;
+}
+
+#backgroundSelector .bg-btn:nth-child(6) {
+  background: url('../images/bg-btns.webp') scroll -200px 0 transparent;
+}
+
+#backgroundSelector .bg-btn:nth-child(7) {
+  background: url('../images/bg-btns.webp') scroll -240px 0 transparent;
+}
+
+#backgroundSelector .bg-btn:nth-child(8) {
+  background: url('../images/bg-btns.webp') scroll -280px 0 transparent;
+}
+
+#backgroundSelector .bg-btn:nth-child(9) {
+  background: url('../images/bg-btns.webp') scroll -320px 0 transparent;
+}
+
+#backgroundSelector .bg-btn:nth-child(10) {
+  background: url('../images/bg-btns.webp') scroll -360px 0 transparent;
+}
+
+#backgroundSelector .bg-btn:nth-child(11) {
+  background: url('../images/bg-btns.webp') scroll -400px 0 transparent;
+}
+
+#backgroundSelector .bg-btn:nth-child(12) {
+  background: url('../images/bg-btns.webp') scroll -440px 0 transparent;
+}
+
+.left-side-bar,
+.right-side-bar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  transition: all ease .3s;
+  min-width: 300px;
+  max-width: 300px;
+}
+
+.panzoomcontainer{
+  position: absolute;
+    z-index: 3;
+    width: calc(100% - 600px);
+    height: calc(100% - 170px);
+    margin: 0 auto;
+    right: 0;
+    left: 0;
+    transition: all ease .3s;
+}
+
+.canvas-container {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  z-index: 3;
+}
+
+.canvas-container canvas {
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  max-width: 100%;
+  position: absolute;
+  top: 0;
+}
+
+.background-container {
+  position: fixed;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  top: 0;
+  left: 0;
+}
+
+.background-container .static {
+  background: url() no-repeat scroll center center black;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-size: cover;
+}
+
+.background-container .animated {
+  width: calc(100% + 256px);
+  height: calc(100% + 256px);
+  position: absolute;
+  animation: bganimation linear 20s infinite;
+}
+
+@keyframes bganimation {
+  0% {
+    left: 0;
+    top: 0;
+  }
+
+  100% {
+    left: -256px;
+    top: -256px;
+  }
+}
+
+.right-side-bar .input {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+  width: 100%;
+}
+
+.right-side-bar .input .code {
+  background-color: #ccc;
+}
+
+.right-side-bar .input select {
+  padding: 10px;
+  width: 100%;
+  border: none;
+  border-radius: 40px;
+}
+
+.right-side-bar .input span {
+  font-family: 'Daum_SemiBold';
+  font-stretch: condensed;
+  -webkit-text-fill-color: white;
+  font-size: 12px;
+  text-shadow: 0px 1px 4px rgba(0,0,0,1);
+  /*-webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;*/
+}
+
+.right-side-bar .input input {
+  padding: 10px;
+  border-radius: 36px;
+  outline: none;
+  border: none;
+}
+
+.reload-button button {
+  width: 128px;
+  height: 128px;
+  background: url('../images/reload-btn.png') no-repeat scroll center center transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.select-slider{
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  z-index: 5;
+}
+
+#clearbtn {
+  z-index: 5;
+}
+
+#closebtn {
+  z-index: 3;
+}
+
+#closebtn button{
+  padding: 0;
+}
+
+.close-button{
+  opacity: 0;
+}
+
+.clear-button{
+  opacity: 1;
+}
+
+.clear .panzoomcontainer{
+  width: 100%;
+  height: calc(100% - 170px);
+}
+
+.clear .left-side-bar{
+  left: -300px;
+}
+
+.clear .right-side-bar{
+  right: -300px;
+}
+
+.clear .select-slider{
+  bottom: -170px;
+}
+
+.clear .close-button{
+  opacity: 1;
+}
+
+.clear .clear-button{
+  opacity: 0;
+}
+
+.clear #background{
+  filter: blur(5px);
+}
+
+.resetpanzoom{
+  position: absolute;
+  z-index: 5;
+  right: 10px;
+  top: 80px;
+}
+
+.resetpanzoom button{
+  width: 50px;
+  height: 50px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  position: relative;
+}
+
+.resetpanzoom img{
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.child-name {
+  font-family: 'Daum_SemiBold';
+  color: white;
+  font-size: 24px;
+  text-shadow: 0px 1px 4px rgba(0,0,0,1);
+  width: 100%;
+  padding-left: 60px;
+}
+
+.childbutton{
+  max-width: 55px;
+  min-width: 55px;
+  overflow: hidden;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  cursor: pointer;
+  position: relative;
+  background-size: 100% !important;
+  transition: all ease .3s;
+  background: transparent;
+}
+.childbutton::after{
+  content: '';
+  position: absolute;
+  height: 0px;
+  width: 100%;
+  bottom: 0px;
+  left: 0;
+}
+
+.childbutton:hover::after{
+  background-color: #ffc508;
+  height: 3px;
+}
+
+.childbutton.selected span.selected-indicator {
+  background: linear-gradient(30deg, rgba(255,197,8,1) 0%, rgba(255,197,8,0.4) 31%, rgba(255,197,8,0) 90%, rgba(255,197,8,0) 100%);
+  height: 100%;
+  width: 100%;
+  display: flex;
+  position: absolute;
+  z-index: 2;
+  bottom: 0;
+  left: 0;
+}
+
+.childbutton span.text{
+  display: none;
+}
+
+.childbutton span.background{
+  transition: all ease .3s;
+  position: absolute;
+  width: 56px;
+  height: 170px;
+  background:url('../images/chara/empty.webp') no-repeat scroll bottom left transparent;
+  mask-image: url('../images/mask.svg');
+  -webkit-mask-image: url('../images/mask.svg');
+  top: 0;
+  left: 0;
+  background-size: 100% !important;
+}
+
+.childbutton:hover span.background{
+  background-size: 107% !important;
+}
+
+.scrollbar{
+    height: 150px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    display: flex;
+    align-items: flex-end;
+}
+
+.scrollbar::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #F5F5F5;
+}
+
+.scrollbar::-webkit-scrollbar
+{
+	height: 5px;
+	background-color: #F5F5F5;
+}
+
+.scrollbar::-webkit-scrollbar-thumb
+{
+	background-color: #444444;
+}
+
+select::-ms-expand {
+  display: none;
+}
+
+.select select,
+.select::after {
+  grid-area: select;
+}
+
+.select:not(.select--multiple)::after {
+  content: "";
+  justify-self: end;
+  width: 0.8em;
+  height: 0.5em;
+  background-color: var(--select-arrow);
+  clip-path: polygon(100% 0%, 0 0%, 50% 100%);
+}
+
+select:focus+.focus {
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  right: -1px;
+  bottom: -1px;
+  border: 2px solid var(--select-focus);
+  border-radius: inherit;
+}
+
+select[multiple] {
+  padding-right: 0;
+  /* * Safari will not reveal an option * unless the select height has room to * show all of it * Firefox and Chrome allow showing * a partial option */
+  height: 6rem;
+  /* * Experimental - styling of selected options * in the multiselect * Not supported crossbrowser */
+}
+
+select[multiple] option {
+  white-space: normal;
+  outline-color: var(--select-focus);
+}
+
+.select--disabled {
+  cursor: not-allowed;
+  background-color: #eee;
+  background-image: linear-gradient(to top, #ddd, #eee 33%);
+}
+
+label {
+  font-size: 12px;
+  display: block;
+  margin-bottom: 8px;
+}
+
+.select+label {
+  margin-top: 2rem;
+}
+
+.type-selector {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding-left: 60px;
+}
+
+.type-button {
+  width: 100%;
+  height: 40px;
+  text-align: left;
+  padding-left: 40px;
+  font-size: 16px;
+  color: white;
+  background: linear-gradient(90deg, rgba(23,23,22,0.8827906162464986) 0%, rgba(0,0,0,0.0) 100%);
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 6px;
+  transition: all ease 1s;
+  cursor: pointer;
+  position: relative;
+}
+
+.type-button.navactive{
+  background: linear-gradient(90deg, rgba(255,201,0,0.8827906162464986) 0%, rgba(255,201,0,0.0) 100%);
+}
+
+.type-button:hover{
+  background: linear-gradient(90deg, rgba(143, 119, 34,0.8827906162464986) 0%, rgba(143, 119, 34,0.0) 100%);
+}
+
+.type-button::after{
+  content: '';
+  height: 40px;
+  width: 40px;
+  left: 0;
+  top: 0;
+  position: absolute;
+}
+
+.type-button:nth-child(1)::after{
+  background: url('../images/icon_child.webp') no-repeat scroll center center transparent;
+}
+
+.type-button:nth-child(2)::after{
+  background: url('../images/icon_child.webp') no-repeat scroll center center transparent;
+}
+
+.type-button:nth-child(3)::after{
+  background: url('../images/icon_soulcard.webp') no-repeat scroll center center transparent;
+}
+
+.type-button:nth-child(4)::after{
+  background: url('../images/icon_puppet.webp') no-repeat scroll center center transparent;
+}
+
+.type-button:nth-child(5)::after{
+  background: url('../images/icon_spa.webp') no-repeat scroll center center transparent;
+}
+
+.type-button:nth-child(6)::after{
+  background: url('../images/icon_movie.webp') no-repeat scroll center center transparent;
+}
+
+/*disclaimer*/
+.disclaimer {
+  margin-left: 30px;
+  background: url('../images/ele_icon_warning.png') no-repeat scroll 10px center rgba(0,0,0,0.3);
+  background-size: 40px;
+  margin-bottom: 40px;
+  padding: 10px;
+  border-radius: 10px;
+  padding-left: 60px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid white;
+}
+
+.disclaimer p{
+  text-align: left;
+  color: white;
+  font-size: 9px;
+  text-indent: 0;
+}
+
+.disclaimer p span.pname{
+  color: #ffc508;
+}
+
+/*Input items*/
+.inputs{
+  width: 100%;
+}
+.input-item{
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.ui-slider {
+  display: inline-block;
+  width: calc(100% - 40px);
+  margin: 0;
+  margin-bottom: 4px;
+  position: relative;
+  top: 0;
+}
+
+.input-item p {
+  margin: 0;
+  text-indent: -5px;
+  font-size: .8em;
+}
+.ui-slider-horizontal .ui-slider-handle{
+  margin-left: -1px !important;
+}
+

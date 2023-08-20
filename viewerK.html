@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Live2D</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      position: relative;
+    }
+    body, html {
+      max-width: 100%;
+      max-height: 100%;
+    }
+    canvas {
+      max-width: 100%;
+      max-height: 100%;
+    }
+
+    .resetpanzoom{
+      position: absolute;
+      top: 26px;
+      right: 0;
+      margin-left: auto;
+      margin-right: auto;
+      z-index: 10;
+    }
+
+    .resetpanzoom button{
+      border: none;
+      background-color: transparent;
+      cursor: pointer;
+    }
+
+  </style>
+    <script src="/static/js/live2d.min.js"></script>
+    <script src="/static/js/Live2DFramework.js"></script>
+    <script src="/static/js/PlatformManager.js"></script>
+    <script src="/static/js/ModelSettingJson.js"></script>
+	<script src="/static/js/destinychild.2d.js"></script>
+  <script src='https://unpkg.com/panzoom@9.4.0/dist/panzoom.min.js'></script>
+
+
+<body onload="initModel('kr')" style="margin: 0; padding: 0;">
+  <div class="resetpanzoom">
+    <button onclick="resetpanzoom()">
+      <img class="reset" src="static/images/resetzoom.png" alt="clear"></button>
+  </div>
+  <div class="canvas-container" id="scene"><canvas id="canvas" class="maxwidth" width="1950px" height="1950px" onclick="animation()"></canvas></div>
+
+<!--Panzoom-->
+<script>
+  var element = document.querySelector('#scene')
+  panzoom(element, {
+    maxZoom: 4,
+    minZoom: 0.5,
+    bounds: true,
+    boundsPadding: .4
+  })
+  function resetpanzoom() {
+    panzoom(element, {
+      initialX: 500,
+      initialY: 500,
+      initialZoom: 1,
+    })
+  }
+</script>
+</body>
+
+</html>

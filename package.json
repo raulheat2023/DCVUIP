@@ -1,7 +1,7 @@
 {
-  "name": "Destiny-Child-Viewer-UI",
+  "name": "Destiny-Child-Live2D-Viewer",
   "version": "1.0.0",
-  "description": "Viewer UI",
+  "description": "Centralized repository for Destiny Child Live2D",
   "main": "index.html",
   "dependencies": {},
   "devDependencies": {
@@ -16,6 +16,6 @@
     "type": "git",
     "url": "N/A"
   },
-  "author": "Raulheat",
+  "author": "ToxicWayz, Arsylk",
   "license": "MIT"
 }

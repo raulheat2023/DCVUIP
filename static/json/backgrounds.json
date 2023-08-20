@@ -1,0 +1,62 @@
+[
+    {
+      "bgid": "btnBg01",
+      "bgimage": "bg_01.webp",
+      "type": "animated"
+    },
+    {
+      "bgid": "btnBg02",
+      "bgimage": "bg_02.webp",
+      "type": "animated"
+    },
+    {
+      "bgid": "btnBg03",
+      "bgimage": "bg_03.webp",
+      "type": "animated"
+    },
+    {
+      "bgid": "btnBg04",
+      "bgimage": "bg_04.webp",
+      "type": "animated"
+    },
+    {
+      "bgid": "btnBg05",
+      "bgimage": "bg_05.webp",
+      "type": "animated"
+    },
+    {
+      "bgid": "btnBg06",
+      "bgimage": "bg_06.webp",
+      "type": "animated"
+    },
+    {
+      "bgid": "btnBg07",
+      "bgimage": "bg_07.webp",
+      "type": "static"
+    },
+    {
+      "bgid": "btnBg08",
+      "bgimage": "bg_08.webp",
+      "type": "static"
+    },
+    {
+      "bgid": "btnBg09",
+      "bgimage": "bg_09.webp",
+      "type": "static"
+    },
+    {
+      "bgid": "btnBg10",
+      "bgimage": "bg_010.webp",
+      "type": "static"
+    },
+    {
+      "bgid": "btnBg11",
+      "bgimage": "bg_011.webp",
+      "type": "static"
+    },
+    {
+      "bgid": "btnBg12",
+      "bgimage": "bg_012.webp",
+      "type": "static"
+    }
+]
