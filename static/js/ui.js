@@ -147,7 +147,7 @@ function getLabel(id) {
 }
 
 function loadAssets(callback) {
-  $.getJSON('../static/json/assets_childsonly.json', function(data) {
+  $.getJSON('static/json/assets_childsonly.json', function(data) {
     $.each(data, function(i, asset) {
       var id = asset.id
       selectedModel = selectedModel || id
