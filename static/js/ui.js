@@ -116,7 +116,7 @@ function updateViewer(id) {
 }
 
 function loadChilds(callback) {
-  $.getJSON('../static/json/child_list.json', function(_childs) {
+  $.getJSON('static/json/child_list.json', function(_childs) {
     childs = _childs
     callback()
   })
@@ -381,7 +381,7 @@ function clearScreen() {
 
 //Background selector
 $(document).on('ready', function () {
-  $.getJSON("../static/json/backgrounds.json", function (data) {
+  $.getJSON("static/json/backgrounds.json", function (data) {
     $.each(data, function (bgid, bgid, bgimage, type) {
       
       $("#backgroundSelector").append('<button id="'+ bgid.bgid +'" class="bg-btn"></button>');
