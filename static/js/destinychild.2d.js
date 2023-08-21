@@ -14,9 +14,9 @@ function animation() {
 
 function initModel(pathDir) {
 	if (pathDir == 'kr'){
-		dir = "/static/Korean/"
+		dir = "static/Korean/"
 	} else 
-		dir = "/static/Global/"
+		dir = "static/Global/"
 	
 	
   // get variables from GET
