@@ -622,3 +622,6 @@ label {
   margin-left: -1px !important;
 }
 
+.custom-combobox{
+  display: none !important;
+}
