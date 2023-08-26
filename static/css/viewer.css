@@ -425,6 +425,16 @@ html {
   background-size: 107% !important;
 }
 
+.childbutton span.background.selected::before{
+  content: '';
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: linear-gradient(0deg, rgba(255,205,0,1) 0%, rgba(255,205,0,0.3) 30%, rgba(255,205,0,0) 100%);
+}
+
 .scrollbar{
     height: 150px;
     overflow-x: scroll;
