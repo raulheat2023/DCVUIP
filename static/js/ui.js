@@ -278,7 +278,7 @@ function createComboBox() {
 function createSlider() {
   var maxWidth = 1970,
       docWidth = $(document).width()
-      minWidth = docWidth - 600,
+      minWidth = docWidth,
   $('#size-slider').slider({
     min: minWidth,
     max: docWidth < maxWidth ? docWidth : maxWidth,
@@ -320,7 +320,7 @@ function createOffsetXSlider() {
   
 function createOffsetYSlider() {
   $('#offsetY-slider').slider({
-    min: 0.4,
+    min: 0.3,
     max: 1.5,
     step: 0.1,
     value: searchParams.get('offsetY') || 0,

@@ -160,16 +160,18 @@ html {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  position: relative;
+  position: fixed;
   transition: all ease .3s;
   min-width: 300px;
   max-width: 300px;
+  z-index: 4;
+  height: 100%;
 }
 
 .panzoomcontainer{
   position: absolute;
     z-index: 3;
-    width: calc(100% - 600px);
+    width: 100%;
     height: calc(100% - 170px);
     margin: 0 auto;
     right: 0;
