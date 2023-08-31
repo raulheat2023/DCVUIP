@@ -97,16 +97,60 @@
     .loading img{
       width: 80px;
       height: 80px;
-      animation: loading linear 2s infinite;
+      animation: loading linear 1s infinite;
     }
 
     @keyframes loading {
       0% {
         transform: rotate(0deg);
       }
-    
+      12.4% {
+        transform: rotate(0deg);
+      }
+      12.5% {
+        transform: rotate(45deg);
+      }
+      24.9% {
+        transform: rotate(45deg);
+      }
+      25% {
+        transform: rotate(90deg);
+      }
+      37.4% {
+        transform: rotate(90deg);
+      }
+      37.5% {
+        transform: rotate(135deg);
+      }
+      49.9% {
+        transform: rotate(135deg);
+      }
+      50% {
+        transform: rotate(180deg);
+      }
+      62.4% {
+        transform: rotate(180deg);
+      }
+      62.5% {
+        transform: rotate(225deg);
+      }
+      74.9% {
+        transform: rotate(225deg);
+      }
+      75% {
+        transform: rotate(270deg);
+      }
+      87.4% {
+        transform: rotate(270deg);
+      }
+      87.5% {
+        transform: rotate(315deg);
+      }
+      99.9% {
+        transform: rotate(315deg);
+      }
       100% {
-        transform: rotate(359deg);
+        transform: rotate(360deg);
       }
     }
 	
