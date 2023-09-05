@@ -614,6 +614,7 @@ label {
 .input-item{
   width: 100%;
   margin-bottom: 20px;
+  min-height: 48px;
 }
 
 .ui-slider {
@@ -634,6 +635,7 @@ label {
   margin-left: -1px !important;
 }
 
-.custom-combobox{
-  display: none !important;
+.ui-menu{
+  max-height: 300px !important;
+  max-width: 258px !important;
 }

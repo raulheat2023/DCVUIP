@@ -60,7 +60,7 @@ function KView() {
 function updateViewer(id) {
   if(id && typeof id == 'string') selectedModel = id
   var viewer = document.getElementsByTagName('iframe')[0],
-      size = $('#size-slider').slider('value'),
+    size = $('#size-slider').slider('value'),
 	  mS = $('#scale-slider').slider('value'), 
 	  mX = $('#offsetX-slider').slider('value'), 
 	  mY = $('#offsetY-slider').slider('value')
@@ -164,6 +164,7 @@ function loadAssets(callback) {
   })
 }
 
+//combo-box
 function createComboBox() {
   $.widget('custom.combobox', {
     _create: function() {
@@ -195,6 +196,7 @@ function createComboBox() {
           this._trigger('select', event, {
             item: ui.item.option
           })
+          document.getElementById("childName").innerHTML = ui.item.label;  
         },
         autocompletechange: '_removeIfInvalid'
       })
@@ -271,10 +273,16 @@ function createComboBox() {
     }
   })
   $('select').combobox({
-    select: function() { updateViewer(this.value)}
+    select: function() {
+      updateViewer(this.value);
+
+    }
   })
-  $('select').on('change', function() { updateViewer(this.value)})
+  $('select').on('change', function() { 
+    updateViewer(this.value);
+  })
 }
+
 function createSlider() {
   var maxWidth = 1970,
       docWidth = $(document).width()
@@ -337,7 +345,7 @@ function setSelectedIndex(i) {
   var $select = $('select'),
       id = $select.val()
   updateViewer(id)
-  $select.combobox('instance').input.val(getLabel(id))
+  $select.combobox('instance').input.val(getLabel(id));
 }
 function init() { // eslint-disable-line no-unused-vars
   loadChilds(function() {
@@ -361,6 +369,8 @@ function init() { // eslint-disable-line no-unused-vars
   })
 }
 
+
+//Child button
 function changeChild(id, name, value) {
   childid = id;
   childname = name;

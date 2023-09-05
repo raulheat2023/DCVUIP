@@ -103,6 +103,11 @@
 
       <div class="inputs">
         <div class="input-item">
+          <label>Search</label>
+          <select id="select"></select>
+        </span>
+        </div>
+        <div class="input-item" style="display: none;">
           <label>Quality</label>
           <div id="size-slider"></div>
           <p><span id="size-label"></span><span>px</span></p>
@@ -121,7 +126,7 @@
           <label>Frame Offset Y</label>
           <div id="offsetY-slider"></div>
           <p><span id="offsetY-label"></span></p>
-        </div>
+        </div>    
       </div>
     </div>
     <div class="panzoomcontainer">
@@ -130,7 +135,6 @@
         <iframe style="border: none; overflow: hidden;" scrolling="no" seamless="seamless"></iframe>
       </div>
     </div>
-    <select id="modelMotions" class="select-motions" style="display: none;"></select>
     <div class="background-container">
       <div id="background" class="static-background"></div>
     </div>
@@ -183,6 +187,7 @@
 
         </footer>
       </div>
+    </div>
       <script src="static/js/slide.js"></script>
       <script>
         function resetiframe() {
