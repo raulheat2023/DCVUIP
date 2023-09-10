@@ -220,7 +220,7 @@
             "11": {
                 "title": "Student",
                 "description": "Puberty Succubus Davi's uniform.",
-                "type": "healer",
+                "type": "attack",
                 "attribute": "fire",
                 "stars": "three",
                 "artist": ""
@@ -228,7 +228,7 @@
             "12": {
                 "title": "Battlesuit 2",
                 "description": "Lovely Davi's cuteness factor just went through the roof!",
-                "type": "healer",
+                "type": "attack",
                 "attribute": "fire",
                 "stars": "three",
                 "artist": ""
@@ -236,7 +236,7 @@
             "13": {
                 "title": "Summer Dream",
                 "description": "Davi's full-body bathing suit emphasizing functionality.",
-                "type": "healer",
+                "type": "attack",
                 "attribute": "fire",
                 "stars": "three",
                 "artist": ""
@@ -244,7 +244,7 @@
             "14": {
                 "title": "Lucifer",
                 "description": "Davi's Dream, Davi's Hope.",
-                "type": "healer",
+                "type": "attack",
                 "attribute": "fire",
                 "stars": "three",
                 "artist": ""
@@ -252,7 +252,7 @@
             "15": {
                 "title": "Satan",
                 "description": "Lethal Davi's imagination, a dream within a dream.",
-                "type": "healer",
+                "type": "attack",
                 "attribute": "fire",
                 "stars": "three",
                 "artist": ""
@@ -260,7 +260,7 @@
             "16": {
                 "title": "Crimson",
                 "description": "Davi's imagination, a crimson flower that blossomed from a dream.",
-                "type": "healer",
+                "type": "attack",
                 "attribute": "fire",
                 "stars": "three",
                 "artist": ""
@@ -268,7 +268,7 @@
             "17": {
                 "title": "Mini",
                 "description": "A Davi made from a fragment of Archfiend Davi. Is it just me, or does this look familiar?",
-                "type": "healer",
+                "type": "attack",
                 "attribute": "fire",
                 "stars": "three",
                 "artist": ""
@@ -276,7 +276,7 @@
             "18": {
                 "title": "Cheerleader",
                 "description": "Don't get me wrong! I'm not cheering for Master at all! Davi's cheerleading uniform, solely used for Mona.",
-                "type": "healer",
+                "type": "attack",
                 "attribute": "fire",
                 "stars": "three",
                 "artist": ""
@@ -284,7 +284,7 @@
             "89": {
                 "title": "Lucifer",
                 "description": "Davi's Dream, Davi's Hope.",
-                "type": "healer",
+                "type": "attack",
                 "attribute": "fire",
                 "stars": "three",
                 "artist": ""
@@ -292,7 +292,7 @@
             "01": {
                 "title": "",
                 "description": "Wherever Mona-nee-sama is, go to the edge of the demon world!",
-                "type": "healer",
+                "type": "attack",
                 "attribute": "fire",
                 "stars": "three",
                 "artist": ""
@@ -300,7 +300,7 @@
             "02": {
                 "title": "Battlesuit",
                 "description": "Lovely Davi's cuteness factor just went through the roof!",
-                "type": "healer",
+                "type": "attack",
                 "attribute": "fire",
                 "stars": "three",
                 "artist": ""
