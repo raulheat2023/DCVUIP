@@ -56,7 +56,8 @@ function KView() {
 	diffView = "k";
 	updateViewer();
 }
-//aca!
+
+
 function updateViewer(id) {
   if(id && typeof id == 'string') selectedModel = id
   var viewer = document.getElementsByTagName('iframe')[0],
@@ -132,6 +133,22 @@ function getDesc(id) {
   var child = getChild(id)
   return child && child.description || 'empty'
 }
+
+function getAttr(id) {
+  var child = getChild(id)
+  return child && child.attribute || 'water'
+}
+
+function getType(id) {
+  var child = getChild(id)
+  return child && child.type || 'attack'
+}
+
+function getStar(id) {
+  var child = getChild(id)
+  return child && child.stars || 'three'
+}
+
 function getLabel(id) {
   var parts = id.split('_'),
       child = getChild(id),
@@ -146,6 +163,62 @@ function getLabel(id) {
   )
 }
 
+function getDescription(id) {
+  var parts = id.split('_'),
+      child = getChild(id),
+      v = parts[1].replace(/-.+$/, ''),
+      variant = child && child.variants[v],
+      description = getDesc(id)
+  return (child
+    ? ((variant && variant.description)
+      ? variant.description : description
+    )
+    : description
+  )
+}
+
+function getAttributes(id) {
+  var parts = id.split('_'),
+      child = getChild(id),
+      v = parts[1].replace(/-.+$/, ''),
+      variant = child && child.variants[v],
+      attribute = getAttr(id)
+  return (child
+    ? ((variant && variant.attribute)
+      ? variant.attribute : attribute
+    )
+    : attribute
+  )
+}
+
+function getTypes(id) {
+  var parts = id.split('_'),
+      child = getChild(id),
+      v = parts[1].replace(/-.+$/, ''),
+      variant = child && child.variants[v],
+      type = getType(id)
+  return (child
+    ? ((variant && variant.type)
+      ? variant.type : type
+    )
+    : type
+  )
+}
+
+function getStars(id) {
+  var parts = id.split('_'),
+      child = getChild(id),
+      v = parts[1].replace(/-.+$/, ''),
+      variant = child && child.variants[v],
+      type = getStar(id)
+  return (child
+    ? ((variant && variant.stars)
+      ? variant.stars : stars
+    )
+    : stars
+  )
+}
+
 function loadAssets(callback) {
   $.getJSON('static/json/assets_childsonly.json', function(data) {
     $.each(data, function(i, asset) {
@@ -154,10 +227,10 @@ function loadAssets(callback) {
       modelIds.push(id)
       assets[id] = asset
       $('#select').append(
-        '<option value="' + id + '">' + getLabel(id) + '</option>'
+        '<option value="' + id + '" label="'+ getDescription(id) +'" data-attr="'+ getAttributes(id) +'" data-type="'+ getTypes(id) +'" data-stars="'+ getStars(id) +'">' + getLabel(id) + '</option>'
       ),
       $('#childButtons').append(
-        '<button id="'+ id +'" name="'+ getLabel(id) +'" value="'+ getDesc(id) +'" onclick="changeChild(this.id, this.name, this.value)" class="childbutton item '+ id +'"><span class="selected-indicator"></span><span class="background"></span></button>'
+        '<button data-attr="'+ getAttributes(id) +'" data-id="'+ id +'" data-name="'+ getLabel(id) +'" data-value="'+ getDescription(id) +'" data-type="'+ getTypes(id) +'" data-stars="'+ getStars(id) +'" onclick="changeChilds(this)" class="childbutton item '+ id +'"><span class="selected-indicator"></span><span class="background"></span></button>'
       )
     })
     callback()
@@ -192,11 +265,23 @@ function createComboBox() {
 
       this._on( this.input, {
         autocompleteselect: function( event, ui ) {
+          childname = ui.item.option.label
           ui.item.option.selected = true
           this._trigger('select', event, {
             item: ui.item.option
           })
-          document.getElementById("childName").innerHTML = ui.item.label;  
+          var attribute = ui.item.option.getAttribute('data-attr');
+          var type = ui.item.option.getAttribute('data-type');
+          var stars = ui.item.option.getAttribute('data-stars');
+          console.log(attribute)
+          document.getElementById("childName").innerHTML = ui.item.label; 
+          document.getElementById("childDesc").innerHTML = childname; 
+          document.getElementById("attribute").removeAttribute('class');
+          document.getElementById("attribute").classList.add(attribute);
+          document.getElementById("type").removeAttribute('class');
+          document.getElementById("type").classList.add(type);
+          document.getElementById("stars").removeAttribute('class');
+          document.getElementById("stars").classList.add(stars);
         },
         autocompletechange: '_removeIfInvalid'
       })
@@ -234,7 +319,7 @@ function createComboBox() {
           return {
             label: text,
             value: text,
-            option: this
+            option: this,
           }
         }
       }) )
@@ -281,6 +366,30 @@ function createComboBox() {
   $('select').on('change', function() { 
     updateViewer(this.value);
   })
+}
+
+//Child buttons
+let changeChilds = button => {
+  var id = button.getAttribute('data-id');
+  var value = button.getAttribute('data-value');
+  var name = button.getAttribute('data-name');
+  var attr = button.getAttribute('data-attr');
+  var type = button.getAttribute('data-type');
+  var star = button.getAttribute('data-stars');
+  console.table(type)
+
+  updateViewer(id);
+    document.addEventListener('click', function handleClick(event) {
+      event.target.classList.add('selected');
+    });
+    document.getElementById("childName").innerHTML = name;
+    document.getElementById("childDesc").innerHTML = value;
+    document.getElementById("attribute").removeAttribute('class');
+    document.getElementById("attribute").classList.add(attr);
+    document.getElementById("type").removeAttribute('class');
+    document.getElementById("type").classList.add(type);
+    document.getElementById("stars").removeAttribute('class');
+    document.getElementById("stars").classList.add(star);
 }
 
 function createSlider() {
@@ -369,19 +478,6 @@ function init() { // eslint-disable-line no-unused-vars
   })
 }
 
-
-//Child button
-function changeChild(id, name, value) {
-  childid = id;
-  childname = name;
-  childdesc = value;
-  updateViewer(childid);
-  document.addEventListener('click', function handleClick(event) {
-    event.target.classList.add('selected');
-  });
-  document.getElementById("childName").innerHTML = childname;
-  //document.getElementById("childDesc").innerHTML = childdesc;
-}
 
 //Clear screen
 function clearScreen() {

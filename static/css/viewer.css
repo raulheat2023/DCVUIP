@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Vadodara&family=Libre+Franklin:wght@300;500;600&family=Nunito+Sans:opsz,wght@6..12,300&display=swap');
+
 @font-face {
   font-family: 'Daum__Regular';
   src: url('../font/Daum__Regular.ttf') format('truetype');
@@ -364,6 +366,11 @@ html {
   text-shadow: 0px 1px 4px rgba(0,0,0,1);
   width: 100%;
   padding-left: 60px;
+  margin-bottom: 0;
+}
+
+.child-name #childName{
+  margin-bottom: 0;
 }
 
 .childbutton{
@@ -638,4 +645,99 @@ label {
 .ui-menu{
   max-height: 300px !important;
   max-width: 258px !important;
+}
+
+.child-description{
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 12px;
+  min-height: 150px;
+}
+
+.child-data{
+  display: flex;
+  height: 25px;
+  margin-bottom: 4px;
+}
+
+.child-data #stars{
+  height: 25px;
+  background:url('../images/stars.webp') no-repeat scroll 0 0 transparent;
+  min-width: 25px;
+}
+
+.child-data #stars.one{
+  width: 25px;
+  background-position: 0 0;
+}
+
+.child-data #stars.two{
+  width: 50px;
+  background-position: 0 -25px;
+}
+
+.child-data #stars.three{
+  width: 75px;
+  background-position: 0 -49px;
+}
+
+.child-data #stars.four{
+  width: 100px;
+  background-position: 0 -76px;
+}
+
+.child-data #stars.five{
+  width: 125px;
+  background-position: 0 -101px;
+}
+
+.child-data #attribute{
+  height: 25px;
+  width: 25px;
+  background: url('../images/attributes.webp') no-repeat scroll 0 0 transparent;
+}
+
+.child-data #attribute.leaf{
+  background-position: 0 0;
+}
+
+.child-data #attribute.water{
+  background-position: 0 -76px;
+}
+
+.child-data #attribute.darkness{
+  background-position: 0 -50px;
+}
+
+.child-data #attribute.fire{
+  background-position: 0 -25px;
+}
+
+.child-data #attribute.light{
+  background-position: 0 -101px;
+}
+
+.child-data #type{
+  height: 25px;
+  width: 25px;
+  background: url('../images/types.webp') no-repeat scroll 0 0 transparent;
+}
+
+.child-data #type.attack{
+  background-position: 0 0;
+}
+
+.child-data #type.healer{
+  background-position: 0 -76px;
+}
+
+.child-data #type.support{
+  background-position: 0 -52px;
+}
+
+.child-data #type.debuffer{
+  background-position: 0 -25px;
+}
+
+.child-data #type.defense{
+  background-position: 0 -100px;
 }
