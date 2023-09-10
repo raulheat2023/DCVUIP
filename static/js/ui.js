@@ -136,17 +136,17 @@ function getDesc(id) {
 
 function getAttr(id) {
   var child = getChild(id)
-  return child && child.attribute || 'water'
+  return child && child.attribute || 'undefined'
 }
 
 function getType(id) {
   var child = getChild(id)
-  return child && child.type || 'attack'
+  return child && child.type || 'undefined'
 }
 
 function getStar(id) {
   var child = getChild(id)
-  return child && child.stars || 'three'
+  return child && child.stars || 'undefined'
 }
 
 function getLabel(id) {

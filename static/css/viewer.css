@@ -741,3 +741,9 @@ label {
 .child-data #type.defense{
   background-position: 0 -100px;
 }
+
+.child-data #attribute.undefined,
+.child-data #type.undefined,
+.child-data #stars.undefined{
+  display: none;
+}
