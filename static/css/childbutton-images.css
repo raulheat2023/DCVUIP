@@ -50,6 +50,10 @@
     background: url('../images/chara/c001_10.webp') no-repeat scroll center center transparent !important;
 }
 
+.c001_10jp .background {
+    background: url('../images/chara/c001_10jp.webp') no-repeat scroll center center transparent !important;
+}
+
 .c001_11 .background {
     background: url('../images/chara/c001_11.webp') no-repeat scroll center center transparent !important;
 }
