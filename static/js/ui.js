@@ -282,6 +282,9 @@ function createComboBox() {
           document.getElementById("type").classList.add(type);
           document.getElementById("stars").removeAttribute('class');
           document.getElementById("stars").classList.add(stars);
+          var scrollBySelectedOption = (select.selectedIndex * 55);
+          document.getElementById("childButtons").scrollLeft = scrollBySelectedOption;
+          console.log(scrollBySelectedOption)
         },
         autocompletechange: '_removeIfInvalid'
       })
