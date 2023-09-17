@@ -396,12 +396,11 @@ let changeChilds = button => {
 }
 
 function createSlider() {
-  var maxWidth = 1970,
+  var maxWidth = 2200,
       docWidth = $(document).width()
-      minWidth = docWidth,
   $('#size-slider').slider({
-    min: minWidth,
-    max: docWidth < maxWidth ? docWidth : maxWidth,
+    min: docWidth - 200,
+    max: 1920,
     step: 50,
     value: searchParams.get('size') || screen.height/1.5,
     slide: function(_, ui) {
