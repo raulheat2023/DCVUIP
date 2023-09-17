@@ -5102,24 +5102,24 @@
         "variants": {
             "00": {
                 "title": "Human",
-                "description": "",
-                "type": "healer",
+                "description": "The future of a literary girl is a dreamer and a librarian...",
+                "type": "debuffer",
                 "attribute": "water",
                 "stars": "three",
                 "artist": ""
             },
             "01": {
                 "title": "Dreaming",
-                "description": "",
-                "type": "healer",
+                "description": "The battle uniform of the imaginary witch Hecate.",
+                "type": "debuffer",
                 "attribute": "water",
                 "stars": "three",
                 "artist": ""
             },
             "02": {
                 "title": "Delusional",
-                "description": "",
-                "type": "healer",
+                "description": "The battle uniform of the dreaming witch Hecate.",
+                "type": "debuffer",
                 "attribute": "water",
                 "stars": "three",
                 "artist": ""
@@ -5127,7 +5127,7 @@
             "10": {
                 "title": "",
                 "description": "",
-                "type": "healer",
+                "type": "debuffer",
                 "attribute": "water",
                 "stars": "three",
                 "artist": ""
