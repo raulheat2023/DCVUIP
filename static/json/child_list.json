@@ -3585,26 +3585,26 @@
         "name": "Baal",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
+                "title": "(Toji Gonda) Human",
+                "description": "Please let me know if you have any questions. Th-thanks, I'm just looking...",
+                "type": "defender",
+                "attribute": "darkness",
                 "stars": "three",
                 "artist": ""
             },
             "01": {
                 "title": "Frenzied",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
+                "description": "A combat suit for Baal, who seems like he might destroy everything in sight.",
+                "type": "defender",
+                "attribute": "darkness",
                 "stars": "three",
                 "artist": ""
             },
             "02": {
                 "title": "Bloody",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
+                "description": "A combat suit for Baal, who seems like he might rip everything to shreds.",
+                "type": "defender",
+                "attribute": "darkness",
                 "stars": "three",
                 "artist": ""
             }
@@ -3615,42 +3615,42 @@
         "variants": {
             "10": {
                 "title": "Purple Diamond",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Recruiting a henchman for the great villain Inanna!",
+                "type": "attack",
+                "attribute": "darkness",
+                "stars": "four",
                 "artist": ""
             },
             "11": {
                 "title": "Red Diamond",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Recruiting acclaimed henchmen for the Great Demon Lord Inanna!",
+                "type": "attack",
+                "attribute": "darkness",
+                "stars": "four",
                 "artist": ""
             },
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "(Juria Kitazume) Human",
+                "description": "Graffiti is a pure expression of youthful freedom! I will NOT have you refer to this as a &quot;scrawl&quot;!",
+                "type": "attack",
+                "attribute": "darkness",
+                "stars": "four",
                 "artist": ""
             },
             "01": {
                 "title": "Harlequin",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "There's just something about this outfit that makes you want to rest your head on it.",
+                "type": "attack",
+                "attribute": "darkness",
+                "stars": "four",
                 "artist": ""
             },
             "02": {
                 "title": "Tyrannical",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A perfect example of the kind of expression you DON'T want to make in a picture.",
+                "type": "attack",
+                "attribute": "darkness",
+                "stars": "four",
                 "artist": ""
             }
         }
@@ -3659,27 +3659,27 @@
         "name": "Rusalka",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
+                "title": "(Hideka Ebina) Human",
+                "description": "New teachers are always sent to the frontlines.",
                 "type": "healer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Indecisive",
-                "description": "",
+                "description": "In the water, you never get lost.",
                 "type": "healer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Confessing",
-                "description": "",
+                "description": "Right now, there's no stage in the world where Rusalka can't sing.",
                 "type": "healer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -3689,26 +3689,26 @@
         "variants": {
             "00": {
                 "title": "Human",
-                "description": "",
-                "type": "healer",
+                "description": "If you want to taste the best cocktails in Harlem, come to Bariplay.",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "four",
                 "artist": ""
             },
             "01": {
                 "title": "Summer",
-                "description": "",
-                "type": "healer",
+                "description": "Hebe's costume with the sweet scent of apricot.",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "four",
                 "artist": ""
             },
             "02": {
                 "title": "Youthful",
-                "description": "",
-                "type": "healer",
+                "description": "Hebe's costume with the refreshing scent of Blue Hawaii.",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "four",
                 "artist": ""
             }
         }
@@ -3717,27 +3717,27 @@
         "name": "Epona",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "(Shiho Shiozuka) Human",
+                "description": "With these maps, there's nowhere I can't go!",
+                "type": "support",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Adventurer",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "To the ends of the Infernal Realm! With the lightest possible bag!",
+                "type": "support",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Wandering",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Wherever I walk, that's my path. Wherever I am, that's my destination!",
+                "type": "support",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -3746,27 +3746,27 @@
         "name": "Thoth",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
+                "title": "(Takashi Taichi) Human",
+                "description": "Even rookie detectives can tell a lot from a person's clothes.",
+                "type": "defender",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "four",
                 "artist": ""
             },
             "01": {
                 "title": "Stern",
-                "description": "",
-                "type": "healer",
+                "description": "Charm so refined, it'll take your breath away.",
+                "type": "defender",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "four",
                 "artist": ""
             },
             "02": {
                 "title": "Severe",
-                "description": "",
-                "type": "healer",
+                "description": "Charisma so severe, it'll take your breath away.",
+                "type": "defender",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "four",
                 "artist": ""
             }
         }
@@ -3775,27 +3775,27 @@
         "name": "Echo",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "(Kanae Yamaten) Human",
+                "description": "A veteran idol who has been around for 10 years since her debut.",
+                "type": "defender",
+                "attribute": "fire",
+                "stars": "four",
                 "artist": ""
             },
             "01": {
                 "title": "Singing",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A microphone and speaker that lets you hear Echo's beautiful singing voice.",
+                "type": "defender",
+                "attribute": "fire",
+                "stars": "four",
                 "artist": ""
             },
             "02": {
                 "title": "Girl Group",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A microphone and speaker that emit light in responce to Echo's singing voice.",
+                "type": "defender",
+                "attribute": "fire",
+                "stars": "four",
                 "artist": ""
             }
         }
@@ -3804,59 +3804,59 @@
         "name": "Elizabeth",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "(Kiriko Kikyoutani) Human",
+                "description": "A mysterious beauty who gives the impression of having been witness to many unspeakable things.",
+                "type": "attack",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Autocratic",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A combat suit for Elizabeth, the noblewoman who sneers at the world.",
+                "type": "attack",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Empress",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A combat suit for Elizabeth, the empress who imparts orders to demons.",
+                "type": "attack",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
-                "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "Bright moon",
+                "description": "Elizabeth's battle to educate the devil under the bright moon.",
+                "type": "attack",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "87": {
                 "title": "",
                 "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "type": "attack",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "88": {
                 "title": "",
                 "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "type": "attack",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "89": {
                 "title": "",
                 "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "type": "attack",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -3866,34 +3866,34 @@
         "variants": {
             "10": {
                 "title": "Marine Flower",
-                "description": "",
-                "type": "healer",
+                "description": "A gorgeous dress for the greedy Naias.",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
+                "title": "(Mikako Kameuchi) Human",
+                "description": "I just caught me a handsome man! Oh, wait, it was just me...",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Dreaming",
-                "description": "",
-                "type": "healer",
+                "description": "I want to fall in love, not go swimming...",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Märchen",
-                "description": "",
-                "type": "healer",
+                "description": "If you've got something in your sights, that's when it's time to break out the flippers!",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -3903,26 +3903,26 @@
         "variants": {
             "00": {
                 "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Semele's purple flared skirt that hides her dark side.",
+                "type": "support",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Daybreak",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "An old-fashioned leather skirt that matches Semele's hair color.",
+                "type": "support",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Little Demon",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A Little Devil costume that fully unleashes Semele's power.",
+                "type": "support",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -3931,28 +3931,28 @@
         "name": "Sara",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
+                "title": "",
+                "description": "Do machines have souls?",
+                "type": "defender",
                 "attribute": "water",
-                "stars": "three",
-                "artist": ""
+                "stars": "four",
+                "artist": "김형태"
             },
             "01": {
                 "title": "Gentle",
-                "description": "",
-                "type": "healer",
+                "description": "Sara's combat uniform is a disheveled android, but has a professional smile.",
+                "type": "defender",
                 "attribute": "water",
-                "stars": "three",
-                "artist": ""
+                "stars": "four",
+                "artist": "김형태"
             },
             "02": {
                 "title": "Smiling",
-                "description": "",
-                "type": "healer",
+                "description": "Sara's battle clothes are so risky that she feels like she has to help.",
+                "type": "defender",
                 "attribute": "water",
-                "stars": "three",
-                "artist": ""
+                "stars": "four",
+                "artist": "김형태"
             }
         }
     },
@@ -3961,26 +3961,26 @@
         "variants": {
             "00": {
                 "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "undefined",
+                "attribute": "undefined",
+                "stars": "undefined",
                 "artist": ""
             },
             "01": {
                 "title": "Referee",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "undefined",
+                "attribute": "undefined",
+                "stars": "undefined",
                 "artist": ""
             },
             "02": {
                 "title": "Punishable",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "undefined",
+                "attribute": "undefined",
+                "stars": "undefined",
                 "artist": ""
             }
         }
@@ -3989,27 +3989,27 @@
         "name": "Ishtar",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "(Nao Shinonome) Human",
+                "description": "Hold me tight and don't let go, from the top of my head to the tips of my toes!",
+                "type": "debuffer",
+                "attribute": "light",
+                "stars": "four",
                 "artist": ""
             },
             "01": {
                 "title": "Bound",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A combat suit for Ishtar, trapped in her own mind.",
+                "type": "debuffer",
+                "attribute": "light",
+                "stars": "four",
                 "artist": ""
             },
             "02": {
                 "title": "Liberated",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A combat suit for Ishtar, who has finally spread her wings.",
+                "type": "debuffer",
+                "attribute": "light",
+                "stars": "four",
                 "artist": ""
             }
         }
@@ -4018,67 +4018,67 @@
         "name": "Chang'e",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
+                "title": "(Mei) Human",
+                "description": "When it comes to setting the table, speed is everything! After all, who wants to eat cold dumplings?!",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Sunny",
-                "description": "",
-                "type": "healer",
+                "description": "A dress for Chang'e, who remembers everything about the spring you spent together.",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Incarnated",
-                "description": "",
-                "type": "healer",
+                "description": "A dress for Chang'e, who dreams of spending spring with you.",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "Midnight",
-                "description": "",
-                "type": "healer",
+                "description": "The width of ivory's scarlet-colored skirt waiting for spring.Your ivory standing at the end of a harsh winter.",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "11": {
                 "title": "Beautiful",
-                "description": "",
-                "type": "healer",
+                "description": "After a noisy night, a beauty appeared softly under the moonlight.",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "12": {
                 "title": "Ravishing",
-                "description": "",
-                "type": "healer",
+                "description": "A lone white flower bloom in the cold of winter. There is a cold beautiful girl.",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "87": {
                 "title": "Ravishing",
-                "description": "",
-                "type": "healer",
+                "description": "A lone white flower bloom in the cold of winter. There is a cold beautiful girl.",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "88": {
                 "title": "Incarnated",
-                "description": "",
-                "type": "healer",
+                "description": "A dress for Chang'e, who dreams of spending spring with you.",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -4088,26 +4088,26 @@
         "variants": {
             "00": {
                 "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "I don't support anyone unless they're a villain~",
+                "type": "support",
+                "attribute": "fire",
+                "stars": "four",
                 "artist": ""
             },
             "01": {
                 "title": "Cheering",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A cheering uniform for Talia, the cheerleader of the Demon World.",
+                "type": "support",
+                "attribute": "fire",
+                "stars": "four",
                 "artist": ""
             },
             "02": {
                 "title": "Joyous",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "The cheering uniform of Talia, the cheerleader of the Demon World.",
+                "type": "support",
+                "attribute": "fire",
+                "stars": "four",
                 "artist": ""
             }
         }
@@ -4117,24 +4117,24 @@
         "variants": {
             "00": {
                 "title": "Human",
-                "description": "",
-                "type": "healer",
+                "description": "A fragment of desire that resembles mine but has a different smile.",
+                "type": "support",
                 "attribute": "water",
                 "stars": "three",
                 "artist": ""
             },
             "01": {
                 "title": "Happy",
-                "description": "",
-                "type": "healer",
+                "description": "I prepared chocolate just for you~",
+                "type": "support",
                 "attribute": "water",
                 "stars": "three",
                 "artist": ""
             },
             "02": {
                 "title": "Glorious",
-                "description": "",
-                "type": "healer",
+                "description": "It's chocolate filled with heart. I might be a little disappointed if I don't eat it...",
+                "type": "support",
                 "attribute": "water",
                 "stars": "three",
                 "artist": ""
@@ -4145,27 +4145,27 @@
         "name": "Yuna",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "(Kasane Karakasa) Human",
+                "description": "The slums don't suit me. But even they need a ray of hope, right?",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "four",
                 "artist": ""
             },
             "01": {
                 "title": "Shining",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "This kind young girl shines like a sunbeam even in the face of demons.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "four",
                 "artist": ""
             },
             "02": {
                 "title": "Glittering",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "The naive young girl shines like the heavens even in the face of demons.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "four",
                 "artist": ""
             }
         }
@@ -4175,34 +4175,34 @@
         "variants": {
             "10": {
                 "title": "Dangerous",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A costume Daoine Sidhe wears exclusively for going out.Note the highly dangerous lollipops.",
+                "type": "defender",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "(Reika Takagi) Human",
+                "description": "Sturm and drang! Kids hang on to chocolate with their lives!",
+                "type": "defender",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Small",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Locked, loaded, and ready to play!",
+                "type": "defender",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Kid Sister",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "If you want to enjoy your demon life, you have to get up off your demon duff!",
+                "type": "defender",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -4212,50 +4212,50 @@
         "variants": {
             "10": {
                 "title": "Little Star",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Yes, your partner today! A.I has become smaller!",
+                "type": "defender",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "11": {
                 "title": "Summer Vacation",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Even in the scorching hot summer, still with your partner, A.I!",
+                "type": "defender",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "12": {
                 "title": "Electro-Pop",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Feeling a little different today☆ A little more fun, this is your partner A.I!",
+                "type": "defender",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "00": {
                 "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Her offstage outfit isn't at all what you might think.",
+                "type": "defender",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "An ostentatious stage outfit for A.I, a reporter of the secret Night World.",
+                "type": "defender",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Limited",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A darker stage outfit for A.I, the intrepid reporter with the smiling facade.",
+                "type": "defender",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -4264,27 +4264,27 @@
         "name": "Red Cross",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "(Yoshihiko Ikariyama) Human",
+                "description": "A rich security guard? Talk about a useless job.",
+                "type": "defender",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Guardian",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A combat suit for Red Cross made out of elegant fabric.",
+                "type": "defender",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Sentinel",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A combat suit for Red Cross made out of sophisticated fabric.",
+                "type": "defender",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -4294,18 +4294,18 @@
         "variants": {
             "01": {
                 "title": "Eye Catching",
-                "description": "",
-                "type": "healer",
+                "description": "A neon-colored jacket from the Night World.",
+                "type": "defender",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Dealer",
-                "description": "",
-                "type": "healer",
+                "description": "A milk-colored jacket that just doesn't fit into the Night World.",
+                "type": "defender",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -4315,25 +4315,25 @@
         "variants": {
             "00": {
                 "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
+                "description": "True intelligence shines in silence.",
+                "type": "support",
+                "attribute": "light",
                 "stars": "three",
                 "artist": ""
             },
             "01": {
                 "title": "Mirage",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
+                "description": "So light it barely feels like you're wearing anything! Be careful it doesn't float away.",
+                "type": "support",
+                "attribute": "light",
                 "stars": "three",
                 "artist": ""
             },
             "02": {
                 "title": "Fantasy",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
+                "description": "A natural fit like fog! I'm not responsible even if it evaporates~",
+                "type": "support",
+                "attribute": "light",
                 "stars": "three",
                 "artist": ""
             }
@@ -4343,51 +4343,51 @@
         "name": "Mammon",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "(Takao Hozan) Human",
+                "description": "This is no ordinary bag. This is a Clutch Bag.",
+                "type": "defender",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Ambitious",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "More vivacious! More ostentatious!",
+                "type": "defender",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Greedy",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "More ostentatious! More glamorous!",
+                "type": "defender",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
-                "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "Rampant Swagger",
+                "description": "Takao Takayama's appaerance has changed due to the influence of the devil's seed. &quot;I'm addicted to my self&quot;. His selfish behavior is also spurred on.",
+                "type": "defender",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "87": {
                 "title": "",
                 "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "type": "defender",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "88": {
                 "title": "",
                 "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "type": "defender",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -4396,27 +4396,27 @@
         "name": "Dana",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "(Tatsuko Tamogami) Human",
+                "description": "Clothes for the runaway shrine maiden. Make sure not to leave any part unprotected.",
+                "type": "defender",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Preacher",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Winged clothes for the goddess in your life. Only the Chosen Ones can wear it.",
+                "type": "defender",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Declarative",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A holy robe for the goddess in your life. Exudes an aura that can only be called &quot;divine.&quot;",
+                "type": "defender",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -4425,27 +4425,27 @@
         "name": "Elysion",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
+                "title": "(Tamae Tatsunami) Human",
+                "description": "If you want the sighing option, you'll have to pay extra.",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "four",
                 "artist": ""
             },
             "01": {
                 "title": "Wandering",
-                "description": "",
-                "type": "healer",
+                "description": "Everyone knows you should put on your swimsuit before going in the ocean.",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "four",
                 "artist": ""
             },
             "02": {
                 "title": "Paradise",
-                "description": "",
-                "type": "healer",
+                "description": "What do you need to navigate the sea in search of freedom?",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "four",
                 "artist": ""
             }
         }
@@ -4454,27 +4454,27 @@
         "name": "Hermod",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "(Ishijin) Human",
+                "description": "High school students covered in bruises are always a source of worry for their older sisters.",
+                "type": "defender",
+                "attribute": "light",
+                "stars": "four",
                 "artist": ""
             },
             "01": {
                 "title": "Foolhardy",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "If you go into a back alley, you're bound to find at least one guy like this.",
+                "type": "defender",
+                "attribute": "light",
+                "stars": "four",
                 "artist": ""
             },
             "02": {
                 "title": "Dictator",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Any weapon is fine, but a baseball bat has the best grip!",
+                "type": "defender",
+                "attribute": "light",
+                "stars": "four",
                 "artist": ""
             }
         }
@@ -4484,26 +4484,26 @@
         "variants": {
             "00": {
                 "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "support",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Controller",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A custom-made collar is essential controlling the ferocius guard dog.",
+                "type": "support",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Ruler",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Lovely dog will scream fire when angry, so be careful.",
+                "type": "support",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -4512,59 +4512,59 @@
         "name": "Thetis",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
+                "title": "(Sayori Mizutani) Human",
+                "description": "An outfit worn by Thetis's pactmaker.",
+                "type": "debuffer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Greiving",
-                "description": "",
-                "type": "healer",
+                "description": "Thetis's best dress, dyed in a beautiful deep-sea blue.",
+                "type": "debuffer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Sorrowful",
-                "description": "",
-                "type": "healer",
+                "description": "A Thetis-exclusive dress adorned with coral and pearls.",
+                "type": "debuffer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
-                "title": "",
-                "description": "",
-                "type": "healer",
+                "title": "Soothing",
+                "description": "Thetis's dress her from sadness and made her heart lighter.",
+                "type": "debuffer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "87": {
                 "title": "",
                 "description": "",
-                "type": "healer",
+                "type": "debuffer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "88": {
                 "title": "",
                 "description": "",
-                "type": "healer",
+                "type": "debuffer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "89": {
                 "title": "Sorrowful",
                 "description": "",
-                "type": "healer",
+                "type": "debuffer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -4573,16 +4573,16 @@
         "name": "Atalanta",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
+                "title": "(Sachika Tsuchida) Human",
+                "description": "Just putting it on fills you with a sense of justice.",
+                "type": "attack",
                 "attribute": "water",
                 "stars": "three",
                 "artist": ""
             },
             "01": {
                 "title": "Charging",
-                "description": "",
+                "description": "Atalanta's hammer of justice, designed to target evildoers only.",
                 "type": "healer",
                 "attribute": "water",
                 "stars": "three",
@@ -4590,7 +4590,7 @@
             },
             "02": {
                 "title": "Renowned Assistant",
-                "description": "",
+                "description": "Atalanta's hammer of justice, designed to target evil demons only.",
                 "type": "healer",
                 "attribute": "water",
                 "stars": "three",
@@ -4603,25 +4603,25 @@
         "variants": {
             "00": {
                 "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
+                "description": "Kratos' bamboo sword that does not discriminate against any opponent.",
+                "type": "attack",
+                "attribute": "darkness",
                 "stars": "three",
                 "artist": ""
             },
             "01": {
                 "title": "Bound",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
+                "description": "Why do they say they will punish me while I am wearing a prison uniform?",
+                "type": "attack",
+                "attribute": "darkness",
                 "stars": "three",
                 "artist": ""
             },
             "02": {
                 "title": "Liberated",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
+                "description": "Can succubus sisters be punished if they wear this...?",
+                "type": "attack",
+                "attribute": "darkness",
                 "stars": "three",
                 "artist": ""
             }
@@ -4631,27 +4631,27 @@
         "name": "Isis",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
+                "title": "(Hiromi Yuki) Human",
+                "description": "She may be sickly, but she hasn't given up on her dreams.",
                 "type": "healer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "four",
                 "artist": ""
             },
             "01": {
                 "title": "Mimic",
-                "description": "",
+                "description": "This lovely dress for Isis is flying off the shelves.",
                 "type": "healer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "four",
                 "artist": ""
             },
             "02": {
                 "title": "Actress",
-                "description": "",
+                "description": "Isis won this dress when she was awarded Rookie of the Year. Now available at stores everywhere.",
                 "type": "healer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "four",
                 "artist": ""
             }
         }
@@ -4661,25 +4661,25 @@
         "variants": {
             "00": {
                 "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
+                "description": "Sekhmet's part-time work-only clothing.",
+                "type": "attack",
+                "attribute": "fire",
                 "stars": "three",
                 "artist": ""
             },
             "01": {
                 "title": "Destructive",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
+                "description": "The casual clothing of the warrior Sekhmet.",
+                "type": "attack",
+                "attribute": "fire",
                 "stars": "three",
                 "artist": ""
             },
             "02": {
                 "title": "Furious",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
+                "description": "Warrior Sekhmet's battle uniform. If you wear it, you will never lose it.",
+                "type": "attack",
+                "attribute": "fire",
                 "stars": "three",
                 "artist": ""
             }
@@ -4689,35 +4689,35 @@
         "name": "Virupa",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
+                "title": "Exorcist-in-Training",
+                "description": "An exorcist whose potential was discovered by Cain.",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Exorcist",
-                "description": "",
-                "type": "healer",
+                "description": "The treasured sword of the exorcist Virupa, that excises worldly desires.",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Virupaksa",
-                "description": "",
-                "type": "healer",
+                "description": "The treasured sword of the exorcist Virupa, that slices through evil spirits.",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "Tathagatagarbha",
-                "description": "",
-                "type": "healer",
+                "description": "The treasured sword of Virupa, who defeats evil and holds fast to Buddhist teachings.",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -4726,51 +4726,51 @@
         "name": "Ashtoreth",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "(Reika Kuroki) Human",
+                "description": "A dress with puffy sleeves that feels like wearing a cloud.",
+                "type": "attack",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "White",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Ashtoreth's white dress, designed to make her bramble blades stand out.",
+                "type": "attack",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Pure White",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Ashtoreth's pure-white battle dress, replete with flared-out frills.",
+                "type": "attack",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
-                "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "Queen",
+                "description": "A pure white battle dress that stands out as much as she seek evil.",
+                "type": "attack",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "87": {
                 "title": "",
                 "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "type": "attack",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "88": {
                 "title": "",
                 "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "type": "attack",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -4779,35 +4779,35 @@
         "name": "Cybele",
         "variants": {
             "20": {
-                "title": "Human",
+                "title": "(Claire Shishihara) Human with her lion",
                 "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "type": "defender",
+                "attribute": "darkness",
+                "stars": "four",
                 "artist": ""
             },
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "(Claire Shishihara) Human alone",
+                "description": "A little lost lion and a crying young maiden are the most beautiful creatures in the world.",
+                "type": "defender",
+                "attribute": "darkness",
+                "stars": "four",
                 "artist": ""
             },
             "01": {
                 "title": "Little Princess",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Please don't wake the sleeping maiden and her lion.",
+                "type": "defender",
+                "attribute": "darkness",
+                "stars": "four",
                 "artist": ""
             },
             "02": {
                 "title": "Dark Princess",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Wear this, and you too can be a renowned lion tamer!",
+                "type": "defender",
+                "attribute": "darkness",
+                "stars": "four",
                 "artist": ""
             }
         }
@@ -4816,26 +4816,26 @@
         "name": "Idun",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
+                "title": "(Yukimi Shiratori) Human",
+                "description": "If you get complimented on how pretty you are wearing this, it won't be because of the clothes...",
+                "type": "attack",
+                "attribute": "darkness",
                 "stars": "three",
                 "artist": ""
             },
             "01": {
                 "title": "Floral",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
+                "description": "Sweet apples are just as deadly.",
+                "type": "attack",
+                "attribute": "darkness",
                 "stars": "three",
                 "artist": ""
             },
             "02": {
                 "title": "Alluring",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
+                "description": "A dress just for the beautiful girl, Lee Dunman.",
+                "type": "attack",
+                "attribute": "darkness",
                 "stars": "three",
                 "artist": ""
             }
@@ -4846,34 +4846,34 @@
         "variants": {
             "10": {
                 "title": "Mirage",
-                "description": "",
+                "description": "Zelos' hanbok costume delicately woven with nephrite-colored silk.Hidden in the sleeves is sharp and deep love.",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "darkness",
+                "stars": "four",
                 "artist": ""
             },
             "00": {
                 "title": "Human",
-                "description": "",
+                "description": "Casual wear designed to hide your darkest thoughts.",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "darkness",
+                "stars": "four",
                 "artist": ""
             },
             "01": {
                 "title": "Silent",
-                "description": "",
+                "description": "She makes the disheveled look feel almost elegant. And dangerous...",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "darkness",
+                "stars": "four",
                 "artist": ""
             },
             "02": {
                 "title": "Turncoat",
-                "description": "",
+                "description": "Zelos's combat suit. No, she didn't forget to button them.",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "darkness",
+                "stars": "four",
                 "artist": ""
             }
         }
@@ -4883,34 +4883,34 @@
         "variants": {
             "10": {
                 "title": "Nightmare",
-                "description": "",
+                "description": "On a brilliant night, a perfect darkness without moonlight or starlight, a brilliant nightmare has come to welcome you.",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "00": {
-                "title": "Human",
-                "description": "",
+                "title": "(Hikaru Nijihara) Human",
+                "description": "A plain country girl with stars in her eyes...and over her head.",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Western",
-                "description": "",
+                "description": "A costume for Aurora, who shines like a star.",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Benevolent",
-                "description": "",
+                "description": "A costume for Aurora, who burns bright like a newly formed star.",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -4920,24 +4920,24 @@
         "variants": {
             "00": {
                 "title": "Human",
-                "description": "",
-                "type": "healer",
+                "description": "The famous detective, Seshet's daily clothes on the desk.",
+                "type": "attack",
                 "attribute": "water",
                 "stars": "three",
                 "artist": ""
             },
             "01": {
                 "title": "Running",
-                "description": "",
-                "type": "healer",
+                "description": "Detective Seshat's battle uniform.",
+                "type": "attack",
                 "attribute": "water",
                 "stars": "three",
                 "artist": ""
             },
             "02": {
                 "title": "Fixer",
-                "description": "",
-                "type": "healer",
+                "description": "The battle uniform of Seshet, the famous detective of the Demon World.",
+                "type": "attack",
                 "attribute": "water",
                 "stars": "three",
                 "artist": ""
@@ -4948,27 +4948,27 @@
         "name": "Victorix",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "(Shoko Shoji) Human",
+                "description": "If I could have every demon's attention! Please be wary of the girl in the strange dress!",
+                "type": "attack",
+                "attribute": "light",
+                "stars": "four",
                 "artist": ""
             },
             "01": {
                 "title": "Mirror",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "It looks white to you? Really?",
+                "type": "attack",
+                "attribute": "light",
+                "stars": "four",
                 "artist": ""
             },
             "02": {
                 "title": "Green",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "It looks blue to you? You might want to get your eyes checked...",
+                "type": "attack",
+                "attribute": "light",
+                "stars": "four",
                 "artist": ""
             }
         }
@@ -4978,26 +4978,26 @@
         "variants": {
             "01": {
                 "title": "Human",
-                "description": "",
+                "description": "Unknown.",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Guardian",
-                "description": "",
+                "description": "Unknown.",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "88": {
                 "title": "Peaceful",
-                "description": "",
+                "description": "Unknown.",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -5006,27 +5006,27 @@
         "name": "Merlin",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
+                "title": "(Yu Yuki) Human",
+                "description": "The only friends the crybaby young boy had were through video games...",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "light",
+                "stars": "four",
                 "artist": ""
             },
             "01": {
                 "title": "Otherworldly",
-                "description": "",
+                "description": "You got Merlin's combat suit!",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "light",
+                "stars": "four",
                 "artist": ""
             },
             "02": {
                 "title": "Visitor",
-                "description": "",
+                "description": "You got the legendary sorcerer Merlin's combat suit!",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "light",
+                "stars": "four",
                 "artist": ""
             }
         }
@@ -5036,34 +5036,34 @@
         "variants": {
             "00": {
                 "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Jonah, the prodigal son who wandered around Harlem before becoming an exorcist.",
+                "type": "support",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Otherworldly",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "This is a hoodie from Jonah, a famous fashion leader in Harlem.",
+                "type": "support",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Talking",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "This is Jonah's hoodie whose cute ears are its charm.",
+                "type": "support",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
-                "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "Deviates",
+                "description": "Jonah's apparearance completly changed in universe. &quot;Then I realized a surprising side of myself&quot;",
+                "type": "support",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -5073,25 +5073,25 @@
         "variants": {
             "00": {
                 "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
+                "description": "The hot man, Pyro's daily combat uniform.",
+                "type": "attack",
+                "attribute": "fire",
                 "stars": "three",
                 "artist": ""
             },
             "01": {
                 "title": "Hot",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
+                "description": "A hot man, Pyro's real combat uniform.",
+                "type": "attack",
+                "attribute": "fire",
                 "stars": "three",
                 "artist": ""
             },
             "02": {
                 "title": "Fiery",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
+                "description": "The fully armed combat uniform of the Burning Man, Pyro. ",
+                "type": "attack",
+                "attribute": "fire",
                 "stars": "three",
                 "artist": ""
             }
