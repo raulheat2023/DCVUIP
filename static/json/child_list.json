@@ -7877,27 +7877,27 @@
         "name": "Willow Doryeong",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "",
+                "description": "My hometown is not some village, but the Infernal Realm.",
+                "type": "support",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Reincarnated",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A blue kimono for Willow Doryeong as he repeats life and death.",
+                "type": "support",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Guardian",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A blue kimono for Willow Doryeong as he guards the Hades Flower.",
+                "type": "support",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -7907,26 +7907,26 @@
         "variants": {
             "00": {
                 "title": "Young",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "undefined",
+                "attribute": "undefined",
+                "stars": "undefined",
                 "artist": ""
             },
             "01": {
                 "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "undefined",
+                "attribute": "undefined",
+                "stars": "undefined",
                 "artist": ""
             },
             "02": {
                 "title": "Awakened",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "undefined",
+                "attribute": "undefined",
+                "stars": "undefined",
                 "artist": ""
             }
         }
@@ -7936,18 +7936,18 @@
         "variants": {
             "01": {
                 "title": "Crescent",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A special pearl-colored dress and pumps just for Luna.",
+                "type": "support",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Full Moon",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A special dress for Luna with a dark-red lace shawl.",
+                "type": "support",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -7957,34 +7957,34 @@
         "variants": {
             "10": {
                 "title": "Past",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Costume worn during the early days of the Sivan Schmitter mercenary group.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "00": {
                 "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A dethroned young king. Philip Pendragon's prison uniform.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "An honorable costume worn by the mercenary leader Sivan Schmitter.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Awakened",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Saladin's mercenary costume that went through fierce battles.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -7994,26 +7994,26 @@
         "variants": {
             "21": {
                 "title": "Hurt",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "support",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Newbie",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A fresh field outfit for newbie supporter Mona.",
+                "type": "support",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Rookie",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Lovely newbie supporter Mona's field outfit.",
+                "type": "support",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -8023,18 +8023,18 @@
         "variants": {
             "00": {
                 "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "undefined",
+                "attribute": "undefined",
+                "stars": "undefined",
                 "artist": ""
             },
             "01": {
                 "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "undefined",
+                "attribute": "undefined",
+                "stars": "undefined",
                 "artist": ""
             }
         }
@@ -8044,10 +8044,10 @@
         "variants": {
             "01": {
                 "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "undefined",
+                "attribute": "undefined",
+                "stars": "undefined",
                 "artist": ""
             }
         }
@@ -8057,10 +8057,10 @@
         "variants": {
             "01": {
                 "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "undefined",
+                "attribute": "undefined",
+                "stars": "undefined",
                 "artist": ""
             }
         }
@@ -8070,10 +8070,10 @@
         "variants": {
             "01": {
                 "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "undefined",
+                "attribute": "undefined",
+                "stars": "undefined",
                 "artist": ""
             }
         }
@@ -8083,18 +8083,18 @@
         "variants": {
             "01": {
                 "title": "Racer",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "This suit was created to withstand the harsh D1 competition environment.",
+                "type": "debuffer",
+                "attribute": "fire",
+                "stars": "four",
                 "artist": ""
             },
             "02": {
                 "title": "Dark Horse",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "This suit was created to withstand the harsh D1 competition environment.",
+                "type": "debuffer",
+                "attribute": "fire",
+                "stars": "four",
                 "artist": ""
             }
         }
@@ -8104,10 +8104,10 @@
         "variants": {
             "01": {
                 "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "undefined",
+                "attribute": "undefined",
+                "stars": "undefined",
                 "artist": ""
             }
         }
@@ -8117,10 +8117,10 @@
         "variants": {
             "01": {
                 "title": "Altruistic",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "undefined",
+                "attribute": "undefined",
+                "stars": "undefined",
                 "artist": ""
             }
         }
@@ -8130,18 +8130,18 @@
         "variants": {
             "01": {
                 "title": "Maverick",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Cha-CHING! The official exorcist garb Ganesha dons when off chasing tales of riches.",
+                "type": "support",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Nandikesvara",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "The exorcist garb of an overjoyed Ganesha. Still an official exorcist outfit, surprisingly enough.",
+                "type": "support",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -8150,35 +8150,35 @@
         "name": "Deborah",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "Exorcist-in-Training",
+                "description": "A limited-edition white mini dress.",
+                "type": "attack",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Exorcist",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A combat suit meeting Deborah's meticulous standards.",
+                "type": "attack",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Capturing",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A custom-made combat suit for the noble Deborah.",
+                "type": "attack",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "88": {
                 "title": "Capturing",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A custom-made combat suit for the noble Deborah.",
+                "type": "attack",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -8188,18 +8188,18 @@
         "variants": {
             "01": {
                 "title": "Fantasy Dream",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Liza's wings spread out to retrieve something precious that was lost.",
+                "type": "debuffer",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Disillusioned",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Liza's will to retrieve something precious illuminates the world with the flash of a sword.",
+                "type": "debuffer",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -8209,26 +8209,26 @@
         "variants": {
             "01": {
                 "title": "Peerless Power",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Hathor, descendant of the Minotaur. Its strength is its charm.",
+                "type": "attack",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Extinction",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Combat uniform for a full-scale fight. Exposure is defense.",
+                "type": "attack",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "Assured Victory",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Essential attire for a sincere oriental medicine treatment. Can be worn from the age of 19.",
+                "type": "attack",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -8238,34 +8238,34 @@
         "variants": {
             "01": {
                 "title": "Field",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Pan's ethnic pattern one-piece dress imitating the colors of spring",
+                "type": "debuffer",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Farm Sheep",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A spring day in full bloom. Pan's ethnic pattern dress embroidered with platinum thread",
+                "type": "debuffer",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
-                "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "companionship",
+                "description": "I want to move towards spring with you.",
+                "type": "debuffer",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "89": {
                 "title": "Farm Sheep",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A spring day in full bloom. Pan's ethnic pattern dress embroidered with platinum thread",
+                "type": "debuffer",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             }
         }
