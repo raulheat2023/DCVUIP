@@ -8275,18 +8275,18 @@
         "variants": {
             "01": {
                 "title": "Mascot",
-                "description": "",
+                "description": "Freya's outfit that will dominate everyone's cuteness.",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Sprinter",
-                "description": "",
+                "description": "Freya's exclusive uniform suitable for running",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -8296,18 +8296,18 @@
         "variants": {
             "01": {
                 "title": "Pure White",
-                "description": "",
+                "description": "Pomona's pure white dress blooms brightly.",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Pure Bride",
-                "description": "",
+                "description": "Pomona's rose corsage dress blooming brightly",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -8317,18 +8317,18 @@
         "variants": {
             "01": {
                 "title": "Love & Hate",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "I made this, thinking of Mona, step by step.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Ambivalence",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "I made this by mixing all of Mona's favorite colors.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -8338,34 +8338,34 @@
         "variants": {
             "01": {
                 "title": "Full Bloom",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Blooms with a sweet and dense scent These are Yami's dark red wings.",
+                "type": "support",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Phantosmia",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "The sound of Yami's wings flapping was heard from the abyss of the demon world where red flowers were in full bloom.",
+                "type": "support",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "The moment you smell the captivating scent, you will be unable to escape from the demon Yami.",
+                "type": "support",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "11": {
                 "title": "Dark Scent",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "As I released all my hidden magical power, a fascinating and rich scent surrounded the surroundings.",
+                "type": "support",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -8375,15 +8375,15 @@
         "variants": {
             "01": {
                 "title": "One Sword",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "What is visible is Tiamat's battle uniform that cuts down everything.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "fivr",
                 "artist": ""
             },
             "02": {
                 "title": "Slashing",
-                "description": "",
+                "description": "This is the battle uniform of the ruthless tyrant Tiamat.",
                 "type": "healer",
                 "attribute": "water",
                 "stars": "three",
@@ -8396,58 +8396,58 @@
         "variants": {
             "01": {
                 "title": "White Handed",
-                "description": "",
-                "type": "healer",
+                "description": "Isolde's sailor-style three-piece bikini, the star of this summer's scandal.",
+                "type": "debuffer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Nova",
-                "description": "",
-                "type": "healer",
+                "description": "Lock-on to a sizzling summer! A summer bikini for Isolde, aiming straight for your heart.",
+                "type": "debuffer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "Summer Spike",
-                "description": "",
-                "type": "healer",
+                "description": "Think you can handle this?! Prepare for Isolde's challenge: the final spike!",
+                "type": "debuffer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "11": {
                 "title": "Enchanting",
-                "description": "",
-                "type": "healer",
+                "description": "A beautiful, more mature bikini skin that looks like something you'd see in a dream.",
+                "type": "debuffer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "87": {
                 "title": "Enchanting",
-                "description": "",
-                "type": "healer",
+                "description": "A beautiful, more mature bikini skin that looks like something you'd see in a dream.",
+                "type": "debuffer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "88": {
                 "title": "Nova",
-                "description": "",
-                "type": "healer",
+                "description": "Lock-on to a sizzling summer! A summer bikini for Isolde, aiming straight for your heart.",
+                "type": "debuffer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "89": {
                 "title": "Summer Spike",
-                "description": "",
-                "type": "healer",
+                "description": "Think you can handle this?! Prepare for Isolde's challenge: the final spike!",
+                "type": "debuffer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -8457,58 +8457,58 @@
         "variants": {
             "01": {
                 "title": "Midsummer",
-                "description": "",
-                "type": "healer",
+                "description": "The cutting edge of both swimsuit fashion and protection against UV rays.",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Gambler",
-                "description": "",
-                "type": "healer",
+                "description": "A luxurious lace bikini for Anemone.",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "Sunrise",
-                "description": "",
-                "type": "healer",
+                "description": "Anemone's fighting swimsuit, the hottest thing on the summer beach.",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "11": {
                 "title": "Burning Passion",
-                "description": "",
-                "type": "healer",
+                "description": "Gorgeous and attractive that can only be seen in dreams Anemone's swimsuit costume.",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "87": {
                 "title": "Burning Passion",
-                "description": "",
-                "type": "healer",
+                "description": "Gorgeous and attractive that can only be seen in dreams Anemone's swimsuit costume.",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "88": {
                 "title": "Gambler",
-                "description": "",
-                "type": "healer",
+                "description": "A luxurious lace bikini for Anemone.",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "89": {
                 "title": "Sunrise",
-                "description": "",
-                "type": "healer",
+                "description": "Anemone's fighting swimsuit, the hottest thing on the summer beach.",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -8518,18 +8518,18 @@
         "variants": {
             "01": {
                 "title": "Blocking",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Tristan after bulking up 400% due to the side effects of the Alter Ade.",
+                "type": "attack",
+                "attribute": "leaf",
+                "stars": "four",
                 "artist": ""
             },
             "02": {
                 "title": "Solitary",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Tristan, all ready for summer vacation. There's something about this form that seems to sap away motivation.",
+                "type": "attack",
+                "attribute": "leaf",
+                "stars": "four",
                 "artist": ""
             }
         }
@@ -8539,18 +8539,18 @@
         "variants": {
             "01": {
                 "title": "Prophet",
-                "description": "",
+                "description": "The hem of the goddess's robe appeared in the prophet's revelation",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Second Advent",
-                "description": "",
+                "description": "The hem of the robe of the goddess who returned to earth.",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -8560,34 +8560,34 @@
         "variants": {
             "10": {
                 "title": "Sweet Love",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A skin that could be obtained as a surprise gift from Krampus, one of the 2017 Christmas events.",
+                "type": "attack",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "00": {
                 "title": "Human",
                 "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "type": "attack",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Pretty",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "It makes you have sweet dreams Casual look for Mars' stage",
+                "type": "attack",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Sweet Devi",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Sweet Debbie Princess' live costume. The lovely over-the-knee socks are the winning point.",
+                "type": "attack",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -8598,25 +8598,25 @@
             "00": {
                 "title": "Human",
                 "description": "",
-                "type": "healer",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Mysterious",
-                "description": "",
-                "type": "healer",
+                "description": "Saturn's stage uniform presented for the first time as an idol",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Starlight",
-                "description": "",
-                "type": "healer",
+                "description": "A black star that shines undying on a hot stage. Saturn's live uniform",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -8626,26 +8626,26 @@
         "variants": {
             "00": {
                 "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "That appearance appears to be Child disguised as a human, and the original contract is said to be the soul of a dog raised by a retired idol, whose name is Chuchu.",
+                "type": "support",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Hard Worker",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Idol one-piece for Neptune in pastel sky color.",
+                "type": "support",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Pure Smile",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "The final live costume of your angel Neptune. My trembling heart to you.",
+                "type": "support",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -8654,27 +8654,27 @@
         "name": "Venus♥",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
+                "title": "Trainee",
+                "description": "Venus♥'s trainee outfit.",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Naive",
-                "description": "",
+                "description": "I love to have fun! Watch my innocent performance!",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Heavenly Flower",
-                "description": "",
+                "description": "Here comes the prodigy pop star! Don't take your eyes off my glamorous performance!",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -8685,9 +8685,9 @@
             "00": {
                 "title": "Producer",
                 "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "type": "undefined",
+                "attribute": "undefined",
+                "stars": "undefined",
                 "artist": ""
             }
         }
@@ -8696,27 +8696,27 @@
         "name": "Charlotte",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "(Yoko Tsukasa) Human",
+                "description": "Charlotte's ordinary, gullible pactmaker.",
+                "type": "attack",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A costume for Charlotte, a knight whose loyalty knows no bounds.",
+                "type": "attack",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Glorious",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A costume for Charlotte, a knight descended from azure skies.",
+                "type": "attack",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -8726,34 +8726,34 @@
         "variants": {
             "10": {
                 "title": "Mad Nurse",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "This is the combat uniform of Madnus Demeter, born from twisted malice.",
+                "type": "debuffer",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "89": {
                 "title": "Crimson",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "It is a red battle uniform imbued with the burning anger of Demeter.",
+                "type": "debuffer",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Needfire",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Demeter's red battle uniform imbued with a purifying flame that burns away all anger.",
+                "type": "debuffer",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Crimson",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "It is a red battle uniform imbued with the burning anger of Demeter.",
+                "type": "debuffer",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -8763,18 +8763,18 @@
         "variants": {
             "01": {
                 "title": "Guardian",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A new, motherly form for Chang'e, who protects the hot springs town together with Mei.",
+                "type": "attack",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Inugami",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "An evolved form for Guardian Chang'e, who fights alongside a lion-dog and Wukong.",
+                "type": "attack",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -8784,18 +8784,18 @@
         "variants": {
             "01": {
                 "title": "Unjust",
-                "description": "",
+                "description": "Although he smiles kindly, he must be careful of harsh words.",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "light",
+                "stars": "four",
                 "artist": ""
             },
             "02": {
                 "title": "Opportune",
-                "description": "",
+                "description": "The hem of her dress is hard to catch once you miss it.",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "light",
+                "stars": "four",
                 "artist": ""
             }
         }
@@ -8805,18 +8805,18 @@
         "variants": {
             "01": {
                 "title": "",
-                "description": "",
-                "type": "healer",
+                "description": "I hope this heart reaches you♬ Virtual idol Miku’s blouse uniform.",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Diva",
-                "description": "",
-                "type": "healer",
+                "description": "Today’s song is DESTINY POP♪",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -8826,18 +8826,18 @@
         "variants": {
             "01": {
                 "title": "",
-                "description": "",
-                "type": "healer",
+                "description": "A dress that shines white like winter snow",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
-                "title": "Snow Priestess",
-                "description": "",
-                "type": "healer",
+                "title": "Princess",
+                "description": "A princess looking down at the winter cityscape with kind eyes",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -8847,26 +8847,26 @@
         "variants": {
             "10": {
                 "title": "Chasm",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "The final destination of Maat, who wandered in search of truth. Into the abyss, deeper...",
+                "type": "attack",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Liberated",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "The sacred battle uniform of Maat, the new god who descended on earth..",
+                "type": "attack",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Descended",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Maat's noble battle uniform that overcomes all restraints and oppression.",
+                "type": "attack",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -8876,50 +8876,50 @@
         "variants": {
             "01": {
                 "title": "Devouring",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "With the sound of wings flying The black light of Caduceus descends.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Black Snake",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Caduceus with a black halo Descending into your world.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "Weaponized",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Mithra wearing the wings of Caduceus.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "87": {
                 "title": "Weaponized",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Mithra wearing the wings of Caduceus.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "88": {
                 "title": "Black Snake",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Caduceus with a black halo Descending into your world.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "89": {
                 "title": "Devouring",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "With the sound of wings flying The black light of Caduceus descends.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
