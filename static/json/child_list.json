@@ -8929,29 +8929,34 @@
         "variants": {
             "01": {
                 "title": "Kind",
-                "description": "",
-                "type": "healer",
+                "description": "His bag is full of junk. Leo's casual wear.",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Incubus",
-                "description": "",
-                "type": "healer",
+                "description": "He lacks confidence in battle. Battle coat for the cowardly Leo.",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
-                "title": "Maid"
+                "title": "Maid",
+                "description": "Hi! I'm the incubus... I mean, succubus, Leo!",
+                "type": "support",
+                "attribute": "water",
+                "stars": "five",
+                "artist": ""
             },
             "11": {
                 "title": "Butler",
-                "description": "",
-                "type": "healer",
+                "description": "Leo in gentleman's attire for escorting a noble lady.",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -8961,18 +8966,18 @@
         "variants": {
             "01": {
                 "title": "Phantom Thief",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "The work suit of Phantom Thief Lupin that matches the night sky.",
+                "type": "support",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Vanguard",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "If you ever see Phantom Thief Lupin, that means your treasure already belongs to her…",
+                "type": "support",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -8982,26 +8987,26 @@
         "variants": {
             "01": {
                 "title": "Sweet",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A miniskirt as white as a young maiden's pure love.",
+                "type": "support",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Lovey-Dovey",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "The white represents a young maiden's pure love, and the red her passionate love.",
+                "type": "support",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "So Sicktry",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "support",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9011,15 +9016,15 @@
         "variants": {
             "01": {
                 "title": "Dark Buster",
-                "description": "",
-                "type": "healer",
+                "description": "The battleloid brother of Darksider Lisa, the ultimate battle weapon of the great evil.",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Devil Buster",
-                "description": "",
+                "description": "The ultimate battle weapon of the great devil, Devilsider Lisa's devilfighting brother.",
                 "type": "healer",
                 "attribute": "water",
                 "stars": "three",
@@ -9032,7 +9037,7 @@
         "variants": {
             "01": {
                 "title": "Hard Worker",
-                "description": "",
+                "description": "Deino's battle uniform. No matter how hard you try, making mistakes is inevitable.",
                 "type": "healer",
                 "attribute": "water",
                 "stars": "three",
@@ -9040,7 +9045,7 @@
             },
             "02": {
                 "title": "Hopeful",
-                "description": "",
+                "description": "Zealous Deino's battle uniform. Even if you work hard, it is inevitable that you will make mistakes.",
                 "type": "healer",
                 "attribute": "water",
                 "stars": "three",
@@ -9053,34 +9058,34 @@
         "variants": {
             "01": {
                 "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "The Archfiend's look as imagined in Davi's hopes and dreams!",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "True",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "I awakened to my power as the true Archfiend! After all, there's no Archfiend more powerful than the one I thought up.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "88": {
                 "title": "True",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "I awakened to my power as the true Archfiend! After all, there's no Archfiend more powerful than the one I thought up.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "89": {
                 "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "The Archfiend's look as imagined in Davi's hopes and dreams!",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9090,10 +9095,10 @@
         "variants": {
             "00": {
                 "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "undefined",
+                "attribute": "undefined",
+                "stars": "undefined",
                 "artist": ""
             }
         }
@@ -9103,34 +9108,34 @@
         "variants": {
             "10": {
                 "title": "Hot Pink",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Won't you go diving with me? A pink summer swimsuit that's hotter than summer.",
+                "type": "debuffer",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Sunbeach",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A vivacious summer swimsuit for Mona.",
+                "type": "debuffer",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Diver",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A blazing summer, dazzling skin, and precious memories.",
+                "type": "debuffer",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "89": {
                 "title": "Sunbeach",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A vivacious summer swimsuit for Mona.",
+                "type": "debuffer",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9140,26 +9145,26 @@
         "variants": {
             "10": {
                 "title": "Rashguard",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "I♥YOU! Liza's activity rash guard in modern black and white colors with lime accents.",
+                "type": "support",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Marine Suit",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Lisa's slightly bold two-piece bikini. It is the beginning of a refreshing summer.",
+                "type": "support",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Summer Blue",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A refreshing swimsuit in sea-colored colors. It is a refreshing color that brings back memories.",
+                "type": "support",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9169,26 +9174,26 @@
         "variants": {
             "01": {
                 "title": "School Swimsuit",
-                "description": "",
-                "type": "healer",
+                "description": "Any pose is OK! Dabi's summer limited swimsuit.",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Summer",
-                "description": "",
-                "type": "healer",
+                "description": "The real summer begins! And Dabi’s summer starts now!",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "Sports Bikini",
-                "description": "",
-                "type": "healer",
+                "description": "Multipurpose sports bikini with yellow navy pattern.",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9198,18 +9203,18 @@
         "variants": {
             "01": {
                 "title": "Ruffian",
-                "description": "",
+                "description": "A new and improved Midas, powered up by a renewed pact. He looks like a different person!",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Black-Winged Messenger",
-                "description": "",
+                "description": "Void and peace... Be wrapped in vision and dream! A costume for the Black-Winged Messenger Midas.",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9219,18 +9224,18 @@
         "variants": {
             "01": {
                 "title": "White Wedding",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Shhh~ Midsummer bride Hild’s wedding dress just for you.",
+                "type": "attack",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Wedding Gown",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Marriage is a pledge for eternal love. The one who doesn't keep his oath is Hilde~!!",
+                "type": "attack",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9240,10 +9245,10 @@
         "variants": {
             "01": {
                 "title": "Rebirth Synthesis Animation",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "animation",
+                "attribute": "undefined",
+                "stars": "undefined",
                 "artist": ""
             }
         }
@@ -9253,10 +9258,10 @@
         "variants": {
             "01": {
                 "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "animation",
+                "attribute": "undefined",
+                "stars": "undefined",
                 "artist": ""
             }
         }
@@ -9265,51 +9270,51 @@
         "name": "Iphis",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "Mortal Realm",
+                "description": "Iphis's form in the Mortal Realm.",
+                "type": "debuffer",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Romantic",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Iphis's formal attire to accept her bride.",
+                "type": "debuffer",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Scarlet",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Iphis's scarlet battle uniform, used when protecting her bride.",
+                "type": "debuffer",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "Bridal",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Iphis when she herself became a pure bride.",
+                "type": "debuffer",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "11": {
                 "title": "Shadow",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Iphis donning a wedding dress tainted black by darkness.",
+                "type": "debuffer",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "89": {
                 "title": "Bridal",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Iphis when she herself became a pure bride.",
+                "type": "debuffer",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9318,27 +9323,27 @@
         "name": "Pallas",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "(Katsuragi Touka) Human",
+                "description": "A girl who is anxious about meeting her mother again after her parents divorced.",
+                "type": "support",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Battle armor of Pallas, who desires desperation and destruction.",
+                "type": "support",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Darkness Clad",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Battle armor of Pallas, imbued with the darkness of the black spear.",
+                "type": "support",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9348,18 +9353,18 @@
         "variants": {
             "01": {
                 "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Battle armor of Athena, who protects all with a great shield.",
+                "type": "defender",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Benign Devotion",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Battle armor of Athena, who becomes a shield of sincere and blameless intent.",
+                "type": "defender",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9369,50 +9374,50 @@
         "variants": {
             "01": {
                 "title": "Fluttering",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Sytry's titillating bikini look.",
+                "type": "debuffer",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Summer Love",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Summer means beach! Beach means swimsu—I mean, love!",
+                "type": "debuffer",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "Enchanting",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "The scent of Sitri that will put you in sweet danger.",
+                "type": "debuffer",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "87": {
-                "title": "",
+                "title": "The scent of Sitri that will put you in sweet danger.",
                 "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "type": "debuffer",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "88": {
                 "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Sytry's titillating bikini look.",
+                "type": "debuffer",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "89": {
                 "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Summer means beach! Beach means swimsu—I mean, love!",
+                "type": "debuffer",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9422,26 +9427,26 @@
         "variants": {
             "01": {
                 "title": "Catgirl",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "An outfit that exudes Frej's magic power from every inch of it.",
+                "type": "support",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Battle Kitty",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "An outfit for a bloodthirsty, moody person.",
+                "type": "support",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "Inca Rose",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Nevan's red dress that matches the class of the party.",
+                "type": "support",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9451,34 +9456,34 @@
         "variants": {
             "01": {
                 "title": "Resurrected",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A costume designed to withstand Frej's newfound magic power.",
+                "type": "attack",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "Toxic",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "attack",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "11": {
                 "title": "Cursed Doll",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "attack",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Unleashed",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Frej's become even more powerful, though it doesn't seem like he's realized it himself.",
+                "type": "attack",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9488,18 +9493,18 @@
         "variants": {
             "01": {
                 "title": "Prototype",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "undefined",
+                "attribute": "undefined",
+                "stars": "undefined",
                 "artist": ""
             },
             "02": {
                 "title": "Devilized",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "undefined",
+                "attribute": "undefined",
+                "stars": "undefined",
                 "artist": ""
             }
         }
@@ -9509,42 +9514,42 @@
         "variants": {
             "01": {
                 "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A punk-ish outfit for Marie where the mis-matching is part of the charm.",
+                "type": "defender",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Battlesuit",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Marie's combat suit. The perfect combination of functionality and fashion.",
+                "type": "defender",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "Swimsuit",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "An old-fashioned school swimsuit that complements Marie wonderfully.",
+                "type": "defender",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "11": {
                 "title": "Russian Blue",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A cool-blue swimsuit for Marie adorned with white polka dots.",
+                "type": "defender",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "12": {
                 "title": "Minuet",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A cute pink and white swimsuit for Marie.",
+                "type": "defender",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9554,58 +9559,58 @@
         "variants": {
             "01": {
                 "title": "",
-                "description": "",
-                "type": "healer",
+                "description": "Kasumi's ninja outfit. Designed for mobility first and foremost, only the leader of the clan is permitted to wear it.",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Immaculate",
-                "description": "",
-                "type": "healer",
+                "description": "Kasumi's ninja outfit. The wearer must ensure it stays pristine white, no matter how fierce a kumite she may be engaged in.",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "Geranium",
-                "description": "",
-                "type": "healer",
+                "description": "A cherry blossom-colored swimsuit for Kasumi that leaves little to the imagination.",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "11": {
                 "title": "Nemophila",
-                "description": "",
-                "type": "healer",
+                "description": "A cute swimsuit for Kasumi that wraps a pale white mist around a vivid sky blue.",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "12": {
                 "title": "Margarita",
-                "description": "",
-                "type": "healer",
+                "description": "An ostentatious swimsuit for Kasumi that glitters as brightly as the sun.",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "13": {
                 "title": "Geranium",
-                "description": "",
-                "type": "healer",
+                "description": "A cherry blossom-colored swimsuit for Kasumi that leaves little to the imagination.",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "88": {
                 "title": "World Boss",
-                "description": "",
-                "type": "healer",
+                "description": "A cherry blossom-colored swimsuit for Kasumi that leaves little to the imagination.",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9615,34 +9620,34 @@
         "variants": {
             "01": {
                 "title": "",
-                "description": "",
+                "description": "A blazer required by Honoka's school.",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Casual",
-                "description": "",
+                "description": "Honoka's school uniform, with jacket removed to lighten the load.",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "Moo-Moo Denim",
-                "description": "",
+                "description": "A swimsuit for Honoka that gently cradles everyone's dreams.",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "11": {
                 "title": "Delphinium",
-                "description": "",
+                "description": "A lovely pale blue swimsuit for Honoka.",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9652,18 +9657,18 @@
         "variants": {
             "01": {
                 "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A humanoid robot called the Kouka-class hIE.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Mass Produced",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Kouka-class hIE boasts absolute destructive power",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9673,26 +9678,26 @@
         "variants": {
             "89": {
                 "title": "Black Widow",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Iphis donning a wedding dress tainted black by darkness.",
+                "type": "debuffer",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Black Widow",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Iphis donning a wedding dress tainted black by darkness.",
+                "type": "debuffer",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Iphis donning a wedding dress tainted black by darkness.",
+                "type": "debuffer",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9702,34 +9707,34 @@
         "variants": {
             "88": {
                 "title": "Death March",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Magic is illusion! Tricks are fun! Did you enjoy Eochaid's magic show?",
+                "type": "attack",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "89": {
                 "title": "Witch",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "What could be hiding inside the pumpkin?",
+                "type": "attack",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Witch",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "What could be hiding inside the pumpkin?",
+                "type": "attack",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Death March",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Magic is illusion! Tricks are fun! Did you enjoy Eochaid's magic show?",
+                "type": "attack",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9739,18 +9744,18 @@
         "variants": {
             "01": {
                 "title": "Party Star",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Pajamas that unleash maximum magic power.",
+                "type": "support",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Party Night",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "The festive outfit Medb wears as she enjoys All Hallows' Eve.",
+                "type": "support",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9760,34 +9765,34 @@
         "variants": {
             "10": {
                 "title": "Dark Tears",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "It is a black dress modeled after the color of Dabi’s tears.",
+                "type": "debuffer",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "89": {
                 "title": "Altered",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Altered Dabi's one-piece dress that symbolizes Dabi breaking out of his cocoon.",
+                "type": "debuffer",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Altered",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Altered Dabi's one-piece dress that symbolizes Dabi breaking out of his cocoon.",
+                "type": "debuffer",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Neo",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Neo Dabi's one-piece dress with wings spread towards the sky.",
+                "type": "debuffer",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             }
         }
