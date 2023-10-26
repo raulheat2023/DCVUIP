@@ -8378,7 +8378,7 @@
                 "description": "What is visible is Tiamat's battle uniform that cuts down everything.",
                 "type": "attack",
                 "attribute": "fire",
-                "stars": "fivr",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
@@ -9802,26 +9802,26 @@
         "variants": {
             "01": {
                 "title": "Lightbeam",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A dress shining with a light that leads Mona towards a new future.",
+                "type": "support",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Heavenly Ray",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A spectacular dress that won't lose its light even in the midst of despair.",
+                "type": "support",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "Radiant",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Mona's past form that shines on, even in the harsh environs of the Infernal Realm.",
+                "type": "support",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9831,18 +9831,18 @@
         "variants": {
             "01": {
                 "title": "Courtesan",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A stylish, gorgeous kimono worn by courtesans. Bathory only seems to think it's a nice dress.Supreme Courtesan Bathory",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Supreme Courtesan",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Only those who possess great beauty as well as the poise and skills of geisha are called Supreme Courtesan. This is Bathory at her most exquisite.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9852,18 +9852,18 @@
         "variants": {
             "01": {
                 "title": "Mysterious Student",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "The school uniform of a famous private school imitated by guessing.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Pink Blazer",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A blazer jacket that suits Eve perfectly.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9873,18 +9873,18 @@
         "variants": {
             "01": {
                 "title": "Dancing Maiden",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Werewolf took the form of a shrine maiden in order to grant a young man's wish. The shrine maiden outfit is filled with the holy power of Toshigami, the god of the new year.",
+                "type": "debuffer",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Oracle",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Werewolf has refined her skills as a shrine maiden. Positively dripping with good fortune, she is now even more powerful!",
+                "type": "debuffer",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9894,18 +9894,18 @@
         "variants": {
             "01": {
                 "title": "Christmas",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Leda put on a Santa suit to give everyone presents.",
+                "type": "support",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Sexy Santa",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Leda's Santa suit, but sexier! It's a present in and of itself.",
+                "type": "support",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9915,18 +9915,18 @@
         "variants": {
             "01": {
                 "title": "String",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Singer Jacheongbi's paulownia tree gayageum",
+                "type": "support",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Gayageum",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A thousand years of gayageum by entertainer Jacheongbi",
+                "type": "support",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9936,10 +9936,10 @@
         "variants": {
             "01": {
                 "title": "Heartbeat",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "undefined",
+                "attribute": "undefined",
+                "stars": "undefined",
                 "artist": ""
             }
         }
@@ -9949,18 +9949,18 @@
         "variants": {
             "01": {
                 "title": "Grieving",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "This is a combat uniform made from the tears of a banshee mourning its own death.",
+                "type": "debuffer",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Scattering",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "This is a combat uniform embossed with Banshee's will to protect his family.",
+                "type": "debuffer",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9970,18 +9970,18 @@
         "variants": {
             "01": {
                 "title": "",
-                "description": "",
+                "description": "A shrine maiden outfit reminiscent of a red-crested white crane. Strikes a dignified and beautiful figure.",
                 "type": "healer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "PRINCESS",
-                "description": "",
+                "description": "A shrine maiden outfit reminiscent of a red-crested white crane. Her dancing brings peace of mind to those fortunate enough to witness it.",
                 "type": "healer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -9991,26 +9991,26 @@
         "variants": {
             "01": {
                 "title": "",
-                "description": "",
-                "type": "healer",
+                "description": "Noel's Costume.",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Fourth Squadron",
-                "description": "",
-                "type": "healer",
+                "description": "Noel's NOL Fourth Squadron Costume.",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "μ-12",
-                "description": "",
-                "type": "healer",
+                "description": "Noel's Successor of the Azure Costume.",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -10020,18 +10020,18 @@
         "variants": {
             "01": {
                 "title": "",
-                "description": "",
+                "description": "Makoto's Costume.",
                 "type": "healer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "NOL Intel Dept",
-                "description": "",
+                "description": "Makoto's Battle Costume, contrary to her Intelligence Department status.",
                 "type": "healer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -10041,18 +10041,18 @@
         "variants": {
             "01": {
                 "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Nine's Costume.",
+                "type": "debuffer",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Six Heroes",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Nine's Six Heroes Costume.",
+                "type": "debuffer",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -10062,34 +10062,34 @@
         "variants": {
             "01": {
                 "title": "Piercing",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A friendly spear of Luin that never turns away from enemies.",
+                "type": "attack",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "King's Lancer",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "The friendly window of Luin, who warmly sends off enemies on their way.",
+                "type": "attack",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "88": {
                 "title": "King's Lancer",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "The friendly window of Luin, who warmly sends off enemies on their way.",
+                "type": "attack",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "89": {
                 "title": "Piercing",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Combat suit of Luin, who will cut down every attacker.",
+                "type": "attack",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -10099,18 +10099,18 @@
         "variants": {
             "01": {
                 "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Serval's Costume.",
+                "type": "attack",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Savanna",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Savanna Serval's Costume.",
+                "type": "attack",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -10120,18 +10120,18 @@
         "variants": {
             "01": {
                 "title": "",
-                "description": "",
-                "type": "healer",
+                "description": "Raccoon's Costume.",
+                "type": "defender",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Arboreal",
-                "description": "",
-                "type": "healer",
+                "description": "Arboreal Raccoon's Costume.",
+                "type": "defender",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -10141,18 +10141,18 @@
         "variants": {
             "01": {
                 "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Fennec's Costume.",
+                "type": "support",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Desert",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Desert Fennec's Costume.",
+                "type": "support",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -10162,26 +10162,26 @@
         "variants": {
             "01": {
                 "title": "Hungry",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "I've still got lots of growing to do ♥ I want more—waaay more ♥",
+                "type": "debuffer",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Full",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Old-fashioned, cream-filled, whatever! I wanna eat my favorite donuts until I burst ♥",
+                "type": "debuffer",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "Satisfied",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "You said you had enough~? Come on, I’ll give you a more intense sweetness~",
+                "type": "debuffer",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -10191,26 +10191,26 @@
         "variants": {
             "00": {
                 "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Failnaught disguised as a human being, dressed up in a kendo uniform to learn kendo under Ruin.",
+                "type": "support",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Proud",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Sharpshooter Failnaught's combat suit.",
+                "type": "support",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Demonic Deadeye",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "The battle suit of the demon archer Failnaught.",
+                "type": "support",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -10221,9 +10221,9 @@
             "01": {
                 "title": "Spa 5★ Animation",
                 "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "type": "undefined",
+                "attribute": "undefined",
+                "stars": "undefined",
                 "artist": ""
             }
         }
@@ -10231,36 +10231,44 @@
     "c412": {
         "name": "Cain",
         "variants": {
+            "00": {
+                "title": "",
+                "description": "Such is the Lord's command: heed the word of God.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
+                "artist": ""
+            },
             "01": {
                 "title": "Exorcist",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Priest's attire received from the Exorcist Society.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Heretic",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Attire received from the Exercist Society for the inquisition of heretics.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "88": {
                 "title": "Heretic",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Attire received from the Exercist Society for the inquisition of heretics.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "89": {
                 "title": "Exorcist",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Priest's attire received from the Exorcist Society.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -10269,19 +10277,19 @@
         "name": "Abel",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "",
+                "description": "Cain's younger brother, a priest dispatched to the Korean headquarters of the East Asia branch of the Exorcist Association. He was a good brother with Cain, but was killed by Cain after being brainwashed by Loki during the collapse of the Korean headquarters of the Asia branch of the Exorcist Association.",
+                "type": "undefined",
+                "attribute": "undefined",
+                "stars": "undefined",
                 "artist": ""
             },
             "21": {
                 "title": "Impassioned",
                 "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "type": "undefined",
+                "attribute": "undefined",
+                "stars": "undefined",
                 "artist": ""
             }
         }
@@ -10290,35 +10298,35 @@
         "name": "Billy",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
+                "title": "Mortal Realm",
+                "description": "The demon Billy, disguised as a girl of the Mortal Realm.",
+                "type": "debuffer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Gunner",
-                "description": "",
-                "type": "healer",
+                "description": "Surefire! Billy's costume for water gun battles.",
+                "type": "debuffer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Deadshot",
-                "description": "",
-                "type": "healer",
+                "description": "No escape for her prey! Billy's costume for water gun battles.",
+                "type": "debuffer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "Splash",
-                "description": "",
-                "type": "healer",
+                "description": "Anything to win! Billy's costume for water gun battles.",
+                "type": "debuffer",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -10327,27 +10335,27 @@
         "name": "Annie",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "Mortal Realm",
+                "description": "The demon Annie, disguised as a girl of the Mortal Realm.",
+                "type": "attack",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Risk Taker",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "The epitome of the hydro shooter. Annie's costume for water gun battles.",
+                "type": "attack",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Wild Hunt",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "The trinity of water, self, and water gun! Annie's costume for water gun battles.",
+                "type": "attack",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -10356,43 +10364,43 @@
         "name": "Keino",
         "variants": {
             "00": {
-                "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "title": "Mortal Realm",
+                "description": "The demon Keino, disguised as a girl of the Mortal Realm. She's holding a mysterious sewing box.",
+                "type": "defender",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Demon Princess",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "You can hear the sound of scissors from the darkness...",
+                "type": "defender",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Phantom",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Poisoned scissors are aiming for you.",
+                "type": "defender",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "Chancing",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Keino awakens to her own inner strength. Can't you feel the creepy scissors?",
+                "type": "defender",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "87": {
                 "title": "Chancing",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Keino awakens to her own inner strength. Can't you feel the creepy scissors?",
+                "type": "defender",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -10402,42 +10410,42 @@
         "variants": {
             "00": {
                 "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "The spirit Tamamo disguised as a human woman. Her beauty is comparable to that of a courtesan.",
+                "type": "debuffer",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Nine-Tailed Fox",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A great spirit of legend known as the nine-tailed fox.",
+                "type": "debuffer",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Bewitching",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A spirit so captivating, a single glance is enough to bewitch anyone.",
+                "type": "debuffer",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "Summer",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "To welcome the hot summer. A tight ponytail.",
+                "type": "debuffer",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "89": {
                 "title": "Nine-Tailed Fox",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A great spirit of legend known as the nine-tailed fox.",
+                "type": "debuffer",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -10447,18 +10455,18 @@
         "variants": {
             "01": {
                 "title": "Flower of Justice",
-                "description": "",
-                "type": "healer",
+                "description": "Upon fusing with the bow of a miracle-working monk, Mafdet was reborn.",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Justice Incarnate",
-                "description": "",
-                "type": "healer",
+                "description": "Upon fusing with the bow of a miracle-working monk, Mafdet became justice incarnate.",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             }
         }
