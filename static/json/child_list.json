@@ -11791,18 +11791,18 @@
         "variants": {
             "01": {
                 "title": "Chaser",
-                "description": "",
-                "type": "healer",
+                "description": "Even if I run away beyond the horizon of the demon world you can't escape Kaka's bullets.",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Shadow",
-                "description": "",
-                "type": "healer",
+                "description": "If you hear the wind in a city at night, be careful. It must be the sound of Kaka's bullet flying.",
+                "type": "attack",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -11814,32 +11814,32 @@
                 "title": "Marauder",
                 "description": "A scythe used by Cacus, the Witch of Hell, to cut down greedy demons.",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Freedom",
                 "description": "The infernal flames surrounding Cacus, the Witch, burn greedy demons.",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "Boss Cow",
                 "description": "A costume her sister got her in celebration of the new year.",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "88": {
                 "title": "Freedom",
-                "description": "Duplicated",
+                "description": "The infernal flames surrounding Cacus, the Witch, burn greedy demons.",
                 "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -11849,26 +11849,26 @@
         "variants": {
             "01": {
                 "title": "Remembering",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "This is the image of Aurora that remains somewhere in Mitra's memories.",
+                "type": "support",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Confessing",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "From beyond my memory, I heard Aurora flapping its wings.",
+                "type": "support",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "Mate",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "This is the new uniform of St. Michael's School.    ",
+                "type": "support",
+                "attribute": "leaf",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -11878,18 +11878,18 @@
         "variants": {
             "01": {
                 "title": "Sworn",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Theresa's sword forged with strong will. He does everything to protect her.",
+                "type": "support",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Rosary",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Teresa's sword shines. To guide her astray.",
+                "type": "support",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -11899,26 +11899,26 @@
         "variants": {
             "01": {
                 "title": "Paradise Lost",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "It is the beautiful but deadly dark red sword of the demon Eve.",
+                "type": "support",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Dejected",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Eve's blue sword shines at the end of the sky.",
+                "type": "support",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "Autumn",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "A night when a large and bright full moon illuminates the ground. Eve's outfit prepared for today exudes beauty.",
+                "type": "support",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -11928,34 +11928,34 @@
         "variants": {
             "01": {
                 "title": "Magnificent",
-                "description": "",
-                "type": "healer",
+                "description": "Discern what is evil, It is the spear of Arahat that purifies impurities.",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Immortal",
-                "description": "",
-                "type": "healer",
+                "description": "Defeat false opinions, It is the spear of Arhat that disciplines demonic forces.",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "Bodhisattva",
-                "description": "",
-                "type": "healer",
+                "description": "An Arhat I met in the world of the mind. A light as clear and calm as water surrounds her.",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "11": {
                 "title": "Naive",
-                "description": "",
-                "type": "healer",
+                "description": "It is the civilian clothes of an arhat who dreams of a new beginning. Kararatri’s frugality is evident.",
+                "type": "support",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -11965,26 +11965,26 @@
         "variants": {
             "01": {
                 "title": "Loyal",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "defense",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Upright",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "defense",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "88": {
                 "title": "Upright",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "defense",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -11994,18 +11994,18 @@
         "variants": {
             "01": {
                 "title": "Carefree",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "debuffer",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Yearning",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "debuffer",
+                "attribute": "darkness",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -12015,18 +12015,18 @@
         "variants": {
             "01": {
                 "title": "Severe",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "The witch Ziva, who had been sleeping in a blizzard, opened her eyes.",
+                "type": "support",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Burning",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "The cold of the snowy mountains and the heat of hell it dances at the fingertips of the demon Jiva.",
+                "type": "support",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -12036,34 +12036,34 @@
         "variants": {
             "00": {
                 "title": "Human",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Unknown.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "01": {
                 "title": "Whispering",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Metis' tightly closed lips. What is the truth she hides?",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Truth",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Metis, who looked like a doll, smiled warmly.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "The neat school uniform of the Metis who followed Aria into the Ashram.",
+                "type": "attack",
+                "attribute": "fire",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -12073,34 +12073,34 @@
         "variants": {
             "01": {
                 "title": "Brilliant",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Fabulous + stage costumes created with everyone’s dreams and passion.",
+                "type": "debuffer",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Frozen Gale",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Fabulous + stage costumes created to present the best stage.",
+                "type": "debuffer",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "10": {
                 "title": "Tip Top",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Thanks to you all, I finally have the wings of my dreams I was able to open my eyes wide.",
+                "type": "debuffer",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             },
             "11": {
                 "title": "School Uniform",
-                "description": "",
-                "type": "healer",
-                "attribute": "water",
-                "stars": "three",
+                "description": "Aria's cute school uniform after entering Ashram.",
+                "type": "debuffer",
+                "attribute": "light",
+                "stars": "five",
                 "artist": ""
             }
         }
@@ -12110,18 +12110,18 @@
         "variants": {
             "01": {
                 "title": "Sparkling",
-                "description": "",
-                "type": "healer",
+                "description": "Fabulous+ stage costumes specially created for the year-end stage",
+                "type": "defense",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             },
             "02": {
                 "title": "Snowy",
-                "description": "",
-                "type": "healer",
+                "description": "Wings of hope spread to spread the songs of Fabulous+",
+                "type": "defense",
                 "attribute": "water",
-                "stars": "three",
+                "stars": "five",
                 "artist": ""
             }
         }
